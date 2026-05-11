@@ -1,0 +1,549 @@
+{
+  "surah": 79,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
+      "start": 3.22,
+      "end": 10.22,
+      "matched_text": "بسم الله الرحمن الرحيم 9 والنازعات غرقى",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        12
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلنَّـٰشِطَـٰتِ نَشْطًا",
+      "start": 10.22,
+      "end": 13.66,
+      "matched_text": "والناشقات نشقى",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        14
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلسَّـٰبِحَـٰتِ سَبْحًا",
+      "start": 13.66,
+      "end": 16.86,
+      "matched_text": "والسابحات سبحى",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        16
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "فَٱلسَّـٰبِقَـٰتِ سَبْقًا",
+      "start": 16.86,
+      "end": 19.86,
+      "matched_text": "فالسابقات سبقى",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَٱلْمُدَبِّرَٰتِ أَمْرًا",
+      "start": 19.86,
+      "end": 23.02,
+      "matched_text": "فالمدبرات أمرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        21
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ",
+      "start": 23.02,
+      "end": 26,
+      "matched_text": "يوم ترجف الواجفة",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+      "start": 26,
+      "end": 28.68,
+      "matched_text": "تتبعها الوادفة",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        26
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+      "start": 28.68,
+      "end": 33.58,
+      "matched_text": "قلوبي يوم إذ واجفة",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        30
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "أَبْصَـٰرُهَا خَـٰشِعَةٌ",
+      "start": 33.58,
+      "end": 36.34,
+      "matched_text": "أبصارها خاشعة",
+      "confidence": 1,
+      "matched_word_indices": [
+        31,
+        32
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+      "start": 36.8,
+      "end": 42.94,
+      "matched_text": "يقولون أئنا لمردو دون في الحافرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        39
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "أَءِذَا كُنَّا عِظَـٰمًا نَّخِرَةً",
+      "start": 43.4,
+      "end": 47.87,
+      "matched_text": "أئذا كنخرة",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        41,
+        42
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+      "start": 48.21,
+      "end": 53.09,
+      "matched_text": "قالوا تلك إذا إن كروة الخاسرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        49
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ",
+      "start": 53.71,
+      "end": 56.39,
+      "matched_text": "فإنما هي زجرة",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        51,
+        53
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+      "start": 58.68,
+      "end": 61.98,
+      "matched_text": "فإذا هم بالساهرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        55,
+        57
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+      "start": 62.48,
+      "end": 64.66,
+      "matched_text": "هل أتاك حديث",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        59,
+        61
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+      "start": 66.08,
+      "end": 72.31,
+      "matched_text": "إذ نادى ربه بالوقوة",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        64,
+        67
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+      "start": 72.31,
+      "end": 77.31,
+      "matched_text": "إذهب إلىه طغا",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        68,
+        70
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+      "start": 78.85,
+      "end": 82.21,
+      "matched_text": "لك إلى تزكى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        71,
+        73
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+      "start": 82.21,
+      "end": 86.69,
+      "matched_text": "وأهديك إلى ربك فتخشى",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+      "start": 87.09,
+      "end": 90.55,
+      "matched_text": "فأراه الآية الكبرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        79,
+        81
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "فَكَذَّبَ وَعَصَىٰ",
+      "start": 90.55,
+      "end": 92.87,
+      "matched_text": "فكذب وعصى",
+      "confidence": 1,
+      "matched_word_indices": [
+        82,
+        83
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+      "start": 92.87,
+      "end": 96.51,
+      "matched_text": "ثم يسعى",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        84,
+        85
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "فَحَشَرَ فَنَادَىٰ",
+      "start": 96.51,
+      "end": 98.55,
+      "matched_text": "فحشر فنادى",
+      "confidence": 1,
+      "matched_word_indices": [
+        86,
+        87
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+      "start": 98.55,
+      "end": 102.12,
+      "matched_text": "فقال الأعلى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        88,
+        89
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+      "start": 102.12,
+      "end": 104.14,
+      "matched_text": "فأخذه الله",
+      "confidence": 0.4,
+      "matched_word_indices": [
+        90,
+        91
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ",
+      "start": 108.01,
+      "end": 114.64,
+      "matched_text": "إن في ذيخشى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        93,
+        95
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+      "start": 114.64,
+      "end": 119.48,
+      "matched_text": "أنتم أشد خلقا أم السماء",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        96,
+        100
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "start": 123.09,
+      "end": 126.19,
+      "matched_text": "رفع سمكها فسورط",
+      "confidence": 1,
+      "matched_word_indices": [
+        101,
+        103
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+      "start": 127.89,
+      "end": 131.81,
+      "matched_text": "شليلها وأخرج رحاها",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        104,
+        106
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ",
+      "start": 131.81,
+      "end": 133.07,
+      "matched_text": "والأرض",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        107,
+        107
+      ]
+    },
+    {
+      "ayah": 31,
+      "text": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+      "start": 133.07,
+      "end": 138.12,
+      "matched_text": "بعرج منها",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        108,
+        109
+      ]
+    },
+    {
+      "ayah": 32,
+      "text": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 33,
+      "text": "مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+      "start": 144.58,
+      "end": 146.96,
+      "matched_text": "متاع لكم",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        110,
+        111
+      ]
+    },
+    {
+      "ayah": 34,
+      "text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 35,
+      "text": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ",
+      "start": 148.88,
+      "end": 150.66,
+      "matched_text": "لذكر",
+      "confidence": 0.2,
+      "matched_word_indices": [
+        114,
+        114
+      ]
+    },
+    {
+      "ayah": 36,
+      "text": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+      "start": 165.2,
+      "end": 168.12,
+      "matched_text": "الجهيم لمن يرى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        116,
+        118
+      ]
+    },
+    {
+      "ayah": 37,
+      "text": "فَأَمَّا مَن طَغَىٰ",
+      "start": 168.12,
+      "end": 169.62,
+      "matched_text": "فأما",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        119,
+        119
+      ]
+    },
+    {
+      "ayah": 38,
+      "text": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 39,
+      "text": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+      "start": 175.3,
+      "end": 179.68,
+      "matched_text": "فإن الجهيم هي المأوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        121,
+        124
+      ]
+    },
+    {
+      "ayah": 40,
+      "text": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+      "start": 179.68,
+      "end": 188.56,
+      "matched_text": "وأما من خوف مقنفس عن الهوى",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        125,
+        130
+      ]
+    },
+    {
+      "ayah": 41,
+      "text": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+      "start": 188.56,
+      "end": 193.08,
+      "matched_text": "فإن الجنة هي المأوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        131,
+        134
+      ]
+    },
+    {
+      "ayah": 42,
+      "text": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+      "start": 193.08,
+      "end": 197.66,
+      "matched_text": "يسألونك عن الساعة أيان",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        135,
+        138
+      ]
+    },
+    {
+      "ayah": 43,
+      "text": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ",
+      "start": 199.42,
+      "end": 200.06,
+      "matched_text": "ميم",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        139,
+        139
+      ]
+    },
+    {
+      "ayah": 44,
+      "text": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+      "start": 200.06,
+      "end": 207.99,
+      "matched_text": "أبك منتهاها",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        140,
+        141
+      ]
+    },
+    {
+      "ayah": 45,
+      "text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+      "start": 207.99,
+      "end": 214.92,
+      "matched_text": "إنما أنتم يخشاها",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        142,
+        144
+      ]
+    },
+    {
+      "ayah": 46,
+      "text": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+      "start": 214.92,
+      "end": 224.44,
+      "matched_text": "كأنهم يوم يرونها لم يلبثوا إلا عشية أو دحاها",
+      "confidence": 1,
+      "matched_word_indices": [
+        145,
+        153
+      ]
+    }
+  ],
+  "alignment_score": 74.678
+}

@@ -1,0 +1,186 @@
+{
+  "surah": 91,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "start": 5.29,
+      "end": 11.81,
+      "matched_text": "بسم الله الرحمن الرحيم والشمس وضحها",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        10
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "start": 11.81,
+      "end": 14.45,
+      "matched_text": "والقمر إذا تلاها",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        13
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "start": 14.45,
+      "end": 17.61,
+      "matched_text": "والنهار إذا جلها",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        16
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "start": 17.61,
+      "end": 20.53,
+      "matched_text": "والليل إذا يغشها",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        19
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "start": 20.53,
+      "end": 25.05,
+      "matched_text": "والسماء وما بناها",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        22
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "start": 27.53,
+      "end": 31.21,
+      "matched_text": "وَلَرْضِ وَمَا طَحَاهَا",
+      "confidence": 1,
+      "matched_word_indices": [
+        26,
+        28
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "start": 31.21,
+      "end": 34.45,
+      "matched_text": "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "confidence": 1,
+      "matched_word_indices": [
+        29,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "start": 34.45,
+      "end": 38.49,
+      "matched_text": "فَأَرْهَمَهَا فُجُورَها وتقواها",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        34
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "start": 38.49,
+      "end": 41.87,
+      "matched_text": "قد افلح من زكاها",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        38
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "start": 41.87,
+      "end": 45.49,
+      "matched_text": "وقد خاب من دساها",
+      "confidence": 1,
+      "matched_word_indices": [
+        39,
+        42
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "start": 46.55,
+      "end": 50.27,
+      "matched_text": "كذبت ثمود بطغوىها",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        46
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "start": 50.27,
+      "end": 54.49,
+      "matched_text": "إذ بعث أشقها",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "start": 54.49,
+      "end": 60.75,
+      "matched_text": "فقال لهم رسول الله ناقت الله وسقها",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        56
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "start": 60.75,
+      "end": 75.67,
+      "matched_text": "فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها",
+      "confidence": 1,
+      "matched_word_indices": [
+        57,
+        63
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "start": 76.31,
+      "end": 79.65,
+      "matched_text": "فلا يخافع قباها",
+      "confidence": 1,
+      "matched_word_indices": [
+        64,
+        66
+      ]
+    }
+  ],
+  "alignment_score": 46.596
+}

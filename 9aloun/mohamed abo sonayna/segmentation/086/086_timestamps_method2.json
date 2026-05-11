@@ -1,0 +1,57 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.84,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+    "matched_ayah_id": null,
+    "score": 61.29032258064516
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.84,
+    "end_seconds": 19.12,
+    "start_time": "00:03",
+    "end_time": "00:19",
+    "segment_text": " والسماء والطارق وما أدرعك ما الطارق النجم الثاقب إن كل نفس لما عليها حافظ",
+    "matched_ayah_text": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "matched_ayah_id": null,
+    "score": 49.48453608247423
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 19.92,
+    "end_seconds": 40.16,
+    "start_time": "00:19",
+    "end_time": "00:40",
+    "segment_text": " فلينظر الإنسان مما خلق قلق مما دافق يخرج من بين الصلب والترائب",
+    "matched_ayah_text": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+    "matched_ayah_id": null,
+    "score": 53.333333333333336
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 41.12,
+    "end_seconds": 56.64,
+    "start_time": "00:41",
+    "end_time": "00:56",
+    "segment_text": " إنه على رجعه لقادر يوم تبنى السرائر فما له من قوة ولا ناصر",
+    "matched_ayah_text": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+    "matched_ayah_id": null,
+    "score": 54.32098765432099
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 56.64,
+    "end_seconds": 83.2,
+    "start_time": "00:56",
+    "end_time": "01:23",
+    "segment_text": " والسماء ذات الرجع والأرض ذات الصدع إنه لقول فصل وما هو بالهزل إنهم يكيدون كيدا وأكيد كيدا فمهل الكافرين أمهلهم رويدا",
+    "matched_ayah_text": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+    "matched_ayah_id": null,
+    "score": 33.56643356643356
+  }
+]

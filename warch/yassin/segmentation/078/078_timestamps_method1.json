@@ -1,0 +1,281 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 5.16,
+        "start_time": "00:00",
+        "end_time": "00:05",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+        "score": 0.46
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 15.36,
+        "end_seconds": 21.68,
+        "start_time": "00:15",
+        "end_time": "00:21",
+        "text": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+        "score": 0.54
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.68,
+        "end_seconds": 26.0,
+        "start_time": "00:21",
+        "end_time": "00:26",
+        "text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+        "score": 0.7
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 26.16,
+        "end_seconds": 29.2,
+        "start_time": "00:26",
+        "end_time": "00:29",
+        "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+        "score": 0.61
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 29.2,
+        "end_seconds": 32.0,
+        "start_time": "00:29",
+        "end_time": "00:32",
+        "text": "وَٱلْجِبَالَ أَوْتَادًا",
+        "score": 0.53
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 32.0,
+        "end_seconds": 38.4,
+        "start_time": "00:32",
+        "end_time": "00:38",
+        "text": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+        "score": 0.56
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 38.4,
+        "end_seconds": 41.92,
+        "start_time": "00:38",
+        "end_time": "00:41",
+        "text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "score": 0.68
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 41.92,
+        "end_seconds": 44.96,
+        "start_time": "00:41",
+        "end_time": "00:44",
+        "text": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+        "score": 0.62
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 44.96,
+        "end_seconds": 49.2,
+        "start_time": "00:44",
+        "end_time": "00:49",
+        "text": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+        "score": 0.55
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 49.2,
+        "end_seconds": 54.4,
+        "start_time": "00:49",
+        "end_time": "00:54",
+        "text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+        "score": 0.72
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 54.56,
+        "end_seconds": 58.4,
+        "start_time": "00:54",
+        "end_time": "00:58",
+        "text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+        "score": 0.71
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 58.4,
+        "end_seconds": 67.52,
+        "start_time": "00:58",
+        "end_time": "01:07",
+        "text": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+        "score": 0.66
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 67.52,
+        "end_seconds": 71.6,
+        "start_time": "01:07",
+        "end_time": "01:11",
+        "text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+        "score": 0.68
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 71.6,
+        "end_seconds": 75.2,
+        "start_time": "01:11",
+        "end_time": "01:15",
+        "text": "وَجَنَّـٰتٍ أَلْفَافًا",
+        "score": 0.56
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 75.2,
+        "end_seconds": 80.8,
+        "start_time": "01:15",
+        "end_time": "01:20",
+        "text": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+        "score": 0.63
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 81.04,
+        "end_seconds": 86.96,
+        "start_time": "01:21",
+        "end_time": "01:26",
+        "text": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+        "score": 0.66
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 86.96,
+        "end_seconds": 95.36,
+        "start_time": "01:26",
+        "end_time": "01:35",
+        "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+        "score": 0.62
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 95.36,
+        "end_seconds": 100.32,
+        "start_time": "01:35",
+        "end_time": "01:40",
+        "text": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+        "score": 0.61
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 100.32,
+        "end_seconds": 105.84,
+        "start_time": "01:40",
+        "end_time": "01:45",
+        "text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+        "score": 0.7
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 106.08,
+        "end_seconds": 115.6,
+        "start_time": "01:46",
+        "end_time": "01:55",
+        "text": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+        "score": 0.46
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 115.6,
+        "end_seconds": 121.92,
+        "start_time": "01:55",
+        "end_time": "02:01",
+        "text": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+        "score": 0.76
+    },
+    {
+        "ayah": 25,
+        "start_seconds": 121.92,
+        "end_seconds": 131.84,
+        "start_time": "02:01",
+        "end_time": "02:11",
+        "text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+        "score": 0.54
+    },
+    {
+        "ayah": 27,
+        "start_seconds": 131.84,
+        "end_seconds": 137.28,
+        "start_time": "02:11",
+        "end_time": "02:17",
+        "text": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+        "score": 0.75
+    },
+    {
+        "ayah": 28,
+        "start_seconds": 137.28,
+        "end_seconds": 142.08,
+        "start_time": "02:17",
+        "end_time": "02:22",
+        "text": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+        "score": 0.61
+    },
+    {
+        "ayah": 30,
+        "start_seconds": 148.0,
+        "end_seconds": 156.96,
+        "start_time": "02:28",
+        "end_time": "02:36",
+        "text": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+        "score": 0.74
+    },
+    {
+        "ayah": 31,
+        "start_seconds": 157.2,
+        "end_seconds": 164.56,
+        "start_time": "02:37",
+        "end_time": "02:44",
+        "text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+        "score": 0.62
+    },
+    {
+        "ayah": 35,
+        "start_seconds": 169.36,
+        "end_seconds": 178.0,
+        "start_time": "02:49",
+        "end_time": "02:58",
+        "text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+        "score": 0.59
+    },
+    {
+        "ayah": 36,
+        "start_seconds": 178.24,
+        "end_seconds": 189.28,
+        "start_time": "02:58",
+        "end_time": "03:09",
+        "text": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+        "score": 0.72
+    },
+    {
+        "ayah": 37,
+        "start_seconds": 189.28,
+        "end_seconds": 198.48,
+        "start_time": "03:09",
+        "end_time": "03:18",
+        "text": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+        "score": 0.65
+    },
+    {
+        "ayah": 38,
+        "start_seconds": 198.72,
+        "end_seconds": 217.52,
+        "start_time": "03:18",
+        "end_time": "03:37",
+        "text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+        "score": 0.53
+    },
+    {
+        "ayah": 39,
+        "start_seconds": 220.88,
+        "end_seconds": 229.92,
+        "start_time": "03:40",
+        "end_time": "03:49",
+        "text": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+        "score": 0.45
+    }
+]

@@ -1,0 +1,114 @@
+{
+  "surah": 100,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "start": 0,
+      "end": 12.69,
+      "matched_text": "بسم الله الرحمن الرحي والعض بحى",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "start": 13.97,
+      "end": 17.3,
+      "matched_text": "فالي قد",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        7
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "start": 22.28,
+      "end": 23.06,
+      "matched_text": "صبح",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        9,
+        9
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -10.443
+}

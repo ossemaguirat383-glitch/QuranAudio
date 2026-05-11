@@ -1,0 +1,216 @@
+{
+  "surah": 87,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "start": 0,
+      "end": 14.23,
+      "matched_text": "بسم الله الرحمن الرحي سبح اسم ربك الأعلى",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "start": 15.85,
+      "end": 20.75,
+      "matched_text": "الذي خلق فسوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "start": 22.43,
+      "end": 26.93,
+      "matched_text": "والذي قدر فهدى",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        13
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "start": 28.43,
+      "end": 33.71,
+      "matched_text": "والذي أخرج المرع",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "start": 35.63,
+      "end": 36.83,
+      "matched_text": "فجعوا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        19,
+        19
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "start": 44.09,
+      "end": 46.73,
+      "matched_text": "نقرئك فلم",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        21,
+        22
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "start": 74.65,
+      "end": 76.13,
+      "matched_text": "ذكر",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        24,
+        24
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "start": 92.03,
+      "end": 94.77,
+      "matched_text": "سيأشقى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        25,
+        25
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 13,
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "start": 98.16,
+      "end": 99.22,
+      "matched_text": "أصلا",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        26,
+        26
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "start": 114.04,
+      "end": 115.02,
+      "matched_text": "قد",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        27,
+        27
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "start": 120.96,
+      "end": 125.91,
+      "matched_text": "ذكر اسمي فصلى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        29,
+        31
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "start": 125.91,
+      "end": 128.59,
+      "matched_text": "بل",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        32,
+        32
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 18,
+      "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "start": 148.4,
+      "end": 152.42,
+      "matched_text": "في الأُسُوْشُ",
+      "confidence": 0.4,
+      "matched_word_indices": [
+        36,
+        37
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": 3.325
+}

@@ -1,0 +1,119 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 15.44,
+        "end_seconds": 21.0,
+        "start_time": "00:15",
+        "end_time": "00:21",
+        "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 21.0,
+        "end_seconds": 25.52,
+        "start_time": "00:21",
+        "end_time": "00:25",
+        "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+        "score": 0.53
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 25.52,
+        "end_seconds": 32.0,
+        "start_time": "00:25",
+        "end_time": "00:32",
+        "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 32.0,
+        "end_seconds": 36.0,
+        "start_time": "00:32",
+        "end_time": "00:36",
+        "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+        "score": 0.6
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 36.0,
+        "end_seconds": 42.0,
+        "start_time": "00:36",
+        "end_time": "00:42",
+        "text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+        "score": 0.62
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 42.0,
+        "end_seconds": 48.24,
+        "start_time": "00:42",
+        "end_time": "00:48",
+        "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 48.24,
+        "end_seconds": 53.52,
+        "start_time": "00:48",
+        "end_time": "00:53",
+        "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "score": 0.6
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 53.52,
+        "end_seconds": 59.04,
+        "start_time": "00:53",
+        "end_time": "00:59",
+        "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+        "score": 0.65
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 59.04,
+        "end_seconds": 64.08,
+        "start_time": "00:59",
+        "end_time": "01:04",
+        "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+        "score": 0.61
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 64.24,
+        "end_seconds": 69.28,
+        "start_time": "01:04",
+        "end_time": "01:09",
+        "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+        "score": 0.59
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 69.28,
+        "end_seconds": 78.24,
+        "start_time": "01:09",
+        "end_time": "01:18",
+        "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 82.24,
+        "end_seconds": 92.0,
+        "start_time": "01:22",
+        "end_time": "01:32",
+        "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+        "score": 0.5
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 92.0,
+        "end_seconds": 96.64,
+        "start_time": "01:32",
+        "end_time": "01:36",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.6
+    }
+]

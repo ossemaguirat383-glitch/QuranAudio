@@ -1,0 +1,78 @@
+{
+  "surah": 109,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "start": 5.29,
+      "end": 15.11,
+      "matched_text": "بسم الله الرحمن الرحيم قل يا أيها الكافرون",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        12
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "start": 15.11,
+      "end": 19.55,
+      "matched_text": "لا أعبد ما تعبدون",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        16
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "start": 19.55,
+      "end": 27.53,
+      "matched_text": "ولا أنتم عابدون ما أعبد",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        21
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "start": 27.53,
+      "end": 35.18,
+      "matched_text": "ولا أنا عابد ما عبدتم",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        26
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "start": 35.18,
+      "end": 42.74,
+      "matched_text": "ولا أنتم عابدون ما أعبد",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        31
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "start": 42.74,
+      "end": 47.52,
+      "matched_text": "لكم دينكم وليدين",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        32,
+        34
+      ]
+    }
+  ],
+  "alignment_score": 23.762
+}

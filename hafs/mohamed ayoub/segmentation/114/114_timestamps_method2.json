@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.6,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 2.6,
+    "end_seconds": 6.640000000000001,
+    "start_time": "00:02",
+    "end_time": "00:06",
+    "segment_text": " قل أعوذ من رب الناس",
+    "matched_ayah_text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 51.28205128205128
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 6.640000000000001,
+    "end_seconds": 9.6,
+    "start_time": "00:06",
+    "end_time": "00:09",
+    "segment_text": " ملك الناس",
+    "matched_ayah_text": "مَلِكِ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 9.6,
+    "end_seconds": 13.040000000000001,
+    "start_time": "00:09",
+    "end_time": "00:13",
+    "segment_text": " إله الناس",
+    "matched_ayah_text": "إِلَـٰهِ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 84.21052631578947
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 13.040000000000001,
+    "end_seconds": 18.52,
+    "start_time": "00:13",
+    "end_time": "00:18",
+    "segment_text": " من شر الوسواس الخناس",
+    "matched_ayah_text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 18.52,
+    "end_seconds": 23.92,
+    "start_time": "00:18",
+    "end_time": "00:23",
+    "segment_text": " الذي وسوس في صدور الناس",
+    "matched_ayah_text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 89.36170212765957
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 23.92,
+    "end_seconds": 29.92,
+    "start_time": "00:23",
+    "end_time": "00:29",
+    "segment_text": " من الجنة والناس",
+    "matched_ayah_text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 86.66666666666667
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 30.0,
+    "end_seconds": 32.0,
+    "start_time": "00:30",
+    "end_time": "00:32",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  }
+]

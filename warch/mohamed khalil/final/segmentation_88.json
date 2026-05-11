@@ -1,0 +1,288 @@
+{
+  "surah": 88,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "start": 0,
+      "end": 15.01,
+      "matched_text": "بسم الله الرحمن الرحيم هل أتاك حديث الراشية",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "start": 21.12,
+      "end": 23.42,
+      "matched_text": "خاشعة",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        9,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "عَامِلَةٌ نَّاصِبَةٌ",
+      "start": 26.43,
+      "end": 29.49,
+      "matched_text": "الناصبة",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        10,
+        10
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "start": 30.77,
+      "end": 33.15,
+      "matched_text": "تصلنا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        11,
+        11
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "start": 37.41,
+      "end": 39.53,
+      "matched_text": "تسقام",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        12,
+        12
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "start": 45.35,
+      "end": 48.39,
+      "matched_text": "ليس لهم طعا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "فِى جَنَّةٍ عَالِيَةٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "start": 75.18,
+      "end": 76.08,
+      "matched_text": "لسع",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        16,
+        16
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 13,
+      "text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 14,
+      "text": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 16,
+      "text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "start": 123.47,
+      "end": 125.07,
+      "matched_text": "وزرسة",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        17,
+        17
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "start": 130.95,
+      "end": 132.11,
+      "matched_text": "أفالى",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        19,
+        19
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "start": 141.97,
+      "end": 144.23,
+      "matched_text": "وإلى السمى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        20,
+        21
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "start": 149.76,
+      "end": 150.8,
+      "matched_text": "وإلى",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        22,
+        22
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "start": 157.06,
+      "end": 162.73,
+      "matched_text": "وإلى الأعيف سطحى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        24,
+        26
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "start": 162.73,
+      "end": 166.91,
+      "matched_text": "فذكر إلا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        27,
+        28
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "start": 178.76,
+      "end": 180.86,
+      "matched_text": "صيطر",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        30,
+        30
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "start": 182.21,
+      "end": 183.07,
+      "matched_text": "إلا",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        31,
+        31
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 25,
+      "text": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 26,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "start": 213.44,
+      "end": 214.46,
+      "matched_text": "حساب",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        32,
+        32
+      ]
+    }
+  ],
+  "alignment_score": -11.464
+}

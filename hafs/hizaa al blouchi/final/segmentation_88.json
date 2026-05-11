@@ -1,0 +1,318 @@
+{
+  "surah": 88,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "start": 0.34,
+      "end": 7.5,
+      "matched_text": "بسم الله الرحمن الرحيم هل أتاك حديث الغاشية",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "start": 7.5,
+      "end": 11.36,
+      "matched_text": "وجوه يومئذ خاشعة",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "عَامِلَةٌ نَّاصِبَةٌ",
+      "start": 11.36,
+      "end": 14.94,
+      "matched_text": "عاملة الناصبة",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        12
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "start": 14.94,
+      "end": 17.84,
+      "matched_text": "تصلى نارا حامية",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "start": 17.84,
+      "end": 21.24,
+      "matched_text": "تسقى من عين الآنية",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "start": 21.24,
+      "end": 26.46,
+      "matched_text": "ليس لهم طعام إلا من ضريع",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        25
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "start": 26.46,
+      "end": 31.54,
+      "matched_text": "لا يسمِل ولا يُغني من جُوع",
+      "confidence": 1,
+      "matched_word_indices": [
+        26,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "start": 31.54,
+      "end": 36.08,
+      "matched_text": "وجُوه يومئذ ناعِمَ",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        34
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "start": 36.08,
+      "end": 38.54,
+      "matched_text": "لسعيها راضِيَة",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        36
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "فِى جَنَّةٍ عَالِيَةٍ",
+      "start": 38.54,
+      "end": 42.1,
+      "matched_text": "في جنةٍ عالِيَة",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        39
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "start": 42.1,
+      "end": 45.12,
+      "matched_text": "لا تسمع فيها لاغيا",
+      "confidence": 1,
+      "matched_word_indices": [
+        40,
+        43
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "start": 45.12,
+      "end": 48.78,
+      "matched_text": "فيها عيل جارية",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        46
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "start": 48.78,
+      "end": 52.2,
+      "matched_text": "فيها سرور مرفوع",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "start": 52.2,
+      "end": 55.58,
+      "matched_text": "وأكواب موضوع",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        51
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "start": 55.58,
+      "end": 58.32,
+      "matched_text": "ونمارق مصوفة",
+      "confidence": 1,
+      "matched_word_indices": [
+        52,
+        53
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "start": 58.32,
+      "end": 61.8,
+      "matched_text": "وزربي مبثوثة",
+      "confidence": 1,
+      "matched_word_indices": [
+        54,
+        55
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "start": 61.8,
+      "end": 67.04,
+      "matched_text": "أفلا ينظرون إلى الإبل كيف خلقت",
+      "confidence": 1,
+      "matched_word_indices": [
+        56,
+        61
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "start": 67.04,
+      "end": 71.52,
+      "matched_text": "وإلى السماء كيف رفعت",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        65
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "start": 71.52,
+      "end": 74.88,
+      "matched_text": "وإلى الجبال كيف نصبت",
+      "confidence": 1,
+      "matched_word_indices": [
+        66,
+        69
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "start": 74.88,
+      "end": 77.68,
+      "matched_text": "وإلى الأرض كيف سطحت",
+      "confidence": 1,
+      "matched_word_indices": [
+        70,
+        73
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "start": 77.68,
+      "end": 83.54,
+      "matched_text": "فذكر إنما أنتم ذكر",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "start": 83.54,
+      "end": 87.26,
+      "matched_text": "لاست عليهم بمسيطر",
+      "confidence": 1,
+      "matched_word_indices": [
+        78,
+        80
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "start": 87.26,
+      "end": 90.94,
+      "matched_text": "إلا من تولى وكفر",
+      "confidence": 1,
+      "matched_word_indices": [
+        81,
+        84
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "start": 90.94,
+      "end": 95.06,
+      "matched_text": "فيعذبه الله العذاب الأكبر",
+      "confidence": 1,
+      "matched_word_indices": [
+        85,
+        88
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "start": 95.06,
+      "end": 99.22,
+      "matched_text": "إن إلينا إيابهم",
+      "confidence": 1,
+      "matched_word_indices": [
+        89,
+        91
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "start": 99.22,
+      "end": 104.52,
+      "matched_text": "ثم إن علينا حسابهم",
+      "confidence": 1,
+      "matched_word_indices": [
+        92,
+        95
+      ]
+    }
+  ],
+  "alignment_score": 89.657
+}

@@ -1,0 +1,63 @@
+{
+  "surah": 97,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "start": 0,
+      "end": 17.61,
+      "matched_text": "بسم الله الرحمن الرحيم إنزلنا القدر",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "start": 19.15,
+      "end": 26.73,
+      "matched_text": "وما القدر",
+      "confidence": 0.4,
+      "matched_word_indices": [
+        6,
+        7
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "start": 28.84,
+      "end": 35.96,
+      "matched_text": "إيلة القدر خير في شهر",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        8,
+        12
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "start": 38.39,
+      "end": 39.97,
+      "matched_text": "تنزل",
+      "confidence": 0.111,
+      "matched_word_indices": [
+        13,
+        13
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": 1.875
+}

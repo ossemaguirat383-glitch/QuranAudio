@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.2,
+        "start_time": "00:00",
+        "end_time": "00:04",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+        "score": 0.51
+    },
+    {
+        "ayah": 2,
+        "start_seconds": 7.84,
+        "end_seconds": 11.76,
+        "start_time": "00:07",
+        "end_time": "00:11",
+        "text": "مَا ٱلْقَارِعَةُ",
+        "score": 0.5
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 11.76,
+        "end_seconds": 23.76,
+        "start_time": "00:11",
+        "end_time": "00:23",
+        "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "score": 0.49
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 24.56,
+        "end_seconds": 33.36,
+        "start_time": "00:24",
+        "end_time": "00:33",
+        "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "score": 0.49
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 34.32,
+        "end_seconds": 42.36,
+        "start_time": "00:34",
+        "end_time": "00:42",
+        "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "score": 0.55
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 42.92,
+        "end_seconds": 48.6,
+        "start_time": "00:42",
+        "end_time": "00:48",
+        "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "score": 0.53
+    }
+]

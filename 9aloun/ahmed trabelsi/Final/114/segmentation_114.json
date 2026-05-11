@@ -1,0 +1,41 @@
+{
+  "surah": 114,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "start_seconds": 0,
+      "end_seconds": 10.0
+    },
+    {
+      "ayah": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "start_seconds": 10.0,
+      "end_seconds": 13.24
+    },
+    {
+      "ayah": 3,
+      "text": "إِلَـٰهِ ٱلنَّاسِ",
+      "start_seconds": 13.24,
+      "end_seconds": 16.64
+    },
+    {
+      "ayah": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "start_seconds": 16.64,
+      "end_seconds": 22.6
+    },
+    {
+      "ayah": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "start_seconds": 22.6,
+      "end_seconds": 28.6
+    },
+    {
+      "ayah": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "start_seconds": 28.6,
+      "end_seconds": 34.04
+    }
+  ]
+}

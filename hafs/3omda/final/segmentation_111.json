@@ -1,0 +1,66 @@
+{
+  "surah": 111,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "start": 2,
+      "end": 13.26,
+      "matched_text": "بسم الله الرحمن الرحيم تبت يدى أبي لها بو وتب",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        9
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "start": 14,
+      "end": 18.7,
+      "matched_text": "ما أغنى عنه ما له وما كسب",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        16
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "start": 19.3,
+      "end": 23.26,
+      "matched_text": "سيصلى نارا ذات لها",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        20
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "start": 24.14,
+      "end": 28.66,
+      "matched_text": "ومرأته حمالة الحقب",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "start": 28.66,
+      "end": 34.24,
+      "matched_text": "في جيدها حدل من مسد",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        29
+      ]
+    }
+  ],
+  "alignment_score": 22.236
+}

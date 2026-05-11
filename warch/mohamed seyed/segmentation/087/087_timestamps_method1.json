@@ -1,0 +1,119 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 15.2,
+        "end_seconds": 17.92,
+        "start_time": "00:15",
+        "end_time": "00:17",
+        "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+        "score": 0.55
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 17.92,
+        "end_seconds": 22.0,
+        "start_time": "00:17",
+        "end_time": "00:22",
+        "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+        "score": 0.58
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 22.0,
+        "end_seconds": 27.2,
+        "start_time": "00:22",
+        "end_time": "00:27",
+        "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+        "score": 0.64
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 27.2,
+        "end_seconds": 38.4,
+        "start_time": "00:27",
+        "end_time": "00:38",
+        "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+        "score": 0.52
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 38.4,
+        "end_seconds": 44.0,
+        "start_time": "00:38",
+        "end_time": "00:44",
+        "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 44.0,
+        "end_seconds": 47.2,
+        "start_time": "00:44",
+        "end_time": "00:47",
+        "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 47.2,
+        "end_seconds": 51.6,
+        "start_time": "00:47",
+        "end_time": "00:51",
+        "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+        "score": 0.53
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 61.6,
+        "end_seconds": 67.2,
+        "start_time": "01:01",
+        "end_time": "01:07",
+        "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "score": 0.73
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 67.2,
+        "end_seconds": 74.64,
+        "start_time": "01:07",
+        "end_time": "01:14",
+        "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 74.64,
+        "end_seconds": 78.56,
+        "start_time": "01:14",
+        "end_time": "01:18",
+        "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 78.56,
+        "end_seconds": 83.44,
+        "start_time": "01:18",
+        "end_time": "01:23",
+        "text": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+        "score": 0.64
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 83.44,
+        "end_seconds": 88.64,
+        "start_time": "01:23",
+        "end_time": "01:28",
+        "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 88.64,
+        "end_seconds": 92.64,
+        "start_time": "01:28",
+        "end_time": "01:32",
+        "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+        "score": 0.7
+    }
+]

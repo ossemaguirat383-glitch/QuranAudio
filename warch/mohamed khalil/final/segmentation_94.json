@@ -1,0 +1,102 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "start": 0,
+      "end": 13.01,
+      "matched_text": "بسم الله الرحمن الرحي ألم نشرح لك صدرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "start": 15.63,
+      "end": 19.95,
+      "matched_text": "ووضعنا عنك وزرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "start": 21.89,
+      "end": 27.41,
+      "matched_text": "الذين قضوا رك",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        11,
+        13
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "start": 28.23,
+      "end": 32.69,
+      "matched_text": "ورفعنا لك ذكرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        16
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 34.9,
+      "end": 36.96,
+      "matched_text": "فإنما",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        17,
+        17
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 38.27,
+      "end": 42.61,
+      "matched_text": "عيسرا",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        18,
+        18
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "start": 48.26,
+      "end": 49.66,
+      "matched_text": "فإذا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        19,
+        19
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "start": 54.16,
+      "end": 55.34,
+      "matched_text": "وإلى",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        21,
+        21
+      ]
+    }
+  ],
+  "alignment_score": 12.9
+}

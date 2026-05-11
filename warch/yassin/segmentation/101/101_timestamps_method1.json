@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.36,
+        "start_time": "00:00",
+        "end_time": "00:04",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+        "score": 0.51
+    },
+    {
+        "ayah": 2,
+        "start_seconds": 8.2,
+        "end_seconds": 15.24,
+        "start_time": "00:08",
+        "end_time": "00:15",
+        "text": "مَا ٱلْقَارِعَةُ",
+        "score": 0.51
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 15.24,
+        "end_seconds": 21.36,
+        "start_time": "00:15",
+        "end_time": "00:21",
+        "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.36,
+        "end_seconds": 27.16,
+        "start_time": "00:21",
+        "end_time": "00:27",
+        "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+        "score": 0.59
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 27.16,
+        "end_seconds": 36.76,
+        "start_time": "00:27",
+        "end_time": "00:36",
+        "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "score": 0.49
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 36.76,
+        "end_seconds": 44.32,
+        "start_time": "00:36",
+        "end_time": "00:44",
+        "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "score": 0.55
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 44.32,
+        "end_seconds": 52.84,
+        "start_time": "00:44",
+        "end_time": "00:52",
+        "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "score": 0.54
+    }
+]

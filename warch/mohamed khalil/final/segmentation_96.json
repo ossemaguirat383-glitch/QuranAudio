@@ -1,0 +1,189 @@
+{
+  "surah": 96,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "start": 0,
+      "end": 12.84,
+      "matched_text": "بسم الله الرحمن الرحي 2. إقرأ بسم ربك الذي",
+      "confidence": 0.889,
+      "matched_word_indices": [
+        0,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "start": 12.84,
+      "end": 20.58,
+      "matched_text": "خلق الإنسان من",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        9,
+        11
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "start": 23.28,
+      "end": 28.8,
+      "matched_text": "إقرأ وربك الأكرم",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "start": 28.8,
+      "end": 34.18,
+      "matched_text": "الذي علم بالقلم",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 16,
+      "text": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -13.339
+}

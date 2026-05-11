@@ -1,0 +1,156 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+    "matched_ayah_id": null,
+    "score": 49.056603773584904
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 10.0,
+    "start_time": "00:05",
+    "end_time": "00:10",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 73.07692307692308
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.0,
+    "end_seconds": 22.0,
+    "start_time": "00:10",
+    "end_time": "00:22",
+    "segment_text": " والفجر وليال عشر والشفع والوتر والليل إذا يسري هل في ذلك قسم لذي حجر",
+    "matched_ayah_text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+    "matched_ayah_id": null,
+    "score": 46.666666666666664
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 22.0,
+    "end_seconds": 33.0,
+    "start_time": "00:22",
+    "end_time": "00:33",
+    "segment_text": " ألم تر كيف فعل ربك بعادن رمذات العماد التي لم يخلق مثلها في البلاد",
+    "matched_ayah_text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+    "matched_ayah_id": null,
+    "score": 53.191489361702125
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 33.0,
+    "end_seconds": 44.0,
+    "start_time": "00:33",
+    "end_time": "00:44",
+    "segment_text": " وثمود الذين جابوا الصخر بالواد",
+    "matched_ayah_text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+    "matched_ayah_id": null,
+    "score": 88.52459016393442
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 44.0,
+    "end_seconds": 56.0,
+    "start_time": "00:44",
+    "end_time": "00:56",
+    "segment_text": " فأكثروا فيها الفساد فصب عليهم ربك سوط عذاب",
+    "matched_ayah_text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+    "matched_ayah_id": null,
+    "score": 68.75
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 56.0,
+    "end_seconds": 62.0,
+    "start_time": "00:56",
+    "end_time": "01:02",
+    "segment_text": " إن ربك لبالمرصاد",
+    "matched_ayah_text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+    "matched_ayah_id": null,
+    "score": 93.75
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 62.0,
+    "end_seconds": 76.0,
+    "start_time": "01:02",
+    "end_time": "01:16",
+    "segment_text": " فأما الإنسان إذا مبتله ربه فأكرمه ونعمه فيقول ربي أكرم",
+    "matched_ayah_text": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+    "matched_ayah_id": null,
+    "score": 88.13559322033898
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 76.0,
+    "end_seconds": 90.0,
+    "start_time": "01:16",
+    "end_time": "01:30",
+    "segment_text": " وأما إذا مبتله فقدر عليه رزقه فيقول ربي أهانني كلا",
+    "matched_ayah_text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+    "matched_ayah_id": null,
+    "score": 85.4368932038835
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 90.0,
+    "end_seconds": 111.0,
+    "start_time": "01:30",
+    "end_time": "01:51",
+    "segment_text": " بل لا تكرمون اليتيم ولا تحبون على طعام المسكين وتأكلون التراث أكلا لما وتحبون المال حبا جما كلا",
+    "matched_ayah_text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "matched_ayah_id": null,
+    "score": 38.70967741935484
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 111.0,
+    "end_seconds": 138.0,
+    "start_time": "01:51",
+    "end_time": "02:18",
+    "segment_text": " إذا دكت لرض دكا دكا وجاء ربك والملك صفا صفا وجيأ يومئذ بجهنم يومئذ يتذكر الإنسان وأنى له الذكرى",
+    "matched_ayah_text": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 62.33766233766234
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 138.0,
+    "end_seconds": 143.0,
+    "start_time": "02:18",
+    "end_time": "02:23",
+    "segment_text": " يقول يا ليتني قدمت لحياتي",
+    "matched_ayah_text": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+    "matched_ayah_id": null,
+    "score": 93.87755102040816
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 143.0,
+    "end_seconds": 155.0,
+    "start_time": "02:23",
+    "end_time": "02:35",
+    "segment_text": " فيومئذ لا يعذب عذابه أحد ولا يوثق وثاقه أحد",
+    "matched_ayah_text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 69.56521739130434
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 155.0,
+    "end_seconds": 175.0,
+    "start_time": "02:35",
+    "end_time": "02:55",
+    "segment_text": " يا أيتها النفس المطمئن ترجعي إلى ربك راضية مرضية فدخلي في عبادي ودخلي جنتي",
+    "matched_ayah_text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+    "matched_ayah_id": null,
+    "score": 47.524752475247524
+  }
+]

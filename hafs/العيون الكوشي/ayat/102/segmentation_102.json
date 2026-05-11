@@ -1,0 +1,99 @@
+{
+  "surah": 102,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "start": 0.04,
+      "end": 5.48,
+      "matched_text": "اسم الله الرحمن الرحيم 3. الهاكل التكافر",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "start": 5.48,
+      "end": 8.16,
+      "matched_text": "حتى فرتم المقابل",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": 8.16,
+      "end": 9.62,
+      "matched_text": "كلا سوف",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        11,
+        12
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "start": 9.62,
+      "end": 19.2,
+      "matched_text": "تعلمون علم اليقين",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "start": 19.66,
+      "end": 22.78,
+      "matched_text": "لترون اليحيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        18
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "start": 23.4,
+      "end": 28.42,
+      "matched_text": "ثم لترون نهاعين اليقين",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        23
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "start": 28.42,
+      "end": 35.74,
+      "matched_text": "ثم لا تسألن يوم إذن عن النعيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        24,
+        30
+      ]
+    }
+  ],
+  "alignment_score": 14.068
+}

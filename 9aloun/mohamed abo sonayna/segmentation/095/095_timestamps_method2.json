@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.2,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.36,
+    "end_seconds": 19.740000000000002,
+    "start_time": "00:05",
+    "end_time": "00:19",
+    "segment_text": " والتين والزيتون وطور سيمين وهذا البلد الأميم لقد خلقنا الإنسان في أحسن تقويم",
+    "matched_ayah_text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+    "matched_ayah_id": null,
+    "score": 53.703703703703695
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 20.74,
+    "end_seconds": 45.36,
+    "start_time": "00:20",
+    "end_time": "00:45",
+    "segment_text": " لقد خلقنا الإنسان في أحسن تقويم ثم رددناه أسفل سافلين إلا الذين آمنوا عملوا الصالحات فلهم أجر غير ممنو",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+    "matched_ayah_id": null,
+    "score": 56.774193548387096
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 45.36,
+    "end_seconds": 55.16,
+    "start_time": "00:45",
+    "end_time": "00:55",
+    "segment_text": " فما يكذبك بعد بالدين أليس الله بأحكم الحاكمين",
+    "matched_ayah_text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+    "matched_ayah_id": null,
+    "score": 60.86956521739131
+  }
+]

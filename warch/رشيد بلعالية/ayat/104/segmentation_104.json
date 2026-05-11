@@ -1,0 +1,114 @@
+{
+  "surah": 104,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "start": 0.08,
+      "end": 8.32,
+      "matched_text": "بسم الله الرحمن الرحيم 3. ويل لكله مزت اللمزة",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        9
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "start": 8.32,
+      "end": 12.44,
+      "matched_text": "الذي جمع مالا وعدده",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        13
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "start": 12.44,
+      "end": 16.36,
+      "matched_text": "يحسب أن ماله أخلده",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        17
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "start": 16.36,
+      "end": 22.2,
+      "matched_text": "كلا 2. ليوم بذن في الحطمه",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        23
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "start": 22.2,
+      "end": 25.52,
+      "matched_text": "وما أدراكم الحطمه",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        24,
+        26
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "start": 25.52,
+      "end": 28.4,
+      "matched_text": "نار الله الموقدة",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        29
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "start": 28.4,
+      "end": 31.76,
+      "matched_text": "التي تطلع على لفئده",
+      "confidence": 1,
+      "matched_word_indices": [
+        30,
+        33
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "start": 31.76,
+      "end": 35.94,
+      "matched_text": "إنها عليهم مصدت",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        36
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "start": 35.94,
+      "end": 39.84,
+      "matched_text": "في عمد ممدده",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        39
+      ]
+    }
+  ],
+  "alignment_score": 29.275
+}

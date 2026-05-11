@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 4.2,
+        "end_seconds": 10.2,
+        "start_time": "00:04",
+        "end_time": "00:10",
+        "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+        "score": 0.47
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 10.2,
+        "end_seconds": 18.2,
+        "start_time": "00:10",
+        "end_time": "00:18",
+        "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "score": 0.46
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 18.2,
+        "end_seconds": 23.2,
+        "start_time": "00:18",
+        "end_time": "00:23",
+        "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+        "score": 0.66
+    }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.36,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.36,
+    "end_seconds": 9.24,
+    "start_time": "00:04",
+    "end_time": "00:09",
+    "segment_text": " أرأيت الذي يكذب بالدين",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.24,
+    "end_seconds": 14.08,
+    "start_time": "00:09",
+    "end_time": "00:14",
+    "segment_text": " فذلك الذي يدعو اليتيم",
+    "matched_ayah_text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 14.08,
+    "end_seconds": 19.64,
+    "start_time": "00:14",
+    "end_time": "00:19",
+    "segment_text": " ولا يحض على طعام المسكين",
+    "matched_ayah_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "matched_ayah_id": null,
+    "score": 93.87755102040816
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 19.64,
+    "end_seconds": 23.2,
+    "start_time": "00:19",
+    "end_time": "00:23",
+    "segment_text": " فويل للمصلين",
+    "matched_ayah_text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 23.2,
+    "end_seconds": 29.2,
+    "start_time": "00:23",
+    "end_time": "00:29",
+    "segment_text": " الذين هم عن صلاتهم ساهون",
+    "matched_ayah_text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "matched_ayah_id": null,
+    "score": 95.83333333333334
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 29.2,
+    "end_seconds": 34.28,
+    "start_time": "00:29",
+    "end_time": "00:34",
+    "segment_text": " الذين هم يراؤون",
+    "matched_ayah_text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+    "matched_ayah_id": null,
+    "score": 83.87096774193549
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 34.28,
+    "end_seconds": 38.04,
+    "start_time": "00:34",
+    "end_time": "00:38",
+    "segment_text": " ويمنعون الماعون",
+    "matched_ayah_text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+    "matched_ayah_id": null,
+    "score": 93.33333333333333
+  }
+]

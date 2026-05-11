@@ -1,0 +1,134 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.0,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+    "matched_ayah_id": null,
+    "score": 43.956043956043956
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.0,
+    "end_seconds": 15.64,
+    "start_time": "00:07",
+    "end_time": "00:15",
+    "segment_text": " والسماء والطارق وما أدراك ما الطارق النجم الثاقبة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+    "matched_ayah_id": null,
+    "score": 48.57142857142858
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.64,
+    "end_seconds": 21.16,
+    "start_time": "00:15",
+    "end_time": "00:21",
+    "segment_text": " إن كل نفس لما عليها حافظ",
+    "matched_ayah_text": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 21.16,
+    "end_seconds": 25.92,
+    "start_time": "00:21",
+    "end_time": "00:25",
+    "segment_text": " فلينظر الإنسان مما خلق",
+    "matched_ayah_text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+    "matched_ayah_id": null,
+    "score": 88.37209302325581
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 25.92,
+    "end_seconds": 30.28,
+    "start_time": "00:25",
+    "end_time": "00:30",
+    "segment_text": " خلق من ماء دافق",
+    "matched_ayah_text": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+    "matched_ayah_id": null,
+    "score": 96.7741935483871
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 30.28,
+    "end_seconds": 35.4,
+    "start_time": "00:30",
+    "end_time": "00:35",
+    "segment_text": " يخرج من بين الصلب والترائب",
+    "matched_ayah_text": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 35.4,
+    "end_seconds": 39.44,
+    "start_time": "00:35",
+    "end_time": "00:39",
+    "segment_text": " إنه على رجعه لقادر",
+    "matched_ayah_text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 39.44,
+    "end_seconds": 47.8,
+    "start_time": "00:39",
+    "end_time": "00:47",
+    "segment_text": " يوم تبل السرائر فما له من قوة ولا ناصر",
+    "matched_ayah_text": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+    "matched_ayah_id": null,
+    "score": 72.1311475409836
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 47.8,
+    "end_seconds": 54.239999999999995,
+    "start_time": "00:47",
+    "end_time": "00:54",
+    "segment_text": " والسماء ذات رجع والأرض ذات الصدع",
+    "matched_ayah_text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+    "matched_ayah_id": null,
+    "score": 58.33333333333333
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 54.239999999999995,
+    "end_seconds": 59.879999999999995,
+    "start_time": "00:54",
+    "end_time": "00:59",
+    "segment_text": " إنه لقول فصل وما هو بالهزل",
+    "matched_ayah_text": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+    "matched_ayah_id": null,
+    "score": 61.53846153846154
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 59.879999999999995,
+    "end_seconds": 65.72,
+    "start_time": "00:59",
+    "end_time": "01:05",
+    "segment_text": " إنهم يكيدون كيدا وأكيد كيدا",
+    "matched_ayah_text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+    "matched_ayah_id": null,
+    "score": 74.4186046511628
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 65.72,
+    "end_seconds": 72.0,
+    "start_time": "01:05",
+    "end_time": "01:12",
+    "segment_text": " فمهي للكافرين أمهلهم رويدا",
+    "matched_ayah_text": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+    "matched_ayah_id": null,
+    "score": 86.79245283018868
+  }
+]

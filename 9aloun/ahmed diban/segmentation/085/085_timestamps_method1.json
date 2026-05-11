@@ -1,0 +1,155 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 9.48,
+        "end_seconds": 12.88,
+        "start_time": "00:09",
+        "end_time": "00:12",
+        "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 13.12,
+        "end_seconds": 15.96,
+        "start_time": "00:13",
+        "end_time": "00:15",
+        "text": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+        "score": 0.64
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 15.96,
+        "end_seconds": 19.4,
+        "start_time": "00:15",
+        "end_time": "00:19",
+        "text": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 19.6,
+        "end_seconds": 22.92,
+        "start_time": "00:19",
+        "end_time": "00:22",
+        "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+        "score": 0.71
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 23.08,
+        "end_seconds": 28.8,
+        "start_time": "00:23",
+        "end_time": "00:28",
+        "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 28.96,
+        "end_seconds": 37.4,
+        "start_time": "00:28",
+        "end_time": "00:37",
+        "text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+        "score": 0.7
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 87.96,
+        "end_seconds": 95.4,
+        "start_time": "01:27",
+        "end_time": "01:35",
+        "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 95.4,
+        "end_seconds": 100.56,
+        "start_time": "01:35",
+        "end_time": "01:40",
+        "text": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+        "score": 0.69
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 100.56,
+        "end_seconds": 103.76,
+        "start_time": "01:40",
+        "end_time": "01:43",
+        "text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+        "score": 0.58
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 103.76,
+        "end_seconds": 105.76,
+        "start_time": "01:43",
+        "end_time": "01:45",
+        "text": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+        "score": 0.67
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 105.76,
+        "end_seconds": 109.6,
+        "start_time": "01:45",
+        "end_time": "01:49",
+        "text": "فَعَّالٌ لِّمَا يُرِيدُ",
+        "score": 0.72
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 109.6,
+        "end_seconds": 113.44,
+        "start_time": "01:49",
+        "end_time": "01:53",
+        "text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 113.44,
+        "end_seconds": 117.44,
+        "start_time": "01:53",
+        "end_time": "01:57",
+        "text": "فِرْعَوْنَ وَثَمُودَ",
+        "score": 0.71
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 117.44,
+        "end_seconds": 122.2,
+        "start_time": "01:57",
+        "end_time": "02:02",
+        "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+        "score": 0.69
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 122.2,
+        "end_seconds": 127.88,
+        "start_time": "02:02",
+        "end_time": "02:07",
+        "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+        "score": 0.69
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 127.88,
+        "end_seconds": 133.0,
+        "start_time": "02:07",
+        "end_time": "02:13",
+        "text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 133.0,
+        "end_seconds": 140.32,
+        "start_time": "02:13",
+        "end_time": "02:20",
+        "text": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+        "score": 0.65
+    }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+    "matched_ayah_id": null,
+    "score": 45.45454545454546
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 10.0,
+    "start_time": "00:05",
+    "end_time": "00:10",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.0,
+    "end_seconds": 16.0,
+    "start_time": "00:10",
+    "end_time": "00:16",
+    "segment_text": " والسماء ذات البروج واليوم الموعود",
+    "matched_ayah_text": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+    "matched_ayah_id": null,
+    "score": 51.06382978723405
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 16.0,
+    "end_seconds": 23.0,
+    "start_time": "00:16",
+    "end_time": "00:23",
+    "segment_text": " وشاهد ومشهود قتل أصحاب الخدود",
+    "matched_ayah_text": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+    "matched_ayah_id": null,
+    "score": 60.86956521739131
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 23.0,
+    "end_seconds": 28.0,
+    "start_time": "00:23",
+    "end_time": "00:28",
+    "segment_text": " قتل أصحاب الخدود النار ذات الوقود",
+    "matched_ayah_text": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+    "matched_ayah_id": null,
+    "score": 57.14285714285714
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 28.0,
+    "end_seconds": 31.0,
+    "start_time": "00:28",
+    "end_time": "00:31",
+    "segment_text": " إذ هم عليها قعود",
+    "matched_ayah_text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 31.0,
+    "end_seconds": 37.0,
+    "start_time": "00:31",
+    "end_time": "00:37",
+    "segment_text": " وهم على ما يفعلون بالمؤمنين شهود",
+    "matched_ayah_text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+    "matched_ayah_id": null,
+    "score": 95.38461538461537
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 37.0,
+    "end_seconds": 48.0,
+    "start_time": "00:37",
+    "end_time": "00:48",
+    "segment_text": " وما نقموا منهم إلا أن يؤمنوا بالله العزيز الحميد",
+    "matched_ayah_text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 48.0,
+    "end_seconds": 53.0,
+    "start_time": "00:48",
+    "end_time": "00:53",
+    "segment_text": " الذي له ملك السماوات ولرب",
+    "matched_ayah_text": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "matched_ayah_id": null,
+    "score": 51.28205128205128
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 53.0,
+    "end_seconds": 59.0,
+    "start_time": "00:53",
+    "end_time": "00:59",
+    "segment_text": " والله على كل شيء شهيد",
+    "matched_ayah_text": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "matched_ayah_id": null,
+    "score": 56.75675675675676
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 59.0,
+    "end_seconds": 67.0,
+    "start_time": "00:59",
+    "end_time": "01:07",
+    "segment_text": " إن الذين فتنوا المؤمنين والمؤمنات ثم لم يتوبوا",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 67.0,
+    "end_seconds": 73.0,
+    "start_time": "01:07",
+    "end_time": "01:13",
+    "segment_text": " فلهم عذاب جهنم ولهم عذاب الحريق",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+    "matched_ayah_id": null,
+    "score": 54.054054054054056
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 73.0,
+    "end_seconds": 86.0,
+    "start_time": "01:13",
+    "end_time": "01:26",
+    "segment_text": " إن الذين آمنوا وعملوا الصالحات لهم جنات تجري من تحتها لنهار",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+    "matched_ayah_id": null,
+    "score": 74.12587412587412
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 86.0,
+    "end_seconds": 90.0,
+    "start_time": "01:26",
+    "end_time": "01:30",
+    "segment_text": " ذلك الفوز الكبير",
+    "matched_ayah_text": "فَعَّالٌ لِّمَا يُرِيدُ",
+    "matched_ayah_id": null,
+    "score": 41.379310344827594
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 90.0,
+    "end_seconds": 95.0,
+    "start_time": "01:30",
+    "end_time": "01:35",
+    "segment_text": " إن بطش ربك لشديد",
+    "matched_ayah_text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 95.0,
+    "end_seconds": 100.0,
+    "start_time": "01:35",
+    "end_time": "01:40",
+    "segment_text": " إنه هو يبديء ويعيد",
+    "matched_ayah_text": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 100.0,
+    "end_seconds": 109.0,
+    "start_time": "01:40",
+    "end_time": "01:49",
+    "segment_text": " وهو الغفور الودود ذو العرش المجيد فعال لما يريد",
+    "matched_ayah_text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+    "matched_ayah_id": null,
+    "score": 46.875
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 109.0,
+    "end_seconds": 115.0,
+    "start_time": "01:49",
+    "end_time": "01:55",
+    "segment_text": " هل تاك حديث الجنود فرعون وثمود",
+    "matched_ayah_text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+    "matched_ayah_id": null,
+    "score": 64.0
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 115.0,
+    "end_seconds": 127.0,
+    "start_time": "01:55",
+    "end_time": "02:07",
+    "segment_text": " بل الذين كفروا في تكذيب والله من ورائهم محيط",
+    "matched_ayah_text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+    "matched_ayah_id": null,
+    "score": 64.70588235294117
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 127.0,
+    "end_seconds": 136.0,
+    "start_time": "02:07",
+    "end_time": "02:16",
+    "segment_text": " بل هو قرآن مجيد في لوح محفوظ",
+    "matched_ayah_text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+    "matched_ayah_id": null,
+    "score": 68.18181818181819
+  }
+]

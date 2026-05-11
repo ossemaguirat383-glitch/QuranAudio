@@ -1,0 +1,261 @@
+{
+  "surah": 85,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 3,
+      "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 4,
+      "text": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "start": 18.19,
+      "end": 25.33,
+      "matched_text": "قتل أصحاب لخدود",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        37
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "start": 25.33,
+      "end": 28.07,
+      "matched_text": "النارضات الوقود",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        38,
+        39
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "start": 28.07,
+      "end": 30.59,
+      "matched_text": "إذ هم عليها قعود",
+      "confidence": 1,
+      "matched_word_indices": [
+        40,
+        43
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "start": 30.59,
+      "end": 36.93,
+      "matched_text": "وهم على ما يفعلون بالمومنين شهود",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        49
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "start": 36.93,
+      "end": 47.97,
+      "matched_text": "وما نقموا منه مو إلا أن يومنوا بالله العزيز الحميد",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        59
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "start": 47.97,
+      "end": 58.65,
+      "matched_text": "الذي له ملك السماوات والرب والله على كل شيء شهيد",
+      "confidence": 1,
+      "matched_word_indices": [
+        60,
+        69
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "start": 58.65,
+      "end": 73.09,
+      "matched_text": "إن الذين فتنوا المؤمنين والمؤمنات ثم لن يتوبوا فلهم عذاب جهن مولهم عذاب الحريق",
+      "confidence": 1,
+      "matched_word_indices": [
+        70,
+        83
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "start": 73.09,
+      "end": 90.25,
+      "matched_text": "إن الذين آمنوا وعملوا الصالحات لهم جنات تجري من تحتها لدهار ذلك الفوز الكبير",
+      "confidence": 0.929,
+      "matched_word_indices": [
+        84,
+        97
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "start": 90.25,
+      "end": 94.99,
+      "matched_text": "إن بطش ربك لشديد",
+      "confidence": 1,
+      "matched_word_indices": [
+        98,
+        101
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "start": 94.99,
+      "end": 99.73,
+      "matched_text": "إن هو يبدأ ويعيد",
+      "confidence": 1,
+      "matched_word_indices": [
+        102,
+        105
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "start": 99.73,
+      "end": 103.09,
+      "matched_text": "وهو الغفور الودوذ",
+      "confidence": 1,
+      "matched_word_indices": [
+        106,
+        108
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "start": 103.09,
+      "end": 105.49,
+      "matched_text": "العرس المجيد",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        109,
+        110
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "start": 105.49,
+      "end": 108.89,
+      "matched_text": "فعال لما يريد",
+      "confidence": 1,
+      "matched_word_indices": [
+        111,
+        113
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "start": 108.89,
+      "end": 112.29,
+      "matched_text": "هلتك حديث الجنود",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        114,
+        116
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "فِرْعَوْنَ وَثَمُودَ",
+      "start": 112.29,
+      "end": 114.91,
+      "matched_text": "فرعون وثمود",
+      "confidence": 1,
+      "matched_word_indices": [
+        117,
+        118
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "start": 114.91,
+      "end": 119.27,
+      "matched_text": "بل الذين كفروا في تكذيب",
+      "confidence": 1,
+      "matched_word_indices": [
+        119,
+        123
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "start": 120.31,
+      "end": 126.8,
+      "matched_text": "الله من وائهم محيطة",
+      "confidence": 1,
+      "matched_word_indices": [
+        125,
+        128
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "start": 126.8,
+      "end": 130.68,
+      "matched_text": "بل هو قرآن مجيد",
+      "confidence": 1,
+      "matched_word_indices": [
+        129,
+        132
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "start": 130.68,
+      "end": 134.4,
+      "matched_text": "في لوح محفو",
+      "confidence": 1,
+      "matched_word_indices": [
+        133,
+        135
+      ]
+    }
+  ],
+  "alignment_score": 69.242
+}

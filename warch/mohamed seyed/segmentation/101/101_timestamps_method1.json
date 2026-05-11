@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 5.2,
+        "end_seconds": 9.68,
+        "start_time": "00:05",
+        "end_time": "00:09",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+        "score": 0.51
+    },
+    {
+        "ayah": 2,
+        "start_seconds": 13.28,
+        "end_seconds": 18.8,
+        "start_time": "00:13",
+        "end_time": "00:18",
+        "text": "مَا ٱلْقَارِعَةُ",
+        "score": 0.5
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 18.8,
+        "end_seconds": 24.4,
+        "start_time": "00:18",
+        "end_time": "00:24",
+        "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 24.4,
+        "end_seconds": 30.48,
+        "start_time": "00:24",
+        "end_time": "00:30",
+        "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+        "score": 0.59
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 30.48,
+        "end_seconds": 35.44,
+        "start_time": "00:30",
+        "end_time": "00:35",
+        "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "score": 0.69
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 35.44,
+        "end_seconds": 39.76,
+        "start_time": "00:35",
+        "end_time": "00:39",
+        "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+        "score": 0.7
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 39.76,
+        "end_seconds": 44.24,
+        "start_time": "00:39",
+        "end_time": "00:44",
+        "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 44.24,
+        "end_seconds": 47.84,
+        "start_time": "00:44",
+        "end_time": "00:47",
+        "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+        "score": 0.67
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 47.84,
+        "end_seconds": 53.36,
+        "start_time": "00:47",
+        "end_time": "00:53",
+        "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 53.36,
+        "end_seconds": 55.92,
+        "start_time": "00:53",
+        "end_time": "00:55",
+        "text": "نَارٌ حَامِيَةٌۢ",
+        "score": 0.72
+    }
+]

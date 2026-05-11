@@ -1,0 +1,145 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.92,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.92,
+    "end_seconds": 27.4,
+    "start_time": "00:07",
+    "end_time": "00:27",
+    "segment_text": " 1- إذا السماء انشقت وأذنت لربها وحقت وإذا لرض مدت وألقت ما فيها وتخلت",
+    "matched_ayah_text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+    "matched_ayah_id": null,
+    "score": 43.18181818181818
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 27.4,
+    "end_seconds": 47.239999999999995,
+    "start_time": "00:27",
+    "end_time": "00:47",
+    "segment_text": " 2- وأذنت لربها وحقت يا أيها الإنسان إنك كادح إلى ربك كدحا فملاقيه",
+    "matched_ayah_text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+    "matched_ayah_id": null,
+    "score": 72.07207207207207
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 47.24,
+    "end_seconds": 69.96000000000001,
+    "start_time": "00:47",
+    "end_time": "01:09",
+    "segment_text": " 3- فأما منوت كتابه بيمينه فسوف يحاسب حسابا يسيرا وينقلب إلى أهله مسرورا",
+    "matched_ayah_text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+    "matched_ayah_id": null,
+    "score": 47.31182795698925
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 70.11999999999999,
+    "end_seconds": 84.88,
+    "start_time": "01:10",
+    "end_time": "01:24",
+    "segment_text": " 4- وأما منوت كتابه وراء ظهره فسوف يدعو ثبورا",
+    "matched_ayah_text": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+    "matched_ayah_id": null,
+    "score": 64.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 84.88,
+    "end_seconds": 98.11999999999999,
+    "start_time": "01:24",
+    "end_time": "01:38",
+    "segment_text": " 5- ويصلى سعيرا إنه كان في أهله مسرورا",
+    "matched_ayah_text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+    "matched_ayah_id": null,
+    "score": 70.96774193548387
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 98.12,
+    "end_seconds": 114.52000000000001,
+    "start_time": "01:38",
+    "end_time": "01:54",
+    "segment_text": " 6- إنه ظن أن لن يحور بلاء إن ربه كان به بصيرا",
+    "matched_ayah_text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+    "matched_ayah_id": null,
+    "score": 61.111111111111114
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 114.52,
+    "end_seconds": 139.8,
+    "start_time": "01:54",
+    "end_time": "02:19",
+    "segment_text": " 7- فلا أقسم بالشفق والليل وما وسق والقمر إذا اتسق لتركبن طبقا عن طبق فما لهم لا يؤمنون",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+    "matched_ayah_id": null,
+    "score": 38.84892086330935
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 139.8,
+    "end_seconds": 148.52,
+    "start_time": "02:19",
+    "end_time": "02:28",
+    "segment_text": " 8- وإذا قرأ عليهم القرآن لا يسجدون",
+    "matched_ayah_text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+    "matched_ayah_id": null,
+    "score": 85.29411764705883
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 148.52,
+    "end_seconds": 155.16000000000003,
+    "start_time": "02:28",
+    "end_time": "02:35",
+    "segment_text": " 9- بل الذين كفروا يكذبون",
+    "matched_ayah_text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+    "matched_ayah_id": null,
+    "score": 86.95652173913044
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 155.16000000000003,
+    "end_seconds": 161.72000000000003,
+    "start_time": "02:35",
+    "end_time": "02:41",
+    "segment_text": " 10- والله أعلم بما يوعون",
+    "matched_ayah_text": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+    "matched_ayah_id": null,
+    "score": 86.36363636363636
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 161.72000000000003,
+    "end_seconds": 169.24,
+    "start_time": "02:41",
+    "end_time": "02:49",
+    "segment_text": " 11- فبشرهم بعذاب نليم",
+    "matched_ayah_text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+    "matched_ayah_id": null,
+    "score": 84.21052631578947
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 169.24,
+    "end_seconds": 184.60000000000002,
+    "start_time": "02:49",
+    "end_time": "03:04",
+    "segment_text": " 12- إلا الذين آمنوا وعملوا الصالحات لهم أجر غير ممنون",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+    "matched_ayah_id": null,
+    "score": 84.90566037735849
+  }
+]

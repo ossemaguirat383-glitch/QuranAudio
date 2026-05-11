@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 5,
+        "start_seconds": 19.6,
+        "end_seconds": 26.2,
+        "start_time": "00:19",
+        "end_time": "00:26",
+        "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+        "score": 0.6
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 26.2,
+        "end_seconds": 29.36,
+        "start_time": "00:26",
+        "end_time": "00:29",
+        "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+        "score": 0.6
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 29.36,
+        "end_seconds": 32.88,
+        "start_time": "00:29",
+        "end_time": "00:32",
+        "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+        "score": 0.67
+    }
+]

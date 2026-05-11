@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 9.24,
+        "end_seconds": 14.08,
+        "start_time": "00:09",
+        "end_time": "00:14",
+        "text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+        "score": 0.6
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 14.08,
+        "end_seconds": 19.64,
+        "start_time": "00:14",
+        "end_time": "00:19",
+        "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+        "score": 0.71
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 19.64,
+        "end_seconds": 23.2,
+        "start_time": "00:19",
+        "end_time": "00:23",
+        "text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+        "score": 0.67
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 23.2,
+        "end_seconds": 29.2,
+        "start_time": "00:23",
+        "end_time": "00:29",
+        "text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+        "score": 0.73
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 29.2,
+        "end_seconds": 34.28,
+        "start_time": "00:29",
+        "end_time": "00:34",
+        "text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+        "score": 0.63
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 34.28,
+        "end_seconds": 38.04,
+        "start_time": "00:34",
+        "end_time": "00:38",
+        "text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+        "score": 0.7
+    }
+]

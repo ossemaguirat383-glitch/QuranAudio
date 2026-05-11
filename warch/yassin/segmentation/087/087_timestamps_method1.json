@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 10.16,
+        "end_seconds": 13.76,
+        "start_time": "00:10",
+        "end_time": "00:13",
+        "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+        "score": 0.55
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 26.08,
+        "end_seconds": 38.16,
+        "start_time": "00:26",
+        "end_time": "00:38",
+        "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+        "score": 0.52
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 38.16,
+        "end_seconds": 43.52,
+        "start_time": "00:38",
+        "end_time": "00:43",
+        "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 59.52,
+        "end_seconds": 65.0,
+        "start_time": "00:59",
+        "end_time": "01:05",
+        "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "score": 0.73
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 65.0,
+        "end_seconds": 71.64,
+        "start_time": "01:05",
+        "end_time": "01:11",
+        "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 71.64,
+        "end_seconds": 78.76,
+        "start_time": "01:11",
+        "end_time": "01:18",
+        "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+        "score": 0.48
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 78.76,
+        "end_seconds": 86.84,
+        "start_time": "01:18",
+        "end_time": "01:26",
+        "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+        "score": 0.49
+    }
+]

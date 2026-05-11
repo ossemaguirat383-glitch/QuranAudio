@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 10.8,
+        "end_seconds": 15.76,
+        "start_time": "00:10",
+        "end_time": "00:15",
+        "text": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 15.76,
+        "end_seconds": 20.72,
+        "start_time": "00:15",
+        "end_time": "00:20",
+        "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "score": 0.71
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 20.72,
+        "end_seconds": 25.04,
+        "start_time": "00:20",
+        "end_time": "00:25",
+        "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "score": 0.53
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 25.2,
+        "end_seconds": 30.32,
+        "start_time": "00:25",
+        "end_time": "00:30",
+        "text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+        "score": 0.47
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 32.72,
+        "end_seconds": 38.8,
+        "start_time": "00:32",
+        "end_time": "00:38",
+        "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+        "score": 0.71
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 38.8,
+        "end_seconds": 47.76,
+        "start_time": "00:38",
+        "end_time": "00:47",
+        "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+        "score": 0.7
+    }
+]

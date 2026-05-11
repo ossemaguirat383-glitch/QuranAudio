@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 37.68115942028986
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.68,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.68,
+    "end_seconds": 20.72,
+    "start_time": "00:09",
+    "end_time": "00:20",
+    "segment_text": " قل أعوذ برب الناس ملك الناس إله الناس من شر الوسواس",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 39.13043478260869
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 20.72,
+    "end_seconds": 31.92,
+    "start_time": "00:20",
+    "end_time": "00:31",
+    "segment_text": " ملك الناس الذي وسوس في صدور الناس من الجنة والناس",
+    "matched_ayah_text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "matched_ayah_id": null,
+    "score": 57.53424657534247
+  }
+]

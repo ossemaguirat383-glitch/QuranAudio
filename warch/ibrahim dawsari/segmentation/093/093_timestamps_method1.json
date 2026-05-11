@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 8.2,
+        "start_time": "00:00",
+        "end_time": "00:08",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+        "score": 0.52
+    },
+    {
+        "ayah": 2,
+        "start_seconds": 10.4,
+        "end_seconds": 14.2,
+        "start_time": "00:10",
+        "end_time": "00:14",
+        "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+        "score": 0.59
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 14.2,
+        "end_seconds": 19.48,
+        "start_time": "00:14",
+        "end_time": "00:19",
+        "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+        "score": 0.72
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 27.68,
+        "end_seconds": 33.4,
+        "start_time": "00:27",
+        "end_time": "00:33",
+        "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+        "score": 0.69
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 33.4,
+        "end_seconds": 41.28,
+        "start_time": "00:33",
+        "end_time": "00:41",
+        "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 41.28,
+        "end_seconds": 49.28,
+        "start_time": "00:41",
+        "end_time": "00:49",
+        "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+        "score": 0.65
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 49.4,
+        "end_seconds": 57.4,
+        "start_time": "00:49",
+        "end_time": "00:57",
+        "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 57.4,
+        "end_seconds": 63.36,
+        "start_time": "00:57",
+        "end_time": "01:03",
+        "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+        "score": 0.7
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 63.36,
+        "end_seconds": 70.8,
+        "start_time": "01:03",
+        "end_time": "01:10",
+        "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+        "score": 0.69
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 70.8,
+        "end_seconds": 77.56,
+        "start_time": "01:10",
+        "end_time": "01:17",
+        "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "score": 0.68
+    }
+]

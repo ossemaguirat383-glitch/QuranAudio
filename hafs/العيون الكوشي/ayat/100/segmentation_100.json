@@ -1,0 +1,138 @@
+{
+  "surah": 100,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "start": 0,
+      "end": 5.72,
+      "matched_text": "اسم الله الرحمن الرحيم 3. والعاديات ضبحة",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "start": 6.16,
+      "end": 8.42,
+      "matched_text": "فالموليات قدحة",
+      "confidence": 1,
+      "matched_word_indices": [
+        9,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "start": 8.7,
+      "end": 10.86,
+      "matched_text": "فالمغيرات صبحة",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        13
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "start": 11.16,
+      "end": 13.5,
+      "matched_text": "فأثر به نقعا",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        17
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "start": 13.94,
+      "end": 16.7,
+      "matched_text": "فوسطن به جمعا",
+      "confidence": 1,
+      "matched_word_indices": [
+        19,
+        21
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "start": 16.74,
+      "end": 21.84,
+      "matched_text": "إن لنسان لربه لكنود",
+      "confidence": 1,
+      "matched_word_indices": [
+        23,
+        26
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "start": 22.76,
+      "end": 26.88,
+      "matched_text": "وإنه على ذلك لشهيد",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "start": 27.48,
+      "end": 32.16,
+      "matched_text": "وإنه لحب الخير لشديد",
+      "confidence": 1,
+      "matched_word_indices": [
+        33,
+        36
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "start": 32.62,
+      "end": 36.9,
+      "matched_text": "أفلا يعلم إذا بعثر ما في القبور",
+      "confidence": 1,
+      "matched_word_indices": [
+        38,
+        44
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "start": 37.38,
+      "end": 39.88,
+      "matched_text": "وحصل ما في الصدور",
+      "confidence": 1,
+      "matched_word_indices": [
+        46,
+        49
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "start": 40.38,
+      "end": 45.8,
+      "matched_text": "إن ربهم بهم يوم إذل خبير",
+      "confidence": 1,
+      "matched_word_indices": [
+        51,
+        56
+      ]
+    }
+  ],
+  "alignment_score": 33.092
+}

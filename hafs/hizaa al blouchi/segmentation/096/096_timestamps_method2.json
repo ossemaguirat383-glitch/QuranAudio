@@ -1,0 +1,222 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.0,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.0,
+    "end_seconds": 8.0,
+    "start_time": "00:04",
+    "end_time": "00:08",
+    "segment_text": " اقرأ بسم ربك الذي خلق",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+    "matched_ayah_id": null,
+    "score": 56.71641791044777
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.0,
+    "end_seconds": 12.0,
+    "start_time": "00:08",
+    "end_time": "00:12",
+    "segment_text": " خلق الإنسان من علق",
+    "matched_ayah_text": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 12.0,
+    "end_seconds": 15.0,
+    "start_time": "00:12",
+    "end_time": "00:15",
+    "segment_text": " اقرأ وربك الأكرم",
+    "matched_ayah_text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 15.0,
+    "end_seconds": 18.0,
+    "start_time": "00:15",
+    "end_time": "00:18",
+    "segment_text": " الذي علم بالقلم",
+    "matched_ayah_text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+    "matched_ayah_id": null,
+    "score": 86.66666666666667
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 18.0,
+    "end_seconds": 22.0,
+    "start_time": "00:18",
+    "end_time": "00:22",
+    "segment_text": " علم الإنسان ما لم يعلم",
+    "matched_ayah_text": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 22.0,
+    "end_seconds": 28.0,
+    "start_time": "00:22",
+    "end_time": "00:28",
+    "segment_text": " كلا إن الإنسان ليطوى",
+    "matched_ayah_text": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 79.06976744186046
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 28.0,
+    "end_seconds": 30.0,
+    "start_time": "00:28",
+    "end_time": "00:30",
+    "segment_text": " أرآه استغنا",
+    "matched_ayah_text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 30.0,
+    "end_seconds": 34.0,
+    "start_time": "00:30",
+    "end_time": "00:34",
+    "segment_text": " إن إلى ربك الرجع",
+    "matched_ayah_text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 83.33333333333334
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 34.0,
+    "end_seconds": 37.0,
+    "start_time": "00:34",
+    "end_time": "00:37",
+    "segment_text": " أرأيت الذي ينهى",
+    "matched_ayah_text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+    "matched_ayah_id": null,
+    "score": 83.87096774193549
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 37.0,
+    "end_seconds": 40.0,
+    "start_time": "00:37",
+    "end_time": "00:40",
+    "segment_text": " عبدا إذا صلى",
+    "matched_ayah_text": "عَبْدًا إِذَا صَلَّىٰٓ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 40.0,
+    "end_seconds": 44.0,
+    "start_time": "00:40",
+    "end_time": "00:44",
+    "segment_text": " أرأيت إن كان على الهدى",
+    "matched_ayah_text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 86.95652173913044
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 44.0,
+    "end_seconds": 47.0,
+    "start_time": "00:44",
+    "end_time": "00:47",
+    "segment_text": " أو أمر بالتقوى",
+    "matched_ayah_text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 86.66666666666667
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 47.0,
+    "end_seconds": 51.0,
+    "start_time": "00:47",
+    "end_time": "00:51",
+    "segment_text": " أرأيت إن كذب وتولى",
+    "matched_ayah_text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+    "matched_ayah_id": null,
+    "score": 89.47368421052632
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 51.0,
+    "end_seconds": 56.0,
+    "start_time": "00:51",
+    "end_time": "00:56",
+    "segment_text": " ألم يعلم بأن الله يرى",
+    "matched_ayah_text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+    "matched_ayah_id": null,
+    "score": 93.02325581395348
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 56.0,
+    "end_seconds": 64.0,
+    "start_time": "00:56",
+    "end_time": "01:04",
+    "segment_text": " كلا لإن لم ينتهل نسف عن بالناصية",
+    "matched_ayah_text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+    "matched_ayah_id": null,
+    "score": 84.375
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 64.0,
+    "end_seconds": 68.0,
+    "start_time": "01:04",
+    "end_time": "01:08",
+    "segment_text": " ناصية كاذبة خاطئة",
+    "matched_ayah_text": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+    "matched_ayah_id": null,
+    "score": 94.11764705882352
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 68.0,
+    "end_seconds": 71.0,
+    "start_time": "01:08",
+    "end_time": "01:11",
+    "segment_text": " فليدعو ناديه",
+    "matched_ayah_text": "فَلْيَدْعُ نَادِيَهُۥ",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 71.0,
+    "end_seconds": 73.0,
+    "start_time": "01:11",
+    "end_time": "01:13",
+    "segment_text": " سندعو الزبانيه",
+    "matched_ayah_text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 73.0,
+    "end_seconds": 78.0,
+    "start_time": "01:13",
+    "end_time": "01:18",
+    "segment_text": " كلا لا تطعه واسجد وقترب",
+    "matched_ayah_text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+    "matched_ayah_id": null,
+    "score": 89.79591836734694
+  }
+]

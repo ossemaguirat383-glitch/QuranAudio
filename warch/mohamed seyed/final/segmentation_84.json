@@ -1,0 +1,291 @@
+{
+  "surah": 84,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 2,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 4,
+      "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+      "start": 27.63,
+      "end": 38.21,
+      "matched_text": "أيها الانسان إن كادح نلى ربك كدحا فملاقيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        69
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+      "start": 38.21,
+      "end": 44.53,
+      "matched_text": "فأما منوت يكتابه بيمينه",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        70,
+        73
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "start": 44.53,
+      "end": 48.87,
+      "matched_text": "فسوف يحاسب حساب يسيرا",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "start": 48.87,
+      "end": 55.03,
+      "matched_text": "وينقلب إلى أهله مسرورا",
+      "confidence": 1,
+      "matched_word_indices": [
+        78,
+        81
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "start": 55.03,
+      "end": 63.07,
+      "matched_text": "وأما منوت يكتابه وراء ظهره",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        82,
+        86
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "start": 63.07,
+      "end": 65.77,
+      "matched_text": "فسوف يدعو تبورا",
+      "confidence": 1,
+      "matched_word_indices": [
+        87,
+        89
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَيَصْلَىٰ سَعِيرًا",
+      "start": 65.77,
+      "end": 68.87,
+      "matched_text": "ويصلى سعيرا",
+      "confidence": 1,
+      "matched_word_indices": [
+        90,
+        91
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "start": 68.87,
+      "end": 75.19,
+      "matched_text": "إنه كان في أهله مسرورا",
+      "confidence": 1,
+      "matched_word_indices": [
+        92,
+        96
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "start": 75.19,
+      "end": 80.73,
+      "matched_text": "إنه ظن أن لن يحور",
+      "confidence": 1,
+      "matched_word_indices": [
+        97,
+        101
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "start": 80.73,
+      "end": 87.09,
+      "matched_text": "بلاء إن ربه كان به بصيرا",
+      "confidence": 1,
+      "matched_word_indices": [
+        102,
+        107
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "start": 87.09,
+      "end": 92.15,
+      "matched_text": "فلا أقسم بالشفق",
+      "confidence": 1,
+      "matched_word_indices": [
+        108,
+        110
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "start": 92.15,
+      "end": 94.17,
+      "matched_text": "والليل وما وسق",
+      "confidence": 1,
+      "matched_word_indices": [
+        111,
+        113
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "start": 94.17,
+      "end": 96.55,
+      "matched_text": "والقمر إذا التسقل",
+      "confidence": 1,
+      "matched_word_indices": [
+        114,
+        116
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "start": 96.55,
+      "end": 100.69,
+      "matched_text": "تركب نطبق عن طبق",
+      "confidence": 1,
+      "matched_word_indices": [
+        117,
+        120
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "start": 100.69,
+      "end": 103.99,
+      "matched_text": "فما لهم لا يومنون",
+      "confidence": 1,
+      "matched_word_indices": [
+        121,
+        124
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "start": 103.99,
+      "end": 109.53,
+      "matched_text": "وإذا قرأ عليهم القرآن لا يسجدون",
+      "confidence": 1,
+      "matched_word_indices": [
+        125,
+        130
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "start": 109.53,
+      "end": 113.89,
+      "matched_text": "بل الذين كثرو يكذبون",
+      "confidence": 1,
+      "matched_word_indices": [
+        131,
+        134
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "start": 113.89,
+      "end": 118.07,
+      "matched_text": "والله أعلم بما يوعون",
+      "confidence": 1,
+      "matched_word_indices": [
+        135,
+        138
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "start": 118.07,
+      "end": 123.51,
+      "matched_text": "فبشرهم بعذاب نليم",
+      "confidence": 1,
+      "matched_word_indices": [
+        139,
+        141
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "start": 123.51,
+      "end": 133.35,
+      "matched_text": "إلا الذين آمنوا وعملوا الصالحات لهم أجر غير ممنون",
+      "confidence": 1,
+      "matched_word_indices": [
+        142,
+        150
+      ]
+    }
+  ],
+  "alignment_score": 46.807
+}

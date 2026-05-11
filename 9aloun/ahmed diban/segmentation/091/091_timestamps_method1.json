@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 8,
+        "start_seconds": 20.8,
+        "end_seconds": 28.6,
+        "start_time": "00:20",
+        "end_time": "00:28",
+        "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "score": 0.45
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 28.6,
+        "end_seconds": 38.2,
+        "start_time": "00:28",
+        "end_time": "00:38",
+        "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "score": 0.46
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 38.2,
+        "end_seconds": 45.4,
+        "start_time": "00:38",
+        "end_time": "00:45",
+        "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+        "score": 0.46
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 45.4,
+        "end_seconds": 52.52,
+        "start_time": "00:45",
+        "end_time": "00:52",
+        "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 52.64,
+        "end_seconds": 64.04,
+        "start_time": "00:52",
+        "end_time": "01:04",
+        "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+        "score": 0.68
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 64.04,
+        "end_seconds": 68.92,
+        "start_time": "01:04",
+        "end_time": "01:08",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.65
+    }
+]

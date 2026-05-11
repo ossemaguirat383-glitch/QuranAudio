@@ -1,0 +1,167 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.44,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "matched_ayah_id": null,
+    "score": 42.307692307692314
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.44,
+    "end_seconds": 13.76,
+    "start_time": "00:04",
+    "end_time": "00:13",
+    "segment_text": " لم يكن الذين كفروا من أهل الكتاب والمشركين منفكين",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+    "matched_ayah_id": null,
+    "score": 63.38028169014085
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 13.76,
+    "end_seconds": 17.6,
+    "start_time": "00:13",
+    "end_time": "00:17",
+    "segment_text": " حتى تأتيهم البين",
+    "matched_ayah_text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+    "matched_ayah_id": null,
+    "score": 35.13513513513513
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 17.6,
+    "end_seconds": 25.0,
+    "start_time": "00:17",
+    "end_time": "00:25",
+    "segment_text": " رسول من الله يتلو صحفاً مطهرة",
+    "matched_ayah_text": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "matched_ayah_id": null,
+    "score": 93.10344827586206
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 25.0,
+    "end_seconds": 28.96,
+    "start_time": "00:25",
+    "end_time": "00:28",
+    "segment_text": " فيها كتب قيمة",
+    "matched_ayah_text": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 28.96,
+    "end_seconds": 40.72,
+    "start_time": "00:28",
+    "end_time": "00:40",
+    "segment_text": " وما تفرق الذين أوتوا الكتاب إلا من بعد ما جاءتهم البين",
+    "matched_ayah_text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+    "matched_ayah_id": null,
+    "score": 89.28571428571429
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 40.72,
+    "end_seconds": 52.08,
+    "start_time": "00:40",
+    "end_time": "00:52",
+    "segment_text": " وما أمروا إلا ليعبدوا الله مخلصين له الدين حنفاء",
+    "matched_ayah_text": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+    "matched_ayah_id": null,
+    "score": 60.130718954248366
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 52.08,
+    "end_seconds": 57.24,
+    "start_time": "00:52",
+    "end_time": "00:57",
+    "segment_text": " ويقيموا الصلاة ويؤتوا الزكاة",
+    "matched_ayah_text": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "matched_ayah_id": null,
+    "score": 48.275862068965516
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 57.24,
+    "end_seconds": 60.84,
+    "start_time": "00:57",
+    "end_time": "01:00",
+    "segment_text": " وذلك دين القيمة",
+    "matched_ayah_text": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+    "matched_ayah_id": null,
+    "score": 42.85714285714286
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 60.84,
+    "end_seconds": 74.16,
+    "start_time": "01:00",
+    "end_time": "01:14",
+    "segment_text": " إن الذين كفروا من أهل الكتاب والمشركين في نار جهنم خالدين فيها",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+    "matched_ayah_id": null,
+    "score": 76.0
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 74.16,
+    "end_seconds": 79.44,
+    "start_time": "01:14",
+    "end_time": "01:19",
+    "segment_text": " أولئك هم شر البريه",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+    "matched_ayah_id": null,
+    "score": 43.24324324324324
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 79.6,
+    "end_seconds": 90.96,
+    "start_time": "01:19",
+    "end_time": "01:30",
+    "segment_text": " إن الذين آمنوا وعملوا الصالحات أولئك هم خير البريه",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+    "matched_ayah_id": null,
+    "score": 84.90566037735849
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 90.96,
+    "end_seconds": 108.56,
+    "start_time": "01:30",
+    "end_time": "01:48",
+    "segment_text": " جزاؤهم عند ربهم جنات عدن تجري من تحتها الأنهار خالدين فيها أبدا",
+    "matched_ayah_text": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+    "matched_ayah_id": null,
+    "score": 67.42857142857143
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 108.72,
+    "end_seconds": 113.28,
+    "start_time": "01:48",
+    "end_time": "01:53",
+    "segment_text": " رضي الله عنهم ورضوا عنه",
+    "matched_ayah_text": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "matched_ayah_id": null,
+    "score": 37.735849056603776
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 113.28,
+    "end_seconds": 117.52000000000001,
+    "start_time": "01:53",
+    "end_time": "01:57",
+    "segment_text": " ذلك لمن خشي ربه",
+    "matched_ayah_text": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "matched_ayah_id": null,
+    "score": 40.0
+  }
+]

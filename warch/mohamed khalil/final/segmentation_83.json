@@ -1,0 +1,354 @@
+{
+  "surah": 83,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "start": 0,
+      "end": 13.18,
+      "matched_text": "بسم الله الرحمن الرحيم ويل للمطففين",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+      "start": 14.52,
+      "end": 23.4,
+      "matched_text": "الذين إذا كتال الناس يستوفوا",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        8,
+        12
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "start": 25.35,
+      "end": 33.84,
+      "matched_text": "وإذا وزن اخسروا،",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "start": 37.17,
+      "end": 37.85,
+      "matched_text": "ألا",
+      "confidence": 0.2,
+      "matched_word_indices": [
+        16,
+        16
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "لِيَوْمٍ عَظِيمٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "كِتَـٰبٌ مَّرْقُومٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 12,
+      "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "start": 105.37,
+      "end": 107.23,
+      "matched_text": "يكذبس",
+      "confidence": 0.143,
+      "matched_word_indices": [
+        18,
+        18
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 14,
+      "text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 16,
+      "text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 17,
+      "text": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 18,
+      "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 19,
+      "text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 20,
+      "text": "كِتَـٰبٌ مَّرْقُومٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 21,
+      "text": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 22,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 23,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 24,
+      "text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 25,
+      "text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 26,
+      "text": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+      "start": 277.85,
+      "end": 280.25,
+      "matched_text": "المتنافس",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        19,
+        19
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+      "start": 283.9,
+      "end": 285.48,
+      "matched_text": "مزات",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        20,
+        20
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 29,
+      "text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+      "start": 288.04,
+      "end": 288.9,
+      "matched_text": "سن",
+      "confidence": 0.125,
+      "matched_word_indices": [
+        21,
+        21
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 31,
+      "text": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 32,
+      "text": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 33,
+      "text": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 34,
+      "text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 35,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 36,
+      "text": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -62.532
+}

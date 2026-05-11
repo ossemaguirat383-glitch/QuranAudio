@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.76,
+        "start_time": "00:00",
+        "end_time": "00:04",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+        "score": 0.52
+    },
+    {
+        "ayah": 2,
+        "start_seconds": 6.44,
+        "end_seconds": 11.52,
+        "start_time": "00:06",
+        "end_time": "00:11",
+        "text": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+        "score": 0.61
+    }
+]

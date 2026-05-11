@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.9,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 30.5,
+    "end_seconds": 34.8,
+    "start_time": "00:30",
+    "end_time": "00:34",
+    "segment_text": " إنها عليهم مؤصدة",
+    "matched_ayah_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 34.8,
+    "end_seconds": 38.8,
+    "start_time": "00:34",
+    "end_time": "00:38",
+    "segment_text": " في عمد ممددة",
+    "matched_ayah_text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  }
+]

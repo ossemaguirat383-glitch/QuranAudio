@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.86,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.86,
+    "end_seconds": 17.98,
+    "start_time": "00:03",
+    "end_time": "00:17",
+    "segment_text": " ويل لكل همزة لمزة من الذي جمع مالا وعدده يحسب أن ماله أخلده كلا",
+    "matched_ayah_text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+    "matched_ayah_id": null,
+    "score": 43.37349397590361
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 18.76,
+    "end_seconds": 28.86,
+    "start_time": "00:18",
+    "end_time": "00:28",
+    "segment_text": " لين بذن في الحطمة وما أدراك ما الحطمة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+    "matched_ayah_id": null,
+    "score": 58.62068965517242
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 28.86,
+    "end_seconds": 36.22,
+    "start_time": "00:28",
+    "end_time": "00:36",
+    "segment_text": " نعر الله الموقدة التي تبطل على الأفئدة",
+    "matched_ayah_text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+    "matched_ayah_id": null,
+    "score": 57.6271186440678
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 36.22,
+    "end_seconds": 47.82,
+    "start_time": "00:36",
+    "end_time": "00:47",
+    "segment_text": " إنها عليهم موصبة في عمد ممددة",
+    "matched_ayah_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 47.82,
+    "end_seconds": 49.82,
+    "start_time": "00:47",
+    "end_time": "00:49",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  }
+]

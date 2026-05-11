@@ -1,0 +1,83 @@
+[
+    {
+        "ayah": 8,
+        "start_seconds": 32.8,
+        "end_seconds": 36.8,
+        "start_time": "00:32",
+        "end_time": "00:36",
+        "text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 36.8,
+        "end_seconds": 40.0,
+        "start_time": "00:36",
+        "end_time": "00:40",
+        "text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+        "score": 0.68
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 40.0,
+        "end_seconds": 44.4,
+        "start_time": "00:40",
+        "end_time": "00:44",
+        "text": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+        "score": 0.75
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 44.4,
+        "end_seconds": 48.2,
+        "start_time": "00:44",
+        "end_time": "00:48",
+        "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+        "score": 0.65
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 48.2,
+        "end_seconds": 50.8,
+        "start_time": "00:48",
+        "end_time": "00:50",
+        "text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+        "score": 0.65
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 50.8,
+        "end_seconds": 54.8,
+        "start_time": "00:50",
+        "end_time": "00:54",
+        "text": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 54.8,
+        "end_seconds": 57.0,
+        "start_time": "00:54",
+        "end_time": "00:57",
+        "text": "وَمَا هُوَ بِٱلْهَزْلِ",
+        "score": 0.69
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 57.2,
+        "end_seconds": 63.4,
+        "start_time": "00:57",
+        "end_time": "01:03",
+        "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+        "score": 0.58
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 63.4,
+        "end_seconds": 68.2,
+        "start_time": "01:03",
+        "end_time": "01:08",
+        "text": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+        "score": 0.65
+    }
+]

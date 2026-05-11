@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 9.3,
+        "end_seconds": 13.7,
+        "start_time": "00:09",
+        "end_time": "00:13",
+        "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+        "score": 0.74
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 13.7,
+        "end_seconds": 19.4,
+        "start_time": "00:13",
+        "end_time": "00:19",
+        "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+        "score": 0.7
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 19.4,
+        "end_seconds": 24.5,
+        "start_time": "00:19",
+        "end_time": "00:24",
+        "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+        "score": 0.56
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 30.9,
+        "end_seconds": 34.9,
+        "start_time": "00:30",
+        "end_time": "00:34",
+        "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+        "score": 0.67
+    }
+]

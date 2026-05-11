@@ -1,0 +1,74 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 5.2,
+        "end_seconds": 9.8,
+        "start_time": "00:05",
+        "end_time": "00:09",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+        "score": 0.52
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 23.08,
+        "end_seconds": 28.08,
+        "start_time": "00:23",
+        "end_time": "00:28",
+        "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+        "score": 0.69
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 28.16,
+        "end_seconds": 33.32,
+        "start_time": "00:28",
+        "end_time": "00:33",
+        "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 33.32,
+        "end_seconds": 38.28,
+        "start_time": "00:33",
+        "end_time": "00:38",
+        "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+        "score": 0.62
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 38.28,
+        "end_seconds": 43.48,
+        "start_time": "00:38",
+        "end_time": "00:43",
+        "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+        "score": 0.71
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 43.48,
+        "end_seconds": 47.92,
+        "start_time": "00:43",
+        "end_time": "00:47",
+        "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+        "score": 0.7
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 47.92,
+        "end_seconds": 55.0,
+        "start_time": "00:47",
+        "end_time": "00:55",
+        "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+        "score": 0.69
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 55.0,
+        "end_seconds": 60.4,
+        "start_time": "00:55",
+        "end_time": "01:00",
+        "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "score": 0.68
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 16.24,
+        "end_seconds": 20.04,
+        "start_time": "00:16",
+        "end_time": "00:20",
+        "text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+        "score": 0.6
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 20.04,
+        "end_seconds": 25.44,
+        "start_time": "00:20",
+        "end_time": "00:25",
+        "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+        "score": 0.71
+    }
+]

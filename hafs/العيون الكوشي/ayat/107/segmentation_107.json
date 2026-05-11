@@ -1,0 +1,90 @@
+{
+  "surah": 107,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "start": 0.06,
+      "end": 9,
+      "matched_text": "بسم الله الرحمن الرحيم 6. أرايت الذي يكذب بالدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        9
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "start": 9.46,
+      "end": 12.74,
+      "matched_text": "فذلك الذي يدعوا اليتيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        14
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "start": 13.18,
+      "end": 16.84,
+      "matched_text": "ولا يحض على قعام المسكين",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        20
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "start": 17.34,
+      "end": 19.7,
+      "matched_text": "فويلوا للمفلين",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        23
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "start": 20.26,
+      "end": 24.66,
+      "matched_text": "الذين هم عن فلاتهم ساهون",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        29
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "start": 25.26,
+      "end": 27.34,
+      "matched_text": "الذين هم يراء",
+      "confidence": 1,
+      "matched_word_indices": [
+        31,
+        33
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "start": 30.41,
+      "end": 33.53,
+      "matched_text": "ويمنعون الماعون",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        35
+      ]
+    }
+  ],
+  "alignment_score": 22.761
+}

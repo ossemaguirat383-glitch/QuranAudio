@@ -1,0 +1,234 @@
+{
+  "surah": 87,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "start": 0,
+      "end": 5.08,
+      "matched_text": "إسم الله الرحمن الرحيم سبح اسم ربك لعل",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "start": 5.56,
+      "end": 8.4,
+      "matched_text": "الذي خلق فسوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "start": 8.4,
+      "end": 11.04,
+      "matched_text": "والذي قدر فهدى",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        13
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+      "start": 11.04,
+      "end": 15.76,
+      "matched_text": "والذي أخرج المرعى",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        16
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+      "start": 15.76,
+      "end": 20.54,
+      "matched_text": "فجعله غثاء نحوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        19
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "start": 20.54,
+      "end": 24.16,
+      "matched_text": "سنقرئك فلا تنسى",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        22
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+      "start": 24.16,
+      "end": 34.06,
+      "matched_text": "إلا ما شاء الله 102. الله إنه يعلم الجهر وما يغفى",
+      "confidence": 1,
+      "matched_word_indices": [
+        23,
+        33
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "start": 34.06,
+      "end": 36.32,
+      "matched_text": "ونُيسِّرُك لليُسراء",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        35
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+      "start": 36.32,
+      "end": 39.96,
+      "matched_text": "فذكر النفعة الذكرى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        36,
+        38
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+      "start": 39.96,
+      "end": 43.2,
+      "matched_text": "سيذكر مي يخشى",
+      "confidence": 1,
+      "matched_word_indices": [
+        39,
+        41
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+      "start": 43.2,
+      "end": 46.88,
+      "matched_text": "ويتجنبها لشقى",
+      "confidence": 1,
+      "matched_word_indices": [
+        42,
+        43
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+      "start": 46.88,
+      "end": 50.68,
+      "matched_text": "الذي يصلى النّار الكبرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        47
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "start": 50.68,
+      "end": 54.88,
+      "matched_text": "ثم لا يموت فيها ولا يحيا",
+      "confidence": 1,
+      "matched_word_indices": [
+        48,
+        53
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+      "start": 56.66,
+      "end": 58.46,
+      "matched_text": "تزكى",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        57,
+        57
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "start": 58.46,
+      "end": 61.28,
+      "matched_text": "وذكر اسم ربه فصلى",
+      "confidence": 1,
+      "matched_word_indices": [
+        58,
+        61
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "start": 61.28,
+      "end": 65.7,
+      "matched_text": "بل توثرون الحياة الدنيا",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        65
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+      "start": 65.7,
+      "end": 70.64,
+      "matched_text": "ولااخرة خير وأبقى",
+      "confidence": 1,
+      "matched_word_indices": [
+        66,
+        68
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+      "start": 70.64,
+      "end": 73.24,
+      "matched_text": "إن هذا لفي الصح",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        69,
+        72
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+      "start": 74.84,
+      "end": 78.42,
+      "matched_text": "صح في إبراهيم وموسى",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    }
+  ],
+  "alignment_score": 61.879
+}

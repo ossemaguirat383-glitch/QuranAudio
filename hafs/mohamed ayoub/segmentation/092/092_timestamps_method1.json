@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 10,
+        "start_seconds": 30.0,
+        "end_seconds": 33.0,
+        "start_time": "00:30",
+        "end_time": "00:33",
+        "text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+        "score": 0.59
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 67.0,
+        "end_seconds": 74.0,
+        "start_time": "01:07",
+        "end_time": "01:14",
+        "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+        "score": 0.71
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 75.0,
+        "end_seconds": 79.0,
+        "start_time": "01:15",
+        "end_time": "01:19",
+        "text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+        "score": 0.57
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 80.0,
+        "end_seconds": 82.0,
+        "start_time": "01:20",
+        "end_time": "01:22",
+        "text": "وَلَسَوْفَ يَرْضَىٰ",
+        "score": 0.69
+    }
+]

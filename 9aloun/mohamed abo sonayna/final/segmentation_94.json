@@ -1,0 +1,99 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "start": 0,
+      "end": 7.04,
+      "matched_text": "بسم الله الرحمن الرحيم ألم نشرح لك صدرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "start": 7.04,
+      "end": 10.4,
+      "matched_text": "ووضعنا عنك وزرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "start": 10.4,
+      "end": 13.68,
+      "matched_text": "الذي أن قضى ظهرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        14
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "start": 13.68,
+      "end": 16.56,
+      "matched_text": "ورفعنا لك ذكرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        17
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 17.2,
+      "end": 20.56,
+      "matched_text": "فإنما عن لوسر يسرى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 22.54,
+      "end": 24.1,
+      "matched_text": "لوسر يسرى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        24,
+        25
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "start": 28.45,
+      "end": 31.67,
+      "matched_text": "وإنى ربك فاررب",
+      "confidence": 1,
+      "matched_word_indices": [
+        26,
+        28
+      ]
+    }
+  ],
+  "alignment_score": 18.125
+}

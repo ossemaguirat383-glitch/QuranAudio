@@ -1,0 +1,138 @@
+{
+  "surah": 100,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "start": 0,
+      "end": 6.82,
+      "matched_text": "بسم الله الرحمن الرحيم والعاديات ضبحا",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "start": 6.82,
+      "end": 9.3,
+      "matched_text": "فالموريات قد",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        7
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "start": 12.41,
+      "end": 14.01,
+      "matched_text": "صبحا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        9,
+        9
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "start": 14.01,
+      "end": 16.35,
+      "matched_text": "فأفرن به نقا",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        12
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "start": 16.35,
+      "end": 24.44,
+      "matched_text": "فوسطن به جمعا",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "start": 24.44,
+      "end": 30.45,
+      "matched_text": "إن مسان لربه لكلونك",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "start": 37.72,
+      "end": 42.07,
+      "matched_text": "وإن لك لشهد",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "start": 42.07,
+      "end": 47.86,
+      "matched_text": "وإن يبّي الخير لشذي",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        25,
+        28
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "start": 50.47,
+      "end": 54.87,
+      "matched_text": "أفلا يعلم إذا بعفر ما في القمور",
+      "confidence": 1,
+      "matched_word_indices": [
+        30,
+        36
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "start": 54.87,
+      "end": 57.51,
+      "matched_text": "وحصل ما في الصدور",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        40
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "start": 57.51,
+      "end": 63.29,
+      "matched_text": "إن ربهم بهم يومئذ لخبير",
+      "confidence": 1,
+      "matched_word_indices": [
+        41,
+        45
+      ]
+    }
+  ],
+  "alignment_score": 31.737
+}

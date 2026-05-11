@@ -1,0 +1,200 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 6.2,
+    "start_time": "00:00",
+    "end_time": "00:06",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+    "matched_ayah_id": null,
+    "score": 57.57575757575757
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 6.2,
+    "end_seconds": 17.400000000000002,
+    "start_time": "00:06",
+    "end_time": "00:17",
+    "segment_text": " لا أقسم بهذا البلد وأنت حل بهذا البلد",
+    "matched_ayah_text": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+    "matched_ayah_id": null,
+    "score": 59.64912280701755
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 17.400000000000002,
+    "end_seconds": 21.2,
+    "start_time": "00:17",
+    "end_time": "00:21",
+    "segment_text": " ووالد وما ولد",
+    "matched_ayah_text": "وَوَالِدٍ وَمَا وَلَدَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 21.2,
+    "end_seconds": 26.2,
+    "start_time": "00:21",
+    "end_time": "00:26",
+    "segment_text": " لقد خلقنا الإنسان في كبد",
+    "matched_ayah_text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 26.2,
+    "end_seconds": 31.4,
+    "start_time": "00:26",
+    "end_time": "00:31",
+    "segment_text": " أيحسب أن لن يقدر عليه أحد",
+    "matched_ayah_text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 31.4,
+    "end_seconds": 35.4,
+    "start_time": "00:31",
+    "end_time": "00:35",
+    "segment_text": " يقول أهلكت مالا لبدا",
+    "matched_ayah_text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 35.4,
+    "end_seconds": 42.4,
+    "start_time": "00:35",
+    "end_time": "00:42",
+    "segment_text": " أيحسب أن لم يره أحد",
+    "matched_ayah_text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 95.0
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 42.4,
+    "end_seconds": 50.2,
+    "start_time": "00:42",
+    "end_time": "00:50",
+    "segment_text": " ألم نجعل له عينين ولسانا وشفتين",
+    "matched_ayah_text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+    "matched_ayah_id": null,
+    "score": 69.38775510204081
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 50.2,
+    "end_seconds": 56.400000000000006,
+    "start_time": "00:50",
+    "end_time": "00:56",
+    "segment_text": " وهديناه النجدين فلقت حما العقبة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+    "matched_ayah_id": null,
+    "score": 57.692307692307686
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 56.400000000000006,
+    "end_seconds": 63.400000000000006,
+    "start_time": "00:56",
+    "end_time": "01:03",
+    "segment_text": " وما أدرك مالعقبة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+    "matched_ayah_id": null,
+    "score": 86.48648648648648
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 63.400000000000006,
+    "end_seconds": 70.4,
+    "start_time": "01:03",
+    "end_time": "01:10",
+    "segment_text": " فك رقبتن وطعام في يوم ذي مسربة",
+    "matched_ayah_text": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+    "matched_ayah_id": null,
+    "score": 70.37037037037037
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 70.4,
+    "end_seconds": 74.4,
+    "start_time": "01:10",
+    "end_time": "01:14",
+    "segment_text": " يتيما ذا مقربة",
+    "matched_ayah_text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 74.4,
+    "end_seconds": 79.0,
+    "start_time": "01:14",
+    "end_time": "01:19",
+    "segment_text": " أو مسكينا ذا متربة",
+    "matched_ayah_text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 79.2,
+    "end_seconds": 85.4,
+    "start_time": "01:19",
+    "end_time": "01:25",
+    "segment_text": " ثم كان من الذين آمنوا وتواصوا بالصبر",
+    "matched_ayah_text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+    "matched_ayah_id": null,
+    "score": 73.11827956989248
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 85.4,
+    "end_seconds": 88.4,
+    "start_time": "01:25",
+    "end_time": "01:28",
+    "segment_text": " وتواصوا بالمرحمة",
+    "matched_ayah_text": "وَوَالِدٍ وَمَا وَلَدَ",
+    "matched_ayah_id": null,
+    "score": 48.275862068965516
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 88.4,
+    "end_seconds": 95.4,
+    "start_time": "01:28",
+    "end_time": "01:35",
+    "segment_text": " أولئك أصحاب الميمنة",
+    "matched_ayah_text": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+    "matched_ayah_id": null,
+    "score": 82.92682926829268
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 95.4,
+    "end_seconds": 104.4,
+    "start_time": "01:35",
+    "end_time": "01:44",
+    "segment_text": " والذين كفروا بآياتنا هم أصحاب المشأمة",
+    "matched_ayah_text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+    "matched_ayah_id": null,
+    "score": 84.21052631578947
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 104.4,
+    "end_seconds": 108.4,
+    "start_time": "01:44",
+    "end_time": "01:48",
+    "segment_text": " عليهم نار موصدة",
+    "matched_ayah_text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+    "matched_ayah_id": null,
+    "score": 90.32258064516128
+  }
+]

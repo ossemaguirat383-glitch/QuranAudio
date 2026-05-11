@@ -1,0 +1,102 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "start": 3.3,
+      "end": 10,
+      "matched_text": "بسم الله الرحمن الرحمن 113 - ألم نشرح لك صدرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        16
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "start": 10,
+      "end": 13.24,
+      "matched_text": "ووضعنا عنك وزرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        19
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "start": 13.24,
+      "end": 16.58,
+      "matched_text": "الذي أنقف ظهرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        22
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "start": 16.58,
+      "end": 19.48,
+      "matched_text": "ورفعنا لك ذكرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        23,
+        25
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 19.48,
+      "end": 23.14,
+      "matched_text": "فإنما عال عسري يسرى",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        26,
+        29
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 23.14,
+      "end": 26,
+      "matched_text": "إنما عالوا سري وصرا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        30,
+        33
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "start": 26,
+      "end": 29.14,
+      "matched_text": "فإذا فرأت فرصب",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        36
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "start": 29.14,
+      "end": 32.1,
+      "matched_text": "وإلى ربك فرغب",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        39
+      ]
+    }
+  ],
+  "alignment_score": 16.775
+}

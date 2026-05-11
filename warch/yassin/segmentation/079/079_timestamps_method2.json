@@ -1,0 +1,233 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.96,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
+    "matched_ayah_id": null,
+    "score": 63.33333333333333
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.96,
+    "end_seconds": 16.4,
+    "start_time": "00:03",
+    "end_time": "00:16",
+    "segment_text": " والنازعات غرقاً والناشطات نشطاً والسابحات سبحاً فالسابقات سبقاً",
+    "matched_ayah_text": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 38.70967741935484
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 16.4,
+    "end_seconds": 24.159999999999997,
+    "start_time": "00:16",
+    "end_time": "00:24",
+    "segment_text": " فالمدبرات أمراً يوم ترجف الراجفة تتبعها الرادفة",
+    "matched_ayah_text": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ",
+    "matched_ayah_id": null,
+    "score": 48.38709677419355
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.159999999999997,
+    "end_seconds": 31.36,
+    "start_time": "00:24",
+    "end_time": "00:31",
+    "segment_text": " قلوب يومئذ واجفة نبصارها خاشعة",
+    "matched_ayah_text": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+    "matched_ayah_id": null,
+    "score": 69.56521739130434
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 31.36,
+    "end_seconds": 42.480000000000004,
+    "start_time": "00:31",
+    "end_time": "00:42",
+    "segment_text": " يقولون أإنا لمردودون في الحافرة إذا كنا عظاماً نخرة",
+    "matched_ayah_text": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+    "matched_ayah_id": null,
+    "score": 71.60493827160495
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 42.559999999999995,
+    "end_seconds": 56.239999999999995,
+    "start_time": "00:42",
+    "end_time": "00:56",
+    "segment_text": " قالوا تلك إذا كرة خاسرة فإنما هي زجرة واحدة فإذا هم بالساهرة",
+    "matched_ayah_text": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+    "matched_ayah_id": null,
+    "score": 54.761904761904766
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 56.239999999999995,
+    "end_seconds": 67.92,
+    "start_time": "00:56",
+    "end_time": "01:07",
+    "segment_text": " هل تاك حديث موسى إذ ناداه ربه بالواد المقدس طوا",
+    "matched_ayah_text": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+    "matched_ayah_id": null,
+    "score": 65.82278481012658
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 68.0,
+    "end_seconds": 79.6,
+    "start_time": "01:08",
+    "end_time": "01:19",
+    "segment_text": " اذهب إلى فرعون إنه طغى فقل هل لك إلاء أن تزكى",
+    "matched_ayah_text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+    "matched_ayah_id": null,
+    "score": 60.0
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 79.6,
+    "end_seconds": 88.56,
+    "start_time": "01:19",
+    "end_time": "01:28",
+    "segment_text": " وأهديك إلى ربك فتخشى فأراه لايت الكبرى فكذب وعصى",
+    "matched_ayah_text": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+    "matched_ayah_id": null,
+    "score": 57.14285714285714
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 88.56,
+    "end_seconds": 97.28,
+    "start_time": "01:28",
+    "end_time": "01:37",
+    "segment_text": " ثم أدبر يسعى فحشر فنادا فقال أنا ربكم لعلى",
+    "matched_ayah_text": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+    "matched_ayah_id": null,
+    "score": 56.25
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 97.36,
+    "end_seconds": 109.36,
+    "start_time": "01:37",
+    "end_time": "01:49",
+    "segment_text": " فأخذه الله نكال لآخرة ولولا إن في ذلك لعبرة لمن يخشى",
+    "matched_ayah_text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 61.1764705882353
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 109.67999999999999,
+    "end_seconds": 129.68,
+    "start_time": "01:49",
+    "end_time": "02:09",
+    "segment_text": " أنتم أشد خلقاً من السماء بناها رفع سمكها فسواها",
+    "matched_ayah_text": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 65.0
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 129.76000000000002,
+    "end_seconds": 137.76000000000002,
+    "start_time": "02:09",
+    "end_time": "02:17",
+    "segment_text": " وأغطش ليلها وأخرج ضحاها ولرض بعد ذلك دحاها",
+    "matched_ayah_text": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 137.76000000000002,
+    "end_seconds": 147.84,
+    "start_time": "02:17",
+    "end_time": "02:27",
+    "segment_text": " أخرج منها ماءها ومرعاها والجبال أرساها",
+    "matched_ayah_text": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 69.84126984126983
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 147.92000000000002,
+    "end_seconds": 163.2,
+    "start_time": "02:27",
+    "end_time": "02:43",
+    "segment_text": " متاعا لكم ولأنعامكم فإذا جاءت الطامة الكبرى",
+    "matched_ayah_text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 60.86956521739131
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 163.2,
+    "end_seconds": 172.0,
+    "start_time": "02:43",
+    "end_time": "02:52",
+    "segment_text": " يوم يتذكر الإنسان ما سعى وبرزة الجحيم لمن يرى",
+    "matched_ayah_text": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ",
+    "matched_ayah_id": null,
+    "score": 62.857142857142854
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 172.16,
+    "end_seconds": 182.56,
+    "start_time": "02:52",
+    "end_time": "03:02",
+    "segment_text": " فأما من طضى وآثر الحياة الدنيا فإن الجحيم هي المأوى",
+    "matched_ayah_text": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+    "matched_ayah_id": null,
+    "score": 50.0
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 182.56,
+    "end_seconds": 196.16,
+    "start_time": "03:02",
+    "end_time": "03:16",
+    "segment_text": " وأما من خاف مقام ربه ونهى النفس عن الهوى فإن الجنة هي المأوى",
+    "matched_ayah_text": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+    "matched_ayah_id": null,
+    "score": 74.50980392156863
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 196.32,
+    "end_seconds": 205.28,
+    "start_time": "03:16",
+    "end_time": "03:25",
+    "segment_text": " يسألونك عن الساعة أيان مرساها فيما أنت من ذكرها",
+    "matched_ayah_text": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 70.12987012987013
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 205.28,
+    "end_seconds": 219.12,
+    "start_time": "03:25",
+    "end_time": "03:39",
+    "segment_text": " إلى ربك منتهاها إنما أنت منذر من يخشاها",
+    "matched_ayah_text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 68.75
+  },
+  {
+    "segment_id": 20,
+    "start_seconds": 219.12,
+    "end_seconds": 230.64000000000001,
+    "start_time": "03:39",
+    "end_time": "03:50",
+    "segment_text": " كأنهم يوم يرونها لم يلبثوا إلا عشية نوضحاها",
+    "matched_ayah_text": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 91.11111111111111
+  }
+]

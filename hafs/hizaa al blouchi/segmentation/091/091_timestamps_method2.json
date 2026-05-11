@@ -1,0 +1,134 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.0,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 63.33333333333333
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.0,
+    "end_seconds": 9.0,
+    "start_time": "00:04",
+    "end_time": "00:09",
+    "segment_text": " والشمس وضحاها والقمر إذا تلاها",
+    "matched_ayah_text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 59.57446808510638
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.0,
+    "end_seconds": 16.0,
+    "start_time": "00:09",
+    "end_time": "00:16",
+    "segment_text": " والنهار إذا جلاها والليل إذا يغشاها",
+    "matched_ayah_text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 60.37735849056604
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 16.0,
+    "end_seconds": 21.0,
+    "start_time": "00:16",
+    "end_time": "00:21",
+    "segment_text": " والسماء وما بناها",
+    "matched_ayah_text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 83.33333333333334
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 21.0,
+    "end_seconds": 27.0,
+    "start_time": "00:21",
+    "end_time": "00:27",
+    "segment_text": " والأرض وما ضحاها ونفس وما سواها",
+    "matched_ayah_text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 56.52173913043479
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 27.0,
+    "end_seconds": 31.0,
+    "start_time": "00:27",
+    "end_time": "00:31",
+    "segment_text": " فألهمها فجورها وتقواها",
+    "matched_ayah_text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 93.33333333333333
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 31.0,
+    "end_seconds": 35.0,
+    "start_time": "00:31",
+    "end_time": "00:35",
+    "segment_text": " قد أفلح من زكاها",
+    "matched_ayah_text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 35.0,
+    "end_seconds": 39.0,
+    "start_time": "00:35",
+    "end_time": "00:39",
+    "segment_text": " وقد خاب من دساها",
+    "matched_ayah_text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 39.0,
+    "end_seconds": 47.0,
+    "start_time": "00:39",
+    "end_time": "00:47",
+    "segment_text": " كذبت ثمول بطغواها إذن بعث أشقاها",
+    "matched_ayah_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+    "matched_ayah_id": null,
+    "score": 58.82352941176471
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 47.0,
+    "end_seconds": 53.0,
+    "start_time": "00:47",
+    "end_time": "00:53",
+    "segment_text": " فقال لهم رسول الله ناقة الله وسقياها",
+    "matched_ayah_text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 53.0,
+    "end_seconds": 63.0,
+    "start_time": "00:53",
+    "end_time": "01:03",
+    "segment_text": " فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها",
+    "matched_ayah_text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 95.65217391304348
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 63.0,
+    "end_seconds": 67.0,
+    "start_time": "01:03",
+    "end_time": "01:07",
+    "segment_text": " ولا يخاف عقباها",
+    "matched_ayah_text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+    "matched_ayah_id": null,
+    "score": 93.33333333333333
+  }
+]

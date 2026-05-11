@@ -1,0 +1,47 @@
+[
+    {
+        "ayah": 4,
+        "start_seconds": 12.84,
+        "end_seconds": 18.14,
+        "start_time": "00:12",
+        "end_time": "00:18",
+        "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 18.14,
+        "end_seconds": 23.08,
+        "start_time": "00:18",
+        "end_time": "00:23",
+        "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+        "score": 0.59
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 23.08,
+        "end_seconds": 30.28,
+        "start_time": "00:23",
+        "end_time": "00:30",
+        "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "score": 0.52
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 30.28,
+        "end_seconds": 36.76,
+        "start_time": "00:30",
+        "end_time": "00:36",
+        "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "score": 0.55
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 36.76,
+        "end_seconds": 41.96,
+        "start_time": "00:36",
+        "end_time": "00:41",
+        "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "score": 0.53
+    }
+]

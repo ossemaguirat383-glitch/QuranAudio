@@ -1,0 +1,24 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 12.88,
+    "start_time": "00:00",
+    "end_time": "00:12",
+    "segment_text": " بسم الله الرحمن الرحيم لإيلاف قريش إيلافهم رحلة الشتاء والصيف",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 62.5
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 12.88,
+    "end_seconds": 26.0,
+    "start_time": "00:12",
+    "end_time": "00:26",
+    "segment_text": " فليعبدوا رب هذا البيت الذي أطعمهم من جوع وآمنهم من خوف",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 69.6629213483146
+  }
+]

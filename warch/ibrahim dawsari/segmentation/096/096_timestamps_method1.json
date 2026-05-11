@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 8,
+        "start_seconds": 41.6,
+        "end_seconds": 52.2,
+        "start_time": "00:41",
+        "end_time": "00:52",
+        "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+        "score": 0.46
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 52.2,
+        "end_seconds": 62.4,
+        "start_time": "00:52",
+        "end_time": "01:02",
+        "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+        "score": 0.51
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 62.4,
+        "end_seconds": 70.04,
+        "start_time": "01:02",
+        "end_time": "01:10",
+        "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+        "score": 0.68
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 70.24,
+        "end_seconds": 73.64,
+        "start_time": "01:10",
+        "end_time": "01:13",
+        "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+        "score": 0.58
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 73.64,
+        "end_seconds": 81.84,
+        "start_time": "01:13",
+        "end_time": "01:21",
+        "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+        "score": 0.64
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 81.84,
+        "end_seconds": 88.84,
+        "start_time": "01:21",
+        "end_time": "01:28",
+        "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+        "score": 0.69
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 99.64,
+        "end_seconds": 106.04,
+        "start_time": "01:39",
+        "end_time": "01:46",
+        "text": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+        "score": 0.68
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 106.04,
+        "end_seconds": 109.44,
+        "start_time": "01:46",
+        "end_time": "01:49",
+        "text": "فَلْيَدْعُ نَادِيَهُۥ",
+        "score": 0.69
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 109.44,
+        "end_seconds": 113.24,
+        "start_time": "01:49",
+        "end_time": "01:53",
+        "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+        "score": 0.61
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 113.24,
+        "end_seconds": 119.24,
+        "start_time": "01:53",
+        "end_time": "01:59",
+        "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+        "score": 0.69
+    }
+]

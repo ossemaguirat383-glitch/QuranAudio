@@ -1,0 +1,137 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 11.28,
+        "end_seconds": 15.08,
+        "start_time": "00:11",
+        "end_time": "00:15",
+        "text": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+        "score": 0.65
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 15.08,
+        "end_seconds": 21.24,
+        "start_time": "00:15",
+        "end_time": "00:21",
+        "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+        "score": 0.46
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.24,
+        "end_seconds": 25.96,
+        "start_time": "00:21",
+        "end_time": "00:25",
+        "text": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+        "score": 0.67
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 25.96,
+        "end_seconds": 31.12,
+        "start_time": "00:25",
+        "end_time": "00:31",
+        "text": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+        "score": 0.6
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 33.92,
+        "end_seconds": 37.72,
+        "start_time": "00:33",
+        "end_time": "00:37",
+        "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+        "score": 0.61
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 37.72,
+        "end_seconds": 43.56,
+        "start_time": "00:37",
+        "end_time": "00:43",
+        "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+        "score": 0.48
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 43.56,
+        "end_seconds": 47.8,
+        "start_time": "00:43",
+        "end_time": "00:47",
+        "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+        "score": 0.68
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 47.8,
+        "end_seconds": 50.48,
+        "start_time": "00:47",
+        "end_time": "00:50",
+        "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+        "score": 0.65
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 50.48,
+        "end_seconds": 54.88,
+        "start_time": "00:50",
+        "end_time": "00:54",
+        "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+        "score": 0.64
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 54.92,
+        "end_seconds": 59.84,
+        "start_time": "00:54",
+        "end_time": "00:59",
+        "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+        "score": 0.69
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 59.84,
+        "end_seconds": 66.84,
+        "start_time": "00:59",
+        "end_time": "01:06",
+        "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+        "score": 0.62
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 66.84,
+        "end_seconds": 71.32,
+        "start_time": "01:06",
+        "end_time": "01:11",
+        "text": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+        "score": 0.68
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 71.32,
+        "end_seconds": 73.68,
+        "start_time": "01:11",
+        "end_time": "01:13",
+        "text": "فَلْيَدْعُ نَادِيَهُۥ",
+        "score": 0.69
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 73.68,
+        "end_seconds": 76.84,
+        "start_time": "01:13",
+        "end_time": "01:16",
+        "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+        "score": 0.67
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 76.84,
+        "end_seconds": 81.52,
+        "start_time": "01:16",
+        "end_time": "01:21",
+        "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+        "score": 0.69
+    }
+]

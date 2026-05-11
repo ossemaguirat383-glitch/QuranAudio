@@ -1,0 +1,112 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.2800000000000002,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 55.072463768115945
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.2800000000000002,
+    "end_seconds": 7.2,
+    "start_time": "00:03",
+    "end_time": "00:07",
+    "segment_text": " إذا زلزلت الأرض زلزالها",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 62.857142857142854
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 7.2,
+    "end_seconds": 10.8,
+    "start_time": "00:07",
+    "end_time": "00:10",
+    "segment_text": " وأخرجت الأرض أثقالها",
+    "matched_ayah_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "matched_ayah_id": null,
+    "score": 95.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 10.8,
+    "end_seconds": 15.76,
+    "start_time": "00:10",
+    "end_time": "00:15",
+    "segment_text": " وقال الإنسان مالها",
+    "matched_ayah_text": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+    "matched_ayah_id": null,
+    "score": 86.48648648648648
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 15.76,
+    "end_seconds": 20.72,
+    "start_time": "00:15",
+    "end_time": "00:20",
+    "segment_text": " يومئذ تحدث أخبارها",
+    "matched_ayah_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 20.72,
+    "end_seconds": 25.04,
+    "start_time": "00:20",
+    "end_time": "00:25",
+    "segment_text": " بأن ربك أوحالها",
+    "matched_ayah_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 25.2,
+    "end_seconds": 30.32,
+    "start_time": "00:25",
+    "end_time": "00:30",
+    "segment_text": " يومئذ يصدر الناس أشتاةً",
+    "matched_ayah_text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "matched_ayah_id": null,
+    "score": 70.0
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 30.32,
+    "end_seconds": 32.72,
+    "start_time": "00:30",
+    "end_time": "00:32",
+    "segment_text": " ليروا أعمالهم",
+    "matched_ayah_text": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+    "matched_ayah_id": null,
+    "score": 50.0
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 32.72,
+    "end_seconds": 38.8,
+    "start_time": "00:32",
+    "end_time": "00:38",
+    "segment_text": " فمن يعمل مثقال ذرة خيراً يره",
+    "matched_ayah_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 98.18181818181819
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 38.8,
+    "end_seconds": 47.76,
+    "start_time": "00:38",
+    "end_time": "00:47",
+    "segment_text": " ومن يعمل مثقال ذرة شراً يره",
+    "matched_ayah_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 98.11320754716981
+  }
+]

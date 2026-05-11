@@ -1,0 +1,84 @@
+{
+  "surah": 102,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "start": 0,
+      "end": 5.94,
+      "matched_text": "بسم الله الرحمن الرحيل",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        0,
+        3
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "start": 11.88,
+      "end": 14.16,
+      "matched_text": "حتى",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        6,
+        6
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -8.286
+}

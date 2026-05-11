@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.0,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.0,
+    "end_seconds": 9.0,
+    "start_time": "00:04",
+    "end_time": "00:09",
+    "segment_text": " ألهاكم التكاثر حتى زرتم المقابر",
+    "matched_ayah_text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+    "matched_ayah_id": null,
+    "score": 62.5
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.0,
+    "end_seconds": 13.0,
+    "start_time": "00:09",
+    "end_time": "00:13",
+    "segment_text": " كلا سوف تعلمون",
+    "matched_ayah_text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 13.0,
+    "end_seconds": 17.0,
+    "start_time": "00:13",
+    "end_time": "00:17",
+    "segment_text": " ثم كلا سوف تعلمون",
+    "matched_ayah_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 17.0,
+    "end_seconds": 22.0,
+    "start_time": "00:17",
+    "end_time": "00:22",
+    "segment_text": " كلا لو تعلمون علما اليقين",
+    "matched_ayah_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+    "matched_ayah_id": null,
+    "score": 93.87755102040816
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 22.0,
+    "end_seconds": 26.0,
+    "start_time": "00:22",
+    "end_time": "00:26",
+    "segment_text": " لترون الجحيم",
+    "matched_ayah_text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 26.0,
+    "end_seconds": 31.0,
+    "start_time": "00:26",
+    "end_time": "00:31",
+    "segment_text": " ثم لترونها عين اليقين",
+    "matched_ayah_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+    "matched_ayah_id": null,
+    "score": 95.23809523809523
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 31.0,
+    "end_seconds": 39.0,
+    "start_time": "00:31",
+    "end_time": "00:39",
+    "segment_text": " ثم لتسألون يومئذ عن النعيم",
+    "matched_ayah_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+    "matched_ayah_id": null,
+    "score": 90.19607843137256
+  }
+]

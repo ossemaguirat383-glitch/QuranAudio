@@ -1,0 +1,138 @@
+{
+  "surah": 93,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "start": 0.3,
+      "end": 3.52,
+      "matched_text": "بسم الله الرحمن الرحيم 11. وضحا",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        6
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "start": 3.52,
+      "end": 5.6,
+      "matched_text": "واللير إذا سجا",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "start": 5.92,
+      "end": 9.14,
+      "matched_text": "ما ودعك ربك وما قلا",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "start": 9.36,
+      "end": 13.3,
+      "matched_text": "وللآخرة خير للفم من الأولى",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        17,
+        21
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "start": 13.54,
+      "end": 17.34,
+      "matched_text": "ولسوف يعطيك ربك فترضا",
+      "confidence": 1,
+      "matched_word_indices": [
+        23,
+        26
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "start": 17.68,
+      "end": 21.54,
+      "matched_text": "ألم يجدك يتيما فآوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        31
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "start": 21.54,
+      "end": 26.9,
+      "matched_text": "ووجدك ضال فهدا",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        34
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "start": 26.9,
+      "end": 32.84,
+      "matched_text": "ووجدك عائلا فأونى",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        37
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "start": 32.84,
+      "end": 36.66,
+      "matched_text": "فأما اليتيم فلا تقهر",
+      "confidence": 1,
+      "matched_word_indices": [
+        38,
+        41
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "start": 36.66,
+      "end": 42.98,
+      "matched_text": "وأما السائل فلا تنهر",
+      "confidence": 1,
+      "matched_word_indices": [
+        42,
+        45
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "start": 42.98,
+      "end": 47.62,
+      "matched_text": "وأما بنعمة ربك فحدث",
+      "confidence": 1,
+      "matched_word_indices": [
+        46,
+        49
+      ]
+    }
+  ],
+  "alignment_score": 36.275
+}

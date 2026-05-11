@@ -1,0 +1,123 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.6,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+    "matched_ayah_id": null,
+    "score": 61.29032258064516
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 30.0,
+    "end_seconds": 32.8,
+    "start_time": "00:30",
+    "end_time": "00:32",
+    "segment_text": " والترائب",
+    "matched_ayah_text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+    "matched_ayah_id": null,
+    "score": 40.0
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 32.8,
+    "end_seconds": 36.8,
+    "start_time": "00:32",
+    "end_time": "00:36",
+    "segment_text": " إنه على رجعه لقادر",
+    "matched_ayah_text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 36.8,
+    "end_seconds": 40.0,
+    "start_time": "00:36",
+    "end_time": "00:40",
+    "segment_text": " يوم تبلى السرائر",
+    "matched_ayah_text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 40.0,
+    "end_seconds": 44.4,
+    "start_time": "00:40",
+    "end_time": "00:44",
+    "segment_text": " فما له من قوة ولا ناصر",
+    "matched_ayah_text": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+    "matched_ayah_id": null,
+    "score": 97.77777777777777
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 44.4,
+    "end_seconds": 48.2,
+    "start_time": "00:44",
+    "end_time": "00:48",
+    "segment_text": " والسماء ذات الرجع",
+    "matched_ayah_text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 48.2,
+    "end_seconds": 50.8,
+    "start_time": "00:48",
+    "end_time": "00:50",
+    "segment_text": " والأرض ذات الصدع",
+    "matched_ayah_text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 50.8,
+    "end_seconds": 54.8,
+    "start_time": "00:50",
+    "end_time": "00:54",
+    "segment_text": " إنه لقول فصل",
+    "matched_ayah_text": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 54.8,
+    "end_seconds": 57.0,
+    "start_time": "00:54",
+    "end_time": "00:57",
+    "segment_text": " وما هو بالهزل",
+    "matched_ayah_text": "وَمَا هُوَ بِٱلْهَزْلِ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 57.2,
+    "end_seconds": 63.4,
+    "start_time": "00:57",
+    "end_time": "01:03",
+    "segment_text": " إنهم يكيدون كيدا وأكيد كيدا",
+    "matched_ayah_text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+    "matched_ayah_id": null,
+    "score": 74.4186046511628
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 63.4,
+    "end_seconds": 68.2,
+    "start_time": "01:03",
+    "end_time": "01:08",
+    "segment_text": " فمهل الكافرين أمهلهم رويدا",
+    "matched_ayah_text": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+    "matched_ayah_id": null,
+    "score": 90.56603773584906
+  }
+]

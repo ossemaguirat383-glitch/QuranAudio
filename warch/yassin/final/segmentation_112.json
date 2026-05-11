@@ -1,0 +1,54 @@
+{
+  "surah": 112,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "start": 0,
+      "end": 5.24,
+      "matched_text": "بسم الله الرحمن الرحيم قل هو الله أحد",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱللَّهُ ٱلصَّمَدُ",
+      "start": 6.08,
+      "end": 8.06,
+      "matched_text": "الله الصمد",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "start": 8.32,
+      "end": 11.82,
+      "matched_text": "لم يلد ولم يولد",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        13
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "start": 11.82,
+      "end": 14.86,
+      "matched_text": "ولم يكله كفأنا حد",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        14,
+        17
+      ]
+    }
+  ],
+  "alignment_score": 15.65
+}

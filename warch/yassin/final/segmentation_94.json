@@ -1,0 +1,102 @@
+{
+  "surah": 94,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "start": 0.3,
+      "end": 7.08,
+      "matched_text": "بسم الله الرحمن الرحيم 6. ألم نشرح لك صدرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        9
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "start": 7.08,
+      "end": 10.08,
+      "matched_text": "ووضعنا عنك وزرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        12
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "start": 10.08,
+      "end": 15.58,
+      "matched_text": "الذي أنقض ظهرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "start": 17.2,
+      "end": 19.32,
+      "matched_text": "ورفعنا لك ذكرك",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        19
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 19.32,
+      "end": 23.54,
+      "matched_text": "فإن مع العسري وسرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        23
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "start": 23.54,
+      "end": 27.34,
+      "matched_text": "إنما العسري يسرى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        24,
+        26
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "start": 27.34,
+      "end": 30.42,
+      "matched_text": "فإذا فرضت فانصد",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        29
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "start": 30.42,
+      "end": 32.78,
+      "matched_text": "وإلى ربك فرغد",
+      "confidence": 1,
+      "matched_word_indices": [
+        30,
+        32
+      ]
+    }
+  ],
+  "alignment_score": 24.35
+}

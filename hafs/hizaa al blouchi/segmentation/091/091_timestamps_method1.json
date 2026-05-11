@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 5,
+        "start_seconds": 16.0,
+        "end_seconds": 21.0,
+        "start_time": "00:16",
+        "end_time": "00:21",
+        "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 27.0,
+        "end_seconds": 31.0,
+        "start_time": "00:27",
+        "end_time": "00:31",
+        "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 31.0,
+        "end_seconds": 35.0,
+        "start_time": "00:31",
+        "end_time": "00:35",
+        "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "score": 0.64
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 35.0,
+        "end_seconds": 39.0,
+        "start_time": "00:35",
+        "end_time": "00:39",
+        "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+        "score": 0.65
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 47.0,
+        "end_seconds": 53.0,
+        "start_time": "00:47",
+        "end_time": "00:53",
+        "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 53.0,
+        "end_seconds": 63.0,
+        "start_time": "00:53",
+        "end_time": "01:03",
+        "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+        "score": 0.68
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 63.0,
+        "end_seconds": 67.0,
+        "start_time": "01:03",
+        "end_time": "01:07",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.65
+    }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.6000000000000005,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+    "matched_ayah_id": null,
+    "score": 56.71641791044777
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.6,
+    "end_seconds": 31.200000000000003,
+    "start_time": "00:07",
+    "end_time": "00:31",
+    "segment_text": " هل تاك حبيث الغاشية وجوه يومئذ خاشعة عاملة ناصبة تصلى نارا حامية تسقى من عين نانية",
+    "matched_ayah_text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+    "matched_ayah_id": null,
+    "score": 35.84905660377359
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 31.2,
+    "end_seconds": 45.6,
+    "start_time": "00:31",
+    "end_time": "00:45",
+    "segment_text": " ليس لهم طعام إلا من ضريع لا يسمن ولا يغني من جوع",
+    "matched_ayah_text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 45.6,
+    "end_seconds": 74.48,
+    "start_time": "00:45",
+    "end_time": "01:14",
+    "segment_text": " وجوه يومئذ ناعمة لسعيها راضية في جنة عالية لا تسمع فيها لاغية فيها عين جارية فيها سرر مرفوع",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+    "matched_ayah_id": null,
+    "score": 32.35294117647059
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 74.64,
+    "end_seconds": 87.60000000000001,
+    "start_time": "01:14",
+    "end_time": "01:27",
+    "segment_text": " وأكواب موضوعة ونمارق مصفوفة وزرابي مبثوثة",
+    "matched_ayah_text": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+    "matched_ayah_id": null,
+    "score": 48.14814814814815
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 87.75999999999999,
+    "end_seconds": 106.56,
+    "start_time": "01:27",
+    "end_time": "01:46",
+    "segment_text": " أفلا ينظرون إلى لبل كيف خلقت وإلى السماء كيف رفعت وإلى الجبال كيف نصبت",
+    "matched_ayah_text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+    "matched_ayah_id": null,
+    "score": 56.00000000000001
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 106.72,
+    "end_seconds": 135.12,
+    "start_time": "01:46",
+    "end_time": "02:15",
+    "segment_text": " وإلى لرض كيف سطحت فذكر إنما أنت مذكر لست عليهم بمسيطر إلا من تولى وكفر فيعذبه الله العذاب لكبر",
+    "matched_ayah_text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+    "matched_ayah_id": null,
+    "score": 35.29411764705882
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 135.12,
+    "end_seconds": 147.68,
+    "start_time": "02:15",
+    "end_time": "02:27",
+    "segment_text": " إن إلينا إيابهم ثم إن علينا حسابهم",
+    "matched_ayah_text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+    "matched_ayah_id": null,
+    "score": 69.23076923076923
+  }
+]

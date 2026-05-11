@@ -1,0 +1,240 @@
+{
+  "surah": 85,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "start": 0,
+      "end": 15.65,
+      "matched_text": "بسم الله الرحمن الرحي والسماء ذات البروء",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        6
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "start": 18.15,
+      "end": 21.09,
+      "matched_text": "واليوم الموع",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        8
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "start": 24.43,
+      "end": 28.75,
+      "matched_text": "وشاهد ومشهو",
+      "confidence": 1,
+      "matched_word_indices": [
+        9,
+        10
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "start": 30.93,
+      "end": 35.25,
+      "matched_text": "قتل أصحاب الأخد",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        13
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "start": 37.74,
+      "end": 38.46,
+      "matched_text": "أن",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        14,
+        14
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "start": 59.12,
+      "end": 60.46,
+      "matched_text": "شهو",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        16,
+        16
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "start": 86.03,
+      "end": 86.95,
+      "matched_text": "السماء",
+      "confidence": 0.111,
+      "matched_word_indices": [
+        17,
+        17
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "start": 91.94,
+      "end": 98.91,
+      "matched_text": "والله شيء شهين",
+      "confidence": 0.3,
+      "matched_word_indices": [
+        20,
+        22
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "start": 114,
+      "end": 116.46,
+      "matched_text": "يتوبوا فلا",
+      "confidence": 0.143,
+      "matched_word_indices": [
+        24,
+        25
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "start": 159.18,
+      "end": 160.08,
+      "matched_text": "تشرب",
+      "confidence": 0.071,
+      "matched_word_indices": [
+        26,
+        26
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "start": 160.08,
+      "end": 163.06,
+      "matched_text": "بك لشديد",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        27,
+        28
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "start": 164.75,
+      "end": 164.93,
+      "matched_text": "إن",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        29,
+        29
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 16,
+      "text": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 17,
+      "text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 18,
+      "text": "فِرْعَوْنَ وَثَمُودَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 19,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 20,
+      "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 21,
+      "text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 22,
+      "text": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -23.057
+}

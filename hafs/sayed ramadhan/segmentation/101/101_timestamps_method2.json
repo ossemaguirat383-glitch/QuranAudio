@@ -1,0 +1,79 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 6.6000000000000005,
+    "start_time": "00:00",
+    "end_time": "00:06",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 46.34146341463414
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.1000000000000005,
+    "end_seconds": 12.84,
+    "start_time": "00:07",
+    "end_time": "00:12",
+    "segment_text": " القارعة ما القارعة وما أدراك ما القارعة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 59.01639344262295
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 12.84,
+    "end_seconds": 18.14,
+    "start_time": "00:12",
+    "end_time": "00:18",
+    "segment_text": " يوم يكون الناس كالفراش المبثوث",
+    "matched_ayah_text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 18.14,
+    "end_seconds": 23.080000000000002,
+    "start_time": "00:18",
+    "end_time": "00:23",
+    "segment_text": " وتكون الجبال كالعهن المنفوش",
+    "matched_ayah_text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 23.08,
+    "end_seconds": 30.279999999999998,
+    "start_time": "00:23",
+    "end_time": "00:30",
+    "segment_text": " فأما من ثقلت موازينه فهو في عيشة راضية",
+    "matched_ayah_text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+    "matched_ayah_id": null,
+    "score": 64.40677966101696
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 30.279999999999998,
+    "end_seconds": 36.76,
+    "start_time": "00:30",
+    "end_time": "00:36",
+    "segment_text": " وأما من خفت موازينه فأمه هاوية",
+    "matched_ayah_text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "matched_ayah_id": null,
+    "score": 72.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 36.76,
+    "end_seconds": 41.959999999999994,
+    "start_time": "00:36",
+    "end_time": "00:41",
+    "segment_text": " وما أدراك ما هي نار حامية",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+    "matched_ayah_id": null,
+    "score": 69.76744186046511
+  }
+]

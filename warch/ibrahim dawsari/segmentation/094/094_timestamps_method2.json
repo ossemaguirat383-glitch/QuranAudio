@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.6000000000000005,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " 1- بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.6000000000000005,
+    "end_seconds": 11.68,
+    "start_time": "00:07",
+    "end_time": "00:11",
+    "segment_text": " 2- ألم نشرح لك صدرك",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "matched_ayah_id": null,
+    "score": 57.6271186440678
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 11.68,
+    "end_seconds": 17.44,
+    "start_time": "00:11",
+    "end_time": "00:17",
+    "segment_text": " 3- ووضعنا عنك وزرك",
+    "matched_ayah_text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 17.44,
+    "end_seconds": 24.88,
+    "start_time": "00:17",
+    "end_time": "00:24",
+    "segment_text": " 4- الذي أنقض ظهرك",
+    "matched_ayah_text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+    "matched_ayah_id": null,
+    "score": 81.25
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 24.88,
+    "end_seconds": 29.04,
+    "start_time": "00:24",
+    "end_time": "00:29",
+    "segment_text": " 5- ورفعنا لك ذكرك",
+    "matched_ayah_text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "matched_ayah_id": null,
+    "score": 90.32258064516128
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 29.279999999999998,
+    "end_seconds": 39.68,
+    "start_time": "00:29",
+    "end_time": "00:39",
+    "segment_text": " 6- فإن مع العسر يسرا",
+    "matched_ayah_text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "matched_ayah_id": null,
+    "score": 86.48648648648648
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 39.68,
+    "end_seconds": 44.4,
+    "start_time": "00:39",
+    "end_time": "00:44",
+    "segment_text": " 7- فإذا فرغت فانصب",
+    "matched_ayah_text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+    "matched_ayah_id": null,
+    "score": 84.84848484848484
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 44.4,
+    "end_seconds": 48.480000000000004,
+    "start_time": "00:44",
+    "end_time": "00:48",
+    "segment_text": " 8- وإلى ربك فرغب",
+    "matched_ayah_text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+    "matched_ayah_id": null,
+    "score": 83.87096774193549
+  }
+]

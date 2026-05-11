@@ -1,0 +1,66 @@
+{
+  "surah": 113,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "start": 0,
+      "end": 7.92,
+      "matched_text": "بسم الله الرحمن الرحيم 121. قل أعوذ بأب الفلق",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "start": 7.92,
+      "end": 10.56,
+      "matched_text": "من شر ما خلق",
+      "confidence": 1,
+      "matched_word_indices": [
+        9,
+        12
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "start": 15.32,
+      "end": 20.08,
+      "matched_text": "ومن شر غاسق إذا وقب",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        22
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "start": 20.08,
+      "end": 31.6,
+      "matched_text": "ومن شر نفافات في العقد 2. ومن شر إن فاتف العقد",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        23,
+        33
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "start": 31.6,
+      "end": 35.02,
+      "matched_text": "ومن شر حاسد إذا",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        34,
+        37
+      ]
+    }
+  ],
+  "alignment_score": 18.5
+}

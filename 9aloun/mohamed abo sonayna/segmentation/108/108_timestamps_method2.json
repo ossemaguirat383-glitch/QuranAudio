@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.72,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.72,
+    "end_seconds": 12.72,
+    "start_time": "00:04",
+    "end_time": "00:12",
+    "segment_text": " إنا أعطيناك الكثر فصل لربك وانحر",
+    "matched_ayah_text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "matched_ayah_id": null,
+    "score": 56.52173913043479
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 12.72,
+    "end_seconds": 18.88,
+    "start_time": "00:12",
+    "end_time": "00:18",
+    "segment_text": " إن شانيك هو الأبتر",
+    "matched_ayah_text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  }
+]

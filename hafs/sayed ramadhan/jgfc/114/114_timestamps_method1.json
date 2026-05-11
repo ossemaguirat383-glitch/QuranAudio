@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 4,
+        "start_seconds": 15.36,
+        "end_seconds": 25.44,
+        "start_time": "00:15",
+        "end_time": "00:25",
+        "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+        "score": 0.46
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 25.44,
+        "end_seconds": 30.4,
+        "start_time": "00:25",
+        "end_time": "00:30",
+        "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+        "score": 0.63
+    }
+]

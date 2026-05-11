@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.72,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 52.77777777777778
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.72,
+    "end_seconds": 12.16,
+    "start_time": "00:04",
+    "end_time": "00:12",
+    "segment_text": " إنا أنزلناه في ليلة القدر",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 61.33333333333333
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 12.16,
+    "end_seconds": 17.84,
+    "start_time": "00:12",
+    "end_time": "00:17",
+    "segment_text": " وما أدراك ما ليلة القدر",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 17.84,
+    "end_seconds": 23.52,
+    "start_time": "00:17",
+    "end_time": "00:23",
+    "segment_text": " ليلة القدر خير من ألف شهر",
+    "matched_ayah_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 23.52,
+    "end_seconds": 35.2,
+    "start_time": "00:23",
+    "end_time": "00:35",
+    "segment_text": " تنزل الملائكة والروح فيها بإذن ربهم من كل أمر",
+    "matched_ayah_text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 35.2,
+    "end_seconds": 40.239999999999995,
+    "start_time": "00:35",
+    "end_time": "00:40",
+    "segment_text": " سلام هي حتى مطلع الفجر",
+    "matched_ayah_text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  }
+]

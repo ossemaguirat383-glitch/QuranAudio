@@ -1,0 +1,74 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.88,
+        "start_time": "00:00",
+        "end_time": "00:03",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+        "score": 0.51
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 10.32,
+        "end_seconds": 16.28,
+        "start_time": "00:10",
+        "end_time": "00:16",
+        "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 16.28,
+        "end_seconds": 22.88,
+        "start_time": "00:16",
+        "end_time": "00:22",
+        "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+        "score": 0.56
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 22.88,
+        "end_seconds": 28.4,
+        "start_time": "00:22",
+        "end_time": "00:28",
+        "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+        "score": 0.69
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 28.48,
+        "end_seconds": 31.8,
+        "start_time": "00:28",
+        "end_time": "00:31",
+        "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+        "score": 0.7
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 31.8,
+        "end_seconds": 36.48,
+        "start_time": "00:31",
+        "end_time": "00:36",
+        "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 36.48,
+        "end_seconds": 39.96,
+        "start_time": "00:36",
+        "end_time": "00:39",
+        "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+        "score": 0.67
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 39.96,
+        "end_seconds": 45.64,
+        "start_time": "00:39",
+        "end_time": "00:45",
+        "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+        "score": 0.53
+    }
+]

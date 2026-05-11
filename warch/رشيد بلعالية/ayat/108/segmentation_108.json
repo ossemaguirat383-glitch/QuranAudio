@@ -1,0 +1,42 @@
+{
+  "surah": 108,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "start": 0.2,
+      "end": 7.5,
+      "matched_text": "بسم الله الرحمن الرحيم إن أعطيناك الكوفر",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "start": 7.5,
+      "end": 10.46,
+      "matched_text": "فصل لي لربك وانحر",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        11
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "start": 10.46,
+      "end": 13.86,
+      "matched_text": "إن شانك هو لبتر",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        15
+      ]
+    }
+  ],
+  "alignment_score": 11.236
+}

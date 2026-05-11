@@ -1,0 +1,272 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 2.6,
+        "end_seconds": 9.8,
+        "start_time": "00:02",
+        "end_time": "00:09",
+        "text": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+        "score": 0.48
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 9.8,
+        "end_seconds": 14.4,
+        "start_time": "00:09",
+        "end_time": "00:14",
+        "text": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+        "score": 0.75
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 14.4,
+        "end_seconds": 21.0,
+        "start_time": "00:14",
+        "end_time": "00:21",
+        "text": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.0,
+        "end_seconds": 23.4,
+        "start_time": "00:21",
+        "end_time": "00:23",
+        "text": "لِيَوْمٍ عَظِيمٍ",
+        "score": 0.72
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 23.4,
+        "end_seconds": 28.0,
+        "start_time": "00:23",
+        "end_time": "00:28",
+        "text": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+        "score": 0.52
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 28.0,
+        "end_seconds": 34.0,
+        "start_time": "00:28",
+        "end_time": "00:34",
+        "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+        "score": 0.62
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 34.0,
+        "end_seconds": 38.2,
+        "start_time": "00:34",
+        "end_time": "00:38",
+        "text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 38.2,
+        "end_seconds": 45.4,
+        "start_time": "00:38",
+        "end_time": "00:45",
+        "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+        "score": 0.56
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 45.4,
+        "end_seconds": 49.4,
+        "start_time": "00:45",
+        "end_time": "00:49",
+        "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 49.4,
+        "end_seconds": 56.0,
+        "start_time": "00:49",
+        "end_time": "00:56",
+        "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+        "score": 0.7
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 56.0,
+        "end_seconds": 62.6,
+        "start_time": "00:56",
+        "end_time": "01:02",
+        "text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+        "score": 0.65
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 62.6,
+        "end_seconds": 69.0,
+        "start_time": "01:02",
+        "end_time": "01:09",
+        "text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+        "score": 0.73
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 69.0,
+        "end_seconds": 76.0,
+        "start_time": "01:09",
+        "end_time": "01:16",
+        "text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+        "score": 0.69
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 76.0,
+        "end_seconds": 81.0,
+        "start_time": "01:16",
+        "end_time": "01:21",
+        "text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+        "score": 0.64
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 81.0,
+        "end_seconds": 87.8,
+        "start_time": "01:21",
+        "end_time": "01:27",
+        "text": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+        "score": 0.67
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 87.8,
+        "end_seconds": 94.6,
+        "start_time": "01:27",
+        "end_time": "01:34",
+        "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+        "score": 0.62
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 94.6,
+        "end_seconds": 99.4,
+        "start_time": "01:34",
+        "end_time": "01:39",
+        "text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+        "score": 0.64
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 106.0,
+        "end_seconds": 110.0,
+        "start_time": "01:46",
+        "end_time": "01:50",
+        "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+        "score": 0.63
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 110.0,
+        "end_seconds": 115.8,
+        "start_time": "01:50",
+        "end_time": "01:55",
+        "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+        "score": 0.58
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 115.8,
+        "end_seconds": 121.2,
+        "start_time": "01:55",
+        "end_time": "02:01",
+        "text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+        "score": 0.58
+    },
+    {
+        "ayah": 25,
+        "start_seconds": 121.2,
+        "end_seconds": 125.8,
+        "start_time": "02:01",
+        "end_time": "02:05",
+        "text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+        "score": 0.72
+    },
+    {
+        "ayah": 26,
+        "start_seconds": 125.8,
+        "end_seconds": 133.2,
+        "start_time": "02:05",
+        "end_time": "02:13",
+        "text": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+        "score": 0.62
+    },
+    {
+        "ayah": 28,
+        "start_seconds": 133.2,
+        "end_seconds": 141.2,
+        "start_time": "02:13",
+        "end_time": "02:21",
+        "text": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+        "score": 0.48
+    },
+    {
+        "ayah": 29,
+        "start_seconds": 141.2,
+        "end_seconds": 148.6,
+        "start_time": "02:21",
+        "end_time": "02:28",
+        "text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+        "score": 0.68
+    },
+    {
+        "ayah": 30,
+        "start_seconds": 148.6,
+        "end_seconds": 153.2,
+        "start_time": "02:28",
+        "end_time": "02:33",
+        "text": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+        "score": 0.7
+    },
+    {
+        "ayah": 32,
+        "start_seconds": 161.8,
+        "end_seconds": 174.8,
+        "start_time": "02:41",
+        "end_time": "02:54",
+        "text": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+        "score": 0.69
+    },
+    {
+        "ayah": 33,
+        "start_seconds": 174.8,
+        "end_seconds": 180.2,
+        "start_time": "02:54",
+        "end_time": "03:00",
+        "text": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+        "score": 0.69
+    },
+    {
+        "ayah": 34,
+        "start_seconds": 180.2,
+        "end_seconds": 186.4,
+        "start_time": "03:00",
+        "end_time": "03:06",
+        "text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+        "score": 0.62
+    },
+    {
+        "ayah": 35,
+        "start_seconds": 186.4,
+        "end_seconds": 192.4,
+        "start_time": "03:06",
+        "end_time": "03:12",
+        "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+        "score": 0.58
+    },
+    {
+        "ayah": 36,
+        "start_seconds": 192.4,
+        "end_seconds": 198.4,
+        "start_time": "03:12",
+        "end_time": "03:18",
+        "text": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+        "score": 0.62
+    }
+]

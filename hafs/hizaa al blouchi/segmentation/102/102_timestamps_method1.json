@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 4.0,
+        "end_seconds": 9.0,
+        "start_time": "00:04",
+        "end_time": "00:09",
+        "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+        "score": 0.47
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 9.0,
+        "end_seconds": 13.0,
+        "start_time": "00:09",
+        "end_time": "00:13",
+        "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "score": 0.72
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 13.0,
+        "end_seconds": 17.0,
+        "start_time": "00:13",
+        "end_time": "00:17",
+        "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "score": 0.71
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 17.0,
+        "end_seconds": 22.0,
+        "start_time": "00:17",
+        "end_time": "00:22",
+        "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+        "score": 0.7
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 22.0,
+        "end_seconds": 26.0,
+        "start_time": "00:22",
+        "end_time": "00:26",
+        "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+        "score": 0.65
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 26.0,
+        "end_seconds": 31.0,
+        "start_time": "00:26",
+        "end_time": "00:31",
+        "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+        "score": 0.47
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 31.0,
+        "end_seconds": 39.0,
+        "start_time": "00:31",
+        "end_time": "00:39",
+        "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+        "score": 0.63
+    }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.84,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.72,
+    "end_seconds": 15.36,
+    "start_time": "00:04",
+    "end_time": "00:15",
+    "segment_text": " عبس وتولى أن جاءه الأعمى وما يدريك",
+    "matched_ayah_text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+    "matched_ayah_id": null,
+    "score": 52.0
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.84,
+    "end_seconds": 23.92,
+    "start_time": "00:15",
+    "end_time": "00:23",
+    "segment_text": " لعله يزكى أو يذكر فتنفعه الذكرى",
+    "matched_ayah_text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 74.07407407407408
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.560000000000002,
+    "end_seconds": 35.040000000000006,
+    "start_time": "00:24",
+    "end_time": "00:35",
+    "segment_text": " أما من استغنى فأنت له تصدى وما عليك ألا يزكى",
+    "matched_ayah_text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+    "matched_ayah_id": null,
+    "score": 54.83870967741935
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 35.92,
+    "end_seconds": 47.84,
+    "start_time": "00:35",
+    "end_time": "00:47",
+    "segment_text": " وأما من جاءك يسعى وهو يخشى فأنت عنه تلهى كلا",
+    "matched_ayah_text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+    "matched_ayah_id": null,
+    "score": 53.968253968253975
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 48.160000000000004,
+    "end_seconds": 56.800000000000004,
+    "start_time": "00:48",
+    "end_time": "00:56",
+    "segment_text": " إنها تذكرة فمن شاء ذكره",
+    "matched_ayah_text": "فَمَن شَآءَ ذَكَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 64.86486486486487
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 57.440000000000005,
+    "end_seconds": 72.80000000000001,
+    "start_time": "00:57",
+    "end_time": "01:12",
+    "segment_text": " في صحف مكرمة مرفوعة مطهرة بأيدي سفرة كرام بررة",
+    "matched_ayah_text": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+    "matched_ayah_id": null,
+    "score": 41.379310344827594
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 73.75999999999999,
+    "end_seconds": 82.24,
+    "start_time": "01:13",
+    "end_time": "01:22",
+    "segment_text": " قتل الإنسان ما أكفره من أي شيء خلقه",
+    "matched_ayah_text": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 63.1578947368421
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 82.24,
+    "end_seconds": 94.8,
+    "start_time": "01:22",
+    "end_time": "01:34",
+    "segment_text": " من مطفة خلقه فقدره ثم السبيل يسره ثم أماته فأقبره",
+    "matched_ayah_text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 49.27536231884058
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 95.44,
+    "end_seconds": 105.44,
+    "start_time": "01:35",
+    "end_time": "01:45",
+    "segment_text": " ثم إذا شاء انشره كلا لما يقض ما أمره",
+    "matched_ayah_text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 105.44,
+    "end_seconds": 111.6,
+    "start_time": "01:45",
+    "end_time": "01:51",
+    "segment_text": " فلين أنظر الإنسان إلى طعامه",
+    "matched_ayah_text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+    "matched_ayah_id": null,
+    "score": 81.4814814814815
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 112.08,
+    "end_seconds": 128.95999999999998,
+    "start_time": "01:52",
+    "end_time": "02:08",
+    "segment_text": " إنا صببنا الماء صبا ثم شققنا الأرض شقا فأنبتنا فيا حبا",
+    "matched_ayah_text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+    "matched_ayah_id": null,
+    "score": 48.64864864864865
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 129.68,
+    "end_seconds": 142.72,
+    "start_time": "02:09",
+    "end_time": "02:22",
+    "segment_text": " فأنبتنا فيا حبا وعنبا وقضبا وزيتونا ونخلا",
+    "matched_ayah_text": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+    "matched_ayah_id": null,
+    "score": 51.72413793103448
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 142.72,
+    "end_seconds": 156.48000000000002,
+    "start_time": "02:22",
+    "end_time": "02:36",
+    "segment_text": " وزيتونا ونخلا وحدائق غلبا وفاكهة وعبا",
+    "matched_ayah_text": "وَزَيْتُونًا وَنَخْلًا",
+    "matched_ayah_id": null,
+    "score": 52.0
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 156.88,
+    "end_seconds": 165.92,
+    "start_time": "02:36",
+    "end_time": "02:45",
+    "segment_text": " وفاكهة وأبا متاع لكم ولأنعامكم",
+    "matched_ayah_text": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+    "matched_ayah_id": null,
+    "score": 65.3061224489796
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 166.55999999999997,
+    "end_seconds": 182.16,
+    "start_time": "02:46",
+    "end_time": "03:02",
+    "segment_text": " فإذا جاءت الصاخة يوم يفر المرء من أخيه وأمه وأبيه",
+    "matched_ayah_text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+    "matched_ayah_id": null,
+    "score": 57.14285714285714
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 182.16,
+    "end_seconds": 190.07999999999998,
+    "start_time": "03:02",
+    "end_time": "03:10",
+    "segment_text": " وأمه وأبيه وصاحبته وبنيه",
+    "matched_ayah_text": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+    "matched_ayah_id": null,
+    "score": 63.1578947368421
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 190.32000000000002,
+    "end_seconds": 200.64000000000001,
+    "start_time": "03:10",
+    "end_time": "03:20",
+    "segment_text": " لكل مرء منهم يومئذ شأن يغنيه",
+    "matched_ayah_text": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+    "matched_ayah_id": null,
+    "score": 94.73684210526316
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 201.52,
+    "end_seconds": 210.8,
+    "start_time": "03:21",
+    "end_time": "03:30",
+    "segment_text": " وجوه يومئذ مسفرة ضاحكة مستبشره",
+    "matched_ayah_text": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+    "matched_ayah_id": null,
+    "score": 69.56521739130434
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 211.04000000000002,
+    "end_seconds": 219.92000000000002,
+    "start_time": "03:31",
+    "end_time": "03:39",
+    "segment_text": " ووجوه يومئذ عليها غبرة ترهقها قترة",
+    "matched_ayah_text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+    "matched_ayah_id": null,
+    "score": 78.57142857142857
+  },
+  {
+    "segment_id": 20,
+    "start_seconds": 219.92000000000002,
+    "end_seconds": 226.16000000000003,
+    "start_time": "03:39",
+    "end_time": "03:46",
+    "segment_text": " أولئك هم الكفرة الفجرة",
+    "matched_ayah_text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+    "matched_ayah_id": null,
+    "score": 85.1063829787234
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.4,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+    "matched_ayah_id": null,
+    "score": 73.07692307692308
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.4,
+    "end_seconds": 10.0,
+    "start_time": "00:04",
+    "end_time": "00:10",
+    "segment_text": " والعفر إن الإنسان لفي خسر",
+    "matched_ayah_text": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+    "matched_ayah_id": null,
+    "score": 74.4186046511628
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.0,
+    "end_seconds": 19.2,
+    "start_time": "00:10",
+    "end_time": "00:19",
+    "segment_text": " إلا الذين آمنوا وعملوا الصالحات وتوافوا بالحق وتوافوا بالصبر",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "matched_ayah_id": null,
+    "score": 83.2
+  }
+]

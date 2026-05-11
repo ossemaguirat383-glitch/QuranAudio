@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 6,
+        "start_seconds": 31.2,
+        "end_seconds": 45.6,
+        "start_time": "00:31",
+        "end_time": "00:45",
+        "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+        "score": 0.54
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 87.76,
+        "end_seconds": 106.56,
+        "start_time": "01:27",
+        "end_time": "01:46",
+        "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+        "score": 0.47
+    },
+    {
+        "ayah": 26,
+        "start_seconds": 135.12,
+        "end_seconds": 147.68,
+        "start_time": "02:15",
+        "end_time": "02:27",
+        "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+        "score": 0.48
+    }
+]

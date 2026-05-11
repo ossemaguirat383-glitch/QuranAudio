@@ -1,0 +1,111 @@
+{
+  "surah": 101,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "start": 0,
+      "end": 5.7,
+      "matched_text": "بسم الله الرحمن الرحيم",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        0,
+        3
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "start": 7.62,
+      "end": 10.12,
+      "matched_text": "القالقا",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        4,
+        4
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -13.143
+}

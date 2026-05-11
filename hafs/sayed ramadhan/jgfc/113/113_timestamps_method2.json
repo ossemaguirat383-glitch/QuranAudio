@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.0,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "matched_ayah_id": null,
+    "score": 41.30434782608695
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.0,
+    "end_seconds": 27.0,
+    "start_time": "00:07",
+    "end_time": "00:27",
+    "segment_text": " قل أعوذ برب الفلق من شر ما خلق ومن شر غاسق إذا وقب ومن شر النفاثات في العقد ومن شر حاسد إذا حسد",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "matched_ayah_id": null,
+    "score": 33.82352941176471
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 30.0,
+    "end_seconds": 42.0,
+    "start_time": "00:30",
+    "end_time": "00:42",
+    "segment_text": " إذا وقب ومن شر غاسق إذا وقب ومن شر غاسق إذا وقب ومن شر حاسد",
+    "matched_ayah_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "matched_ayah_id": null,
+    "score": 48.71794871794872
+  }
+]

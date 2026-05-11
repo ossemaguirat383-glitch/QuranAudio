@@ -1,0 +1,101 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.88,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 71.69811320754718
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.88,
+    "end_seconds": 10.32,
+    "start_time": "00:03",
+    "end_time": "00:10",
+    "segment_text": " القارعة ما القارعة وما دراك ما القارعة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 56.666666666666664
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.32,
+    "end_seconds": 16.28,
+    "start_time": "00:10",
+    "end_time": "00:16",
+    "segment_text": " يوم يكون الناس كالفراش المبثوث",
+    "matched_ayah_text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 16.28,
+    "end_seconds": 22.88,
+    "start_time": "00:16",
+    "end_time": "00:22",
+    "segment_text": " وتكون الجبال كالعين المنفوش",
+    "matched_ayah_text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "matched_ayah_id": null,
+    "score": 85.18518518518519
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 22.88,
+    "end_seconds": 28.400000000000002,
+    "start_time": "00:22",
+    "end_time": "00:28",
+    "segment_text": " فأما من ثقلت موازينه",
+    "matched_ayah_text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+    "matched_ayah_id": null,
+    "score": 92.6829268292683
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 28.479999999999997,
+    "end_seconds": 31.799999999999997,
+    "start_time": "00:28",
+    "end_time": "00:31",
+    "segment_text": " فهو في عيشة راضية",
+    "matched_ayah_text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 31.799999999999997,
+    "end_seconds": 36.48,
+    "start_time": "00:31",
+    "end_time": "00:36",
+    "segment_text": " وأما من خفت موازينه",
+    "matched_ayah_text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 36.48,
+    "end_seconds": 39.96,
+    "start_time": "00:36",
+    "end_time": "00:39",
+    "segment_text": " فأمه هاوية",
+    "matched_ayah_text": "فَأُمُّهُۥ هَاوِيَةٌ",
+    "matched_ayah_id": null,
+    "score": 95.23809523809523
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 39.96,
+    "end_seconds": 45.64,
+    "start_time": "00:39",
+    "end_time": "00:45",
+    "segment_text": " وما أدراك ما هي نار حامية",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+    "matched_ayah_id": null,
+    "score": 69.76744186046511
+  }
+]

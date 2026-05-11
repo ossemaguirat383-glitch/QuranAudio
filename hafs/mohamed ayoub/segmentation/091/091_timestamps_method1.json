@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 10,
+        "start_seconds": 30.0,
+        "end_seconds": 34.8,
+        "start_time": "00:30",
+        "end_time": "00:34",
+        "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+        "score": 0.52
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 34.8,
+        "end_seconds": 39.3,
+        "start_time": "00:34",
+        "end_time": "00:39",
+        "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+        "score": 0.61
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 39.3,
+        "end_seconds": 42.8,
+        "start_time": "00:39",
+        "end_time": "00:42",
+        "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+        "score": 0.55
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 58.5,
+        "end_seconds": 62.0,
+        "start_time": "00:58",
+        "end_time": "01:02",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.63
+    }
+]

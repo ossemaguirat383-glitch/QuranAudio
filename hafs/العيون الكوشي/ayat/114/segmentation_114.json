@@ -1,0 +1,78 @@
+{
+  "surah": 114,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "start": 0.06,
+      "end": 6.4,
+      "matched_text": "بسم الله الرحمن الرحيم 6. قلعوذ برب الناس",
+      "confidence": 0.875,
+      "matched_word_indices": [
+        1,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "start": 6.78,
+      "end": 9.22,
+      "matched_text": "ملك الناس",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        11
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "إِلَـٰهِ ٱلنَّاسِ",
+      "start": 9.56,
+      "end": 11.68,
+      "matched_text": "إله الناس",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        14
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "start": 12,
+      "end": 16.06,
+      "matched_text": "من شر الوسواس الخناص",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "start": 16.48,
+      "end": 20.7,
+      "matched_text": "الذي وسوس في صدور الناس",
+      "confidence": 1,
+      "matched_word_indices": [
+        21,
+        25
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "start": 20.96,
+      "end": 25.78,
+      "matched_text": "من الجنة والناس",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        29
+      ]
+    }
+  ],
+  "alignment_score": 18.35
+}

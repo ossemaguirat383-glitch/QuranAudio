@@ -1,0 +1,79 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.4,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.4,
+    "end_seconds": 14.6,
+    "start_time": "00:07",
+    "end_time": "00:14",
+    "segment_text": " قل يا أيها الكافرون",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+    "matched_ayah_id": null,
+    "score": 48.38709677419355
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 14.6,
+    "end_seconds": 22.0,
+    "start_time": "00:14",
+    "end_time": "00:22",
+    "segment_text": " لا أعبد ما تعبدون",
+    "matched_ayah_text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+    "matched_ayah_id": null,
+    "score": 97.14285714285714
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 22.2,
+    "end_seconds": 32.0,
+    "start_time": "00:22",
+    "end_time": "00:32",
+    "segment_text": " ولا أنتم عابدون ما أعبد",
+    "matched_ayah_text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 32.0,
+    "end_seconds": 40.2,
+    "start_time": "00:32",
+    "end_time": "00:40",
+    "segment_text": " ولا أنا عابد ما عبدتم",
+    "matched_ayah_text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+    "matched_ayah_id": null,
+    "score": 95.45454545454545
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 40.2,
+    "end_seconds": 51.400000000000006,
+    "start_time": "00:40",
+    "end_time": "00:51",
+    "segment_text": " ولا أنتم عابدون ما أعبد",
+    "matched_ayah_text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+    "matched_ayah_id": null,
+    "score": 91.66666666666666
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 51.4,
+    "end_seconds": 57.199999999999996,
+    "start_time": "00:51",
+    "end_time": "00:57",
+    "segment_text": " لكم دينكم ولي دين",
+    "matched_ayah_text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  }
+]

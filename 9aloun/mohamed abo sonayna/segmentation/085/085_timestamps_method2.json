@@ -1,0 +1,123 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.2,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.2,
+    "end_seconds": 19.54,
+    "start_time": "00:04",
+    "end_time": "00:19",
+    "segment_text": " والسماء ذات البروج واليوم الموعد وشاهد ومشهود قتل أصحاب الأخدود",
+    "matched_ayah_text": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+    "matched_ayah_id": null,
+    "score": 37.5
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 20.46,
+    "end_seconds": 30.46,
+    "start_time": "00:20",
+    "end_time": "00:30",
+    "segment_text": " قتل أصحاب الأخدود النار ذات الوقود إذ هم عليها قود",
+    "matched_ayah_text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+    "matched_ayah_id": null,
+    "score": 45.45454545454546
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 30.46,
+    "end_seconds": 40.3,
+    "start_time": "00:30",
+    "end_time": "00:40",
+    "segment_text": " إذ هم عليها قود وهم على ما يفعلون بالمؤمنين شهود",
+    "matched_ayah_text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+    "matched_ayah_id": null,
+    "score": 76.54320987654322
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 40.66,
+    "end_seconds": 59.42,
+    "start_time": "00:40",
+    "end_time": "00:59",
+    "segment_text": " وما نقموا منهم إلا أن يؤمنوا بالله العزيز الحميد الذي له ملك السماوات والأرض والله على كل شيء شهيد",
+    "matched_ayah_text": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+    "matched_ayah_id": null,
+    "score": 60.40268456375839
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 59.980000000000004,
+    "end_seconds": 75.06,
+    "start_time": "00:59",
+    "end_time": "01:15",
+    "segment_text": " إن الذين فتنوا المؤمنين والمؤمنات ثم لم يتوبوا فلهم عذاب جنم ولهم عذاب الحريق",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+    "matched_ayah_id": null,
+    "score": 91.71974522292994
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 75.7,
+    "end_seconds": 102.34,
+    "start_time": "01:15",
+    "end_time": "01:42",
+    "segment_text": " إن الذين آمنوا وعملوا الصالحات لهم جنات تجري من تحتها الأنهار ذلك الفوز الكبير إن بطش ربك لشديد إنه هو يبدأ ويعيد",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+    "matched_ayah_id": null,
+    "score": 70.05076142131979
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 102.5,
+    "end_seconds": 111.26,
+    "start_time": "01:42",
+    "end_time": "01:51",
+    "segment_text": " وهو الغفور الودود ذو العرش المجيد فعال لما يريد",
+    "matched_ayah_text": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+    "matched_ayah_id": null,
+    "score": 46.875
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 112.10000000000001,
+    "end_seconds": 118.26,
+    "start_time": "01:52",
+    "end_time": "01:58",
+    "segment_text": " هل أتاك حديث الجنود فرعون وثمود",
+    "matched_ayah_text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 118.26,
+    "end_seconds": 130.66,
+    "start_time": "01:58",
+    "end_time": "02:10",
+    "segment_text": " بل الذين كفروا في تكذيب والله من ورائهم محيط",
+    "matched_ayah_text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+    "matched_ayah_id": null,
+    "score": 64.70588235294117
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 130.66,
+    "end_seconds": 140.98,
+    "start_time": "02:10",
+    "end_time": "02:20",
+    "segment_text": " بل هو قرآن مجيد في لوح محفوظ",
+    "matched_ayah_text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+    "matched_ayah_id": null,
+    "score": 68.18181818181819
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.16,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّلْمُطَفِّفِينَ",
+    "matched_ayah_id": null,
+    "score": 65.51724137931035
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 19.12,
+    "start_time": "00:05",
+    "end_time": "00:19",
+    "segment_text": " ويل للمطففين الذين إذا اكتالوا على الناس يستوفون وإذا كالوهم أو وزنوهم يخسرون",
+    "matched_ayah_text": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+    "matched_ayah_id": null,
+    "score": 56.63716814159292
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 20.080000000000002,
+    "end_seconds": 37.120000000000005,
+    "start_time": "00:20",
+    "end_time": "00:37",
+    "segment_text": " ألا يظن أولئك أنهم مبعوثون ليوم عظيم يوم يقوم الناس لرب العالمين",
+    "matched_ayah_text": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+    "matched_ayah_id": null,
+    "score": 55.91397849462365
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 38.08,
+    "end_seconds": 45.36,
+    "start_time": "00:38",
+    "end_time": "00:45",
+    "segment_text": " كلا إن كتاب الفجار لفي سجين",
+    "matched_ayah_text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 45.36,
+    "end_seconds": 54.08,
+    "start_time": "00:45",
+    "end_time": "00:54",
+    "segment_text": " وما أدرك ما سجين كتاب مرقوم",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+    "matched_ayah_id": null,
+    "score": 69.56521739130434
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 54.08,
+    "end_seconds": 63.76,
+    "start_time": "00:54",
+    "end_time": "01:03",
+    "segment_text": " ويل يومئذ للمكذبين الذين يكذبون بيوم الدين",
+    "matched_ayah_text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 64.61538461538461
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 64.24,
+    "end_seconds": 78.0,
+    "start_time": "01:04",
+    "end_time": "01:18",
+    "segment_text": " وما يكذب به إلا كل معتد أثيم إذا تتلى عليه آياتنا قول أساطير الأولين",
+    "matched_ayah_text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "matched_ayah_id": null,
+    "score": 64.22018348623853
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 79.36,
+    "end_seconds": 86.64,
+    "start_time": "01:19",
+    "end_time": "01:26",
+    "segment_text": " كلا برعن على قلوبهم ما كانوا يكسبون",
+    "matched_ayah_text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+    "matched_ayah_id": null,
+    "score": 87.17948717948718
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 87.12,
+    "end_seconds": 95.04,
+    "start_time": "01:27",
+    "end_time": "01:35",
+    "segment_text": " كلا إنهم عن ربهم يومئذ لمحجوبون",
+    "matched_ayah_text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+    "matched_ayah_id": null,
+    "score": 98.41269841269842
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 95.04,
+    "end_seconds": 101.2,
+    "start_time": "01:35",
+    "end_time": "01:41",
+    "segment_text": " ثم إنهم لصان الجحيم",
+    "matched_ayah_text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+    "matched_ayah_id": null,
+    "score": 82.92682926829268
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 101.2,
+    "end_seconds": 110.8,
+    "start_time": "01:41",
+    "end_time": "01:50",
+    "segment_text": " ثم يقال هذا الذي كنتم به تكذبون",
+    "matched_ayah_text": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+    "matched_ayah_id": null,
+    "score": 93.75
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 111.44,
+    "end_seconds": 118.39999999999999,
+    "start_time": "01:51",
+    "end_time": "01:58",
+    "segment_text": " كلا إن كتابا أبرار لفي علين",
+    "matched_ayah_text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+    "matched_ayah_id": null,
+    "score": 87.71929824561404
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 118.39999999999999,
+    "end_seconds": 129.6,
+    "start_time": "01:58",
+    "end_time": "02:09",
+    "segment_text": " وما أدرك ما علين كتاب مرقوم يشهده المقربون",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+    "matched_ayah_id": null,
+    "score": 54.83870967741935
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 130.4,
+    "end_seconds": 146.4,
+    "start_time": "02:10",
+    "end_time": "02:26",
+    "segment_text": " إن الأبرار لفي نعيم على الأرائك ينظرون تعرف في وجوههم نظرة نعيم",
+    "matched_ayah_text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+    "matched_ayah_id": null,
+    "score": 51.685393258426956
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 147.20000000000002,
+    "end_seconds": 160.0,
+    "start_time": "02:27",
+    "end_time": "02:40",
+    "segment_text": " تعرف في وجوههم نظرة نعيم يسقون من رحيق مختوم ختامه مسك",
+    "matched_ayah_text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+    "matched_ayah_id": null,
+    "score": 57.49999999999999
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 160.0,
+    "end_seconds": 166.32,
+    "start_time": "02:40",
+    "end_time": "02:46",
+    "segment_text": " وفي ذلك فليتنافس المتنافسون",
+    "matched_ayah_text": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+    "matched_ayah_id": null,
+    "score": 73.52941176470588
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 166.32,
+    "end_seconds": 175.52,
+    "start_time": "02:46",
+    "end_time": "02:55",
+    "segment_text": " ومزاجه من تسليم عين يشرب بها المقربون",
+    "matched_ayah_text": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+    "matched_ayah_id": null,
+    "score": 67.79661016949152
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 176.4,
+    "end_seconds": 191.44,
+    "start_time": "02:56",
+    "end_time": "03:11",
+    "segment_text": " إن الذين أجرموا كانوا من الذين آمنوا يضحكون وإذا مروا بهم يتغامزون وإذا انقلبوا",
+    "matched_ayah_text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+    "matched_ayah_id": null,
+    "score": 65.07936507936508
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 191.44,
+    "end_seconds": 220.88,
+    "start_time": "03:11",
+    "end_time": "03:40",
+    "segment_text": " وإذا انقلبوا إلى أهلهم انقلبوا فاكهين وإذا رأوهم قالوا إن أولئك ضالون وما أرسلوا عليهم حافظين",
+    "matched_ayah_text": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+    "matched_ayah_id": null,
+    "score": 50.74626865671642
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 221.44,
+    "end_seconds": 239.28,
+    "start_time": "03:41",
+    "end_time": "03:59",
+    "segment_text": " فاليوم الذين آمنوا من الكفار يضحكون على الأرائك ينظرون هل ثو بلكفار ما كانوا يفعلون",
+    "matched_ayah_text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+    "matched_ayah_id": null,
+    "score": 53.333333333333336
+  }
+]

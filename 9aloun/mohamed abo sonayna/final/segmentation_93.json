@@ -1,0 +1,129 @@
+{
+  "surah": 93,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "start": 0,
+      "end": 6.04,
+      "matched_text": "بسم الله الرحمن الرحيم والضحى",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        4
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "start": 6.04,
+      "end": 7.68,
+      "matched_text": "والليم إذا",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        5,
+        6
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "start": 8.98,
+      "end": 13.22,
+      "matched_text": "وادعك ربك وما قالا",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        8,
+        11
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "start": 13.7,
+      "end": 18.48,
+      "matched_text": "الآخرة خير النك من الأولى",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        17
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "start": 18.48,
+      "end": 24.22,
+      "matched_text": "ولسوف يعطيك ربك فترضع",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "start": 24.22,
+      "end": 28.88,
+      "matched_text": "ألم يجد كيتيما فآوى",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        25
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "start": 28.88,
+      "end": 29.96,
+      "matched_text": "ووجدك",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        26,
+        26
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "start": 35.64,
+      "end": 36.46,
+      "matched_text": "وجدك",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        28,
+        28
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": 13.896
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 10.56,
+        "end_seconds": 14.04,
+        "start_time": "00:10",
+        "end_time": "00:14",
+        "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+        "score": 0.63
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 14.04,
+        "end_seconds": 18.68,
+        "start_time": "00:14",
+        "end_time": "00:18",
+        "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+        "score": 0.68
+    }
+]

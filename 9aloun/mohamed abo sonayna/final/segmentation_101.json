@@ -1,0 +1,138 @@
+{
+  "surah": 101,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "start": 0,
+      "end": 5.76,
+      "matched_text": "بسم الله الرحمن الرحيم القارعة",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        4
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "start": 5.76,
+      "end": 7.3,
+      "matched_text": "من القارعة",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        6
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "start": 7.3,
+      "end": 11.28,
+      "matched_text": "وما أدراك من القارعة",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        10
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "start": 11.8,
+      "end": 17.2,
+      "matched_text": "يوم يكون الناس كالفراش المبثوت",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        15
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "start": 17.2,
+      "end": 23,
+      "matched_text": "وتكون الجبال كالعين المنفوش",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        19
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "start": 23.04,
+      "end": 29.9,
+      "matched_text": "فأما ما أنفقنا موازينه",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        21,
+        24
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "start": 29.9,
+      "end": 33.12,
+      "matched_text": "فهو في عيشة الواضية",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        28
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "start": 34.62,
+      "end": 39.14,
+      "matched_text": "وأما من خفت موازينه",
+      "confidence": 1,
+      "matched_word_indices": [
+        30,
+        33
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "start": 39.14,
+      "end": 42.24,
+      "matched_text": "فأمه هاوية",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        35
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "start": 42.72,
+      "end": 45.92,
+      "matched_text": "وما أبرى كما هيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        40
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "start": 45.92,
+      "end": 48.28,
+      "matched_text": "نار حامية",
+      "confidence": 1,
+      "matched_word_indices": [
+        41,
+        42
+      ]
+    }
+  ],
+  "alignment_score": 32.064
+}

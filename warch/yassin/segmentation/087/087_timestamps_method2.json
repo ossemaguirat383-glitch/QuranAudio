@@ -1,0 +1,134 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.36,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+    "matched_ayah_id": null,
+    "score": 59.375
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.36,
+    "end_seconds": 10.16,
+    "start_time": "00:04",
+    "end_time": "00:10",
+    "segment_text": " سبح اسم ربك لعلا الذي خلق فسوا",
+    "matched_ayah_text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+    "matched_ayah_id": null,
+    "score": 50.0
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.16,
+    "end_seconds": 13.76,
+    "start_time": "00:10",
+    "end_time": "00:13",
+    "segment_text": " والذي قدر فهدا",
+    "matched_ayah_text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+    "matched_ayah_id": null,
+    "score": 82.75862068965517
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 13.76,
+    "end_seconds": 26.080000000000002,
+    "start_time": "00:13",
+    "end_time": "00:26",
+    "segment_text": " والذي أخرج المرعى فجعله أثاء نحوى",
+    "matched_ayah_text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+    "matched_ayah_id": null,
+    "score": 57.692307692307686
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 26.08,
+    "end_seconds": 38.16,
+    "start_time": "00:26",
+    "end_time": "00:38",
+    "segment_text": " سنقرئك فلا تنسى إلا ما شاء الله",
+    "matched_ayah_text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 62.5
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 38.16,
+    "end_seconds": 43.519999999999996,
+    "start_time": "00:38",
+    "end_time": "00:43",
+    "segment_text": " إنه يعلم الجهر وما يخفى",
+    "matched_ayah_text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+    "matched_ayah_id": null,
+    "score": 65.67164179104478
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 43.519999999999996,
+    "end_seconds": 50.08,
+    "start_time": "00:43",
+    "end_time": "00:50",
+    "segment_text": " ونيسرك لليسلا فذكر النفعة الذكرى",
+    "matched_ayah_text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 57.692307692307686
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 50.08,
+    "end_seconds": 59.519999999999996,
+    "start_time": "00:50",
+    "end_time": "00:59",
+    "segment_text": " سيذكر من يخشى ويتجنبه لشق الذي يصلى النار الكبرى",
+    "matched_ayah_text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 53.52112676056338
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 59.519999999999996,
+    "end_seconds": 65.0,
+    "start_time": "00:59",
+    "end_time": "01:05",
+    "segment_text": " ثم لا يموت فيها ولا يحيا",
+    "matched_ayah_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+    "matched_ayah_id": null,
+    "score": 93.87755102040816
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 65.0,
+    "end_seconds": 71.64,
+    "start_time": "01:05",
+    "end_time": "01:11",
+    "segment_text": " قد فلح من تزكى وذكر اسم ربه فصلى",
+    "matched_ayah_text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+    "matched_ayah_id": null,
+    "score": 62.745098039215684
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 71.64,
+    "end_seconds": 78.75999999999999,
+    "start_time": "01:11",
+    "end_time": "01:18",
+    "segment_text": " بل توثرون الحياة الدنيا ولآخرة خير وأبطى",
+    "matched_ayah_text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+    "matched_ayah_id": null,
+    "score": 59.375
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 78.76,
+    "end_seconds": 86.84,
+    "start_time": "01:18",
+    "end_time": "01:26",
+    "segment_text": " إن هذا لفي الصحف الأولى صحف إبراهيم وموسى",
+    "matched_ayah_text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 63.63636363636363
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.84,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 52.77777777777778
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.84,
+    "end_seconds": 17.119999999999997,
+    "start_time": "00:07",
+    "end_time": "00:17",
+    "segment_text": " 1- إنا أنزلناه في ليلة القدر",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 61.53846153846154
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 17.119999999999997,
+    "end_seconds": 24.72,
+    "start_time": "00:17",
+    "end_time": "00:24",
+    "segment_text": " 2- وما أدرك ما ليلة القدر",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 84.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.72,
+    "end_seconds": 31.76,
+    "start_time": "00:24",
+    "end_time": "00:31",
+    "segment_text": " 3- ليلة القدر خير من الف شهر",
+    "matched_ayah_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "matched_ayah_id": null,
+    "score": 90.56603773584906
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 31.76,
+    "end_seconds": 44.800000000000004,
+    "start_time": "00:31",
+    "end_time": "00:44",
+    "segment_text": " 4- تنزل الملائكة والروح فيها بإذن ربهم من كل أمر",
+    "matched_ayah_text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "matched_ayah_id": null,
+    "score": 89.36170212765957
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 44.800000000000004,
+    "end_seconds": 50.480000000000004,
+    "start_time": "00:44",
+    "end_time": "00:50",
+    "segment_text": " 5- سلام هي حتى مطرع الفجر",
+    "matched_ayah_text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 79.16666666666666
+  }
+]

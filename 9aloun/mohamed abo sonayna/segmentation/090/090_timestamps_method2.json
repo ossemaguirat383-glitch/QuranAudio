@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.84,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+    "matched_ayah_id": null,
+    "score": 57.57575757575757
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.84,
+    "end_seconds": 19.6,
+    "start_time": "00:03",
+    "end_time": "00:19",
+    "segment_text": " لا أقسم بهذا البلد وأن تحلن بهذا البلد ووالد وما ولدنا قد خلقنا الإنسان فيه كبد",
+    "matched_ayah_text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+    "matched_ayah_id": null,
+    "score": 42.71844660194175
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 20.560000000000002,
+    "end_seconds": 29.520000000000003,
+    "start_time": "00:20",
+    "end_time": "00:29",
+    "segment_text": " أيحسب أن لا يقدر عليه أحد يقول أهلكت مالا لبدا",
+    "matched_ayah_text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 67.6056338028169
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 29.520000000000003,
+    "end_seconds": 44.08,
+    "start_time": "00:29",
+    "end_time": "00:44",
+    "segment_text": " أيحسب أن لم يره أحد ألم نجعل له عينين ولسانا وشفتين وهديناه النجدين",
+    "matched_ayah_text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 45.652173913043484
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 44.16,
+    "end_seconds": 51.28,
+    "start_time": "00:44",
+    "end_time": "00:51",
+    "segment_text": " فلقت حما العقبة وما أدرك مالعقبة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+    "matched_ayah_id": null,
+    "score": 60.37735849056604
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 51.28,
+    "end_seconds": 68.48,
+    "start_time": "00:51",
+    "end_time": "01:08",
+    "segment_text": " فك رقبة أو إطعام في يوم في مسوبة يتيما ذا مقربة أو مسكينا ذا متربة",
+    "matched_ayah_text": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+    "matched_ayah_id": null,
+    "score": 46.666666666666664
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 68.56,
+    "end_seconds": 77.92,
+    "start_time": "01:08",
+    "end_time": "01:17",
+    "segment_text": " ثم كان من الذين آمنوا وتواصوا بالصبر وتواصوا بالمرحمة",
+    "matched_ayah_text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 77.92,
+    "end_seconds": 94.80000000000001,
+    "start_time": "01:17",
+    "end_time": "01:34",
+    "segment_text": " أولئك أصحاب الميمنة والذين كفروا بآياتنا هم أصحاب المشأمة عليهم نار موصد",
+    "matched_ayah_text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+    "matched_ayah_id": null,
+    "score": 57.65765765765766
+  }
+]

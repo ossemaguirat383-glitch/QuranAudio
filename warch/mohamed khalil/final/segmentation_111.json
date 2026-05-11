@@ -1,0 +1,63 @@
+{
+  "surah": 111,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "start": 0,
+      "end": 10.79,
+      "matched_text": "بسم الله الرحمن الرحي تبت يدى",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "start": 17.28,
+      "end": 17.84,
+      "matched_text": "ما",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        6,
+        6
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "start": 27.22,
+      "end": 28.58,
+      "matched_text": "سيصل",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        7,
+        7
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "start": 49.04,
+      "end": 49.64,
+      "matched_text": "سد",
+      "confidence": 0.2,
+      "matched_word_indices": [
+        9,
+        9
+      ]
+    }
+  ],
+  "alignment_score": -0.95
+}

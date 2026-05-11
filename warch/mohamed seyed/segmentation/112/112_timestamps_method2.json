@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "matched_ayah_id": null,
+    "score": 36.73469387755102
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.68,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "matched_ayah_id": null,
+    "score": 63.33333333333333
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.68,
+    "end_seconds": 12.56,
+    "start_time": "00:09",
+    "end_time": "00:12",
+    "segment_text": " قل هو الله أحد",
+    "matched_ayah_text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "matched_ayah_id": null,
+    "score": 51.42857142857142
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 12.56,
+    "end_seconds": 14.96,
+    "start_time": "00:12",
+    "end_time": "00:14",
+    "segment_text": " الله الصمد",
+    "matched_ayah_text": "ٱللَّهُ ٱلصَّمَدُ",
+    "matched_ayah_id": null,
+    "score": 80.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 14.96,
+    "end_seconds": 18.16,
+    "start_time": "00:14",
+    "end_time": "00:18",
+    "segment_text": " لم يلد ولم يولد",
+    "matched_ayah_text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 18.16,
+    "end_seconds": 22.240000000000002,
+    "start_time": "00:18",
+    "end_time": "00:22",
+    "segment_text": " ولم يكن له كفو أنحد",
+    "matched_ayah_text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  }
+]

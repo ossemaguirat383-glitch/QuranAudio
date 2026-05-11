@@ -1,0 +1,486 @@
+{
+  "surah": 78,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+      "start": 1.78,
+      "end": 13.94,
+      "matched_text": "بسم الله الرحمن الرحيم عم يتساءلوا",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "start": 16.02,
+      "end": 19.6,
+      "matched_text": "عن النبئ العظي",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        8
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+      "start": 22.29,
+      "end": 26.85,
+      "matched_text": "الذيهم فيه مختلفوا",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        9,
+        11
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "كَلَّا سَيَعْلَمُونَ",
+      "start": 28.13,
+      "end": 31.61,
+      "matched_text": "كلا سيعلموا",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        13
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "start": 33.6,
+      "end": 38.56,
+      "matched_text": "ثم كلا سيعلموا",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        16
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+      "start": 41.04,
+      "end": 43.96,
+      "matched_text": "ألم نجعل لرضم هذا",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَٱلْجِبَالَ أَوْتَادًا",
+      "start": 43.96,
+      "end": 48.86,
+      "matched_text": "والجبال أو تادا",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+      "start": 48.86,
+      "end": 55.56,
+      "matched_text": "وخلقناكم أزواجا",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        26
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "start": 55.56,
+      "end": 60.84,
+      "matched_text": "وجعلنا نومكم سباتا",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        29
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "start": 60.84,
+      "end": 65.46,
+      "matched_text": "وجعلنا الليل لباسا",
+      "confidence": 1,
+      "matched_word_indices": [
+        30,
+        32
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+      "start": 65.46,
+      "end": 70.14,
+      "matched_text": "وجعلنا النهارم عاشا",
+      "confidence": 1,
+      "matched_word_indices": [
+        33,
+        35
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "start": 70.14,
+      "end": 77.44,
+      "matched_text": "وبنين فوقكم سبعا شدادا",
+      "confidence": 1,
+      "matched_word_indices": [
+        36,
+        39
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "start": 77.98,
+      "end": 84.14,
+      "matched_text": "وجعلنا سراجا وهاجا",
+      "confidence": 1,
+      "matched_word_indices": [
+        40,
+        42
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+      "start": 86.18,
+      "end": 95.89,
+      "matched_text": "وأنزلنا من المعصرات ما فجاجا",
+      "confidence": 1,
+      "matched_word_indices": [
+        43,
+        47
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "start": 95.89,
+      "end": 101.93,
+      "matched_text": "لنخرج به حبا ونباتا",
+      "confidence": 1,
+      "matched_word_indices": [
+        48,
+        51
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "وَجَنَّـٰتٍ أَلْفَافًا",
+      "start": 104.09,
+      "end": 107.27,
+      "matched_text": "وجناتنا الفافا",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        54
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+      "start": 108.03,
+      "end": 113.59,
+      "matched_text": "إن يوم الفصل كان ميقاةا",
+      "confidence": 1,
+      "matched_word_indices": [
+        56,
+        60
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "start": 114.35,
+      "end": 121.79,
+      "matched_text": "يوم ينفخ في الصور فتاتون أفواجا",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        67
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "start": 122.57,
+      "end": 130.19,
+      "matched_text": "وفتحة السماء فكانت بوابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        69,
+        72
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+      "start": 131.05,
+      "end": 136.27,
+      "matched_text": "وسيرت الجبال فكانت سرعبة",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "start": 136.27,
+      "end": 144.21,
+      "matched_text": "إن جهن مكانت من رصعدة",
+      "confidence": 1,
+      "matched_word_indices": [
+        78,
+        82
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "لِّلطَّـٰغِينَ مَـَٔابًا",
+      "start": 144.21,
+      "end": 150.29,
+      "matched_text": "لطاقين مآبى",
+      "confidence": 1,
+      "matched_word_indices": [
+        83,
+        84
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "start": 151.21,
+      "end": 156.89,
+      "matched_text": "بفين فيها حقعبة",
+      "confidence": 1,
+      "matched_word_indices": [
+        86,
+        88
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "start": 158.01,
+      "end": 165.05,
+      "matched_text": "لا يذوقون فيها برد ولا شرابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        90,
+        95
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "start": 165.05,
+      "end": 171.29,
+      "matched_text": "إلا حميما وغساطا",
+      "confidence": 1,
+      "matched_word_indices": [
+        96,
+        98
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "جَزَآءً وِفَاقًا",
+      "start": 171.29,
+      "end": 177.57,
+      "matched_text": "جزا وفاقا",
+      "confidence": 1,
+      "matched_word_indices": [
+        99,
+        100
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "start": 177.57,
+      "end": 183.37,
+      "matched_text": "إنهم كانوا لا يرجون حسابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        101,
+        105
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+      "start": 184.29,
+      "end": 190.69,
+      "matched_text": "وكذبوا بآياتنا كذابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        107,
+        109
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+      "start": 191.49,
+      "end": 197.69,
+      "matched_text": "وكل شيء نحصيناه كتابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        111,
+        114
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "start": 198.51,
+      "end": 207.68,
+      "matched_text": "فذوقوا فلنزيدكم لا عذابا",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        116,
+        119
+      ]
+    },
+    {
+      "ayah": 31,
+      "text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "start": 208.48,
+      "end": 213.86,
+      "matched_text": "إن متقين مفازا",
+      "confidence": 1,
+      "matched_word_indices": [
+        121,
+        123
+      ]
+    },
+    {
+      "ayah": 32,
+      "text": "حَدَآئِقَ وَأَعْنَـٰبًا",
+      "start": 214.7,
+      "end": 220.06,
+      "matched_text": "حداق وأعنابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        125,
+        126
+      ]
+    },
+    {
+      "ayah": 33,
+      "text": "وَكَوَاعِبَ أَتْرَابًا",
+      "start": 220.82,
+      "end": 224.24,
+      "matched_text": "كواعب أترابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        128,
+        129
+      ]
+    },
+    {
+      "ayah": 34,
+      "text": "وَكَأْسًا دِهَاقًا",
+      "start": 224.68,
+      "end": 228.52,
+      "matched_text": "وكأسا دهاقا",
+      "confidence": 1,
+      "matched_word_indices": [
+        131,
+        132
+      ]
+    },
+    {
+      "ayah": 35,
+      "text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+      "start": 229.1,
+      "end": 237.03,
+      "matched_text": "لا يسمعون فيها لغوى ولا كذابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        134,
+        139
+      ]
+    },
+    {
+      "ayah": 36,
+      "text": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "start": 237.53,
+      "end": 248.09,
+      "matched_text": "جزاء من ربك عطا حسابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        141,
+        145
+      ]
+    },
+    {
+      "ayah": 37,
+      "text": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "start": 248.47,
+      "end": 259.57,
+      "matched_text": "رب السماوات والرض وما بينه مر رحمان لا يملكون منه خطابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        147,
+        157
+      ]
+    },
+    {
+      "ayah": 38,
+      "text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+      "start": 260.37,
+      "end": 276.71,
+      "matched_text": "يوم يقوم الروح والملائك تصفا لا يتكلمون إلا منذن له الرحمان وقال صوابا",
+      "confidence": 0.929,
+      "matched_word_indices": [
+        159,
+        171
+      ]
+    },
+    {
+      "ayah": 39,
+      "text": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "start": 277.51,
+      "end": 292.18,
+      "matched_text": "ذلك اليوم الحق 31. فمن شاعت تخذ إلى ربه مآبى",
+      "confidence": 1,
+      "matched_word_indices": [
+        173,
+        182
+      ]
+    },
+    {
+      "ayah": 40,
+      "text": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "start": 292.8,
+      "end": 315.83,
+      "matched_text": "إن ذرناكم عذابا قريبا يوم ينظر المرء ما قدمت يداه ويقول الكافر يا ليتني كنت رابا",
+      "confidence": 1,
+      "matched_word_indices": [
+        185,
+        200
+      ]
+    }
+  ],
+  "alignment_score": 133.645
+}

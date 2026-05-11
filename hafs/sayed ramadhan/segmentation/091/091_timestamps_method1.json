@@ -1,0 +1,47 @@
+[
+    {
+        "ayah": 8,
+        "start_seconds": 29.6,
+        "end_seconds": 34.2,
+        "start_time": "00:29",
+        "end_time": "00:34",
+        "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 34.2,
+        "end_seconds": 41.32,
+        "start_time": "00:34",
+        "end_time": "00:41",
+        "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "score": 0.46
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 41.32,
+        "end_seconds": 48.2,
+        "start_time": "00:41",
+        "end_time": "00:48",
+        "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+        "score": 0.47
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 48.2,
+        "end_seconds": 54.6,
+        "start_time": "00:48",
+        "end_time": "00:54",
+        "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+        "score": 0.67
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 66.8,
+        "end_seconds": 70.8,
+        "start_time": "01:06",
+        "end_time": "01:10",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.49
+    }
+]

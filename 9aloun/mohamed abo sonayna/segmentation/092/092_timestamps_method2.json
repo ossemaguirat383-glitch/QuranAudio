@@ -1,0 +1,101 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.5,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.66,
+    "end_seconds": 18.740000000000002,
+    "start_time": "00:04",
+    "end_time": "00:18",
+    "segment_text": " والنين إذا يغشى والنهار إذا تجلى وما خلق الذكر والأنثى إن سعيكم لشتى",
+    "matched_ayah_text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 41.75824175824175
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 19.74,
+    "end_seconds": 30.24,
+    "start_time": "00:19",
+    "end_time": "00:30",
+    "segment_text": " فأما من أعطى واتقى وصدق بالحسنى فسنيسره لليسرى",
+    "matched_ayah_text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+    "matched_ayah_id": null,
+    "score": 51.515151515151516
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 30.24,
+    "end_seconds": 41.5,
+    "start_time": "00:30",
+    "end_time": "00:41",
+    "segment_text": " وأما من بخل واستغنى وكذب بالحسنى فسنيسره للأسرا",
+    "matched_ayah_text": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+    "matched_ayah_id": null,
+    "score": 52.94117647058824
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 41.5,
+    "end_seconds": 48.0,
+    "start_time": "00:41",
+    "end_time": "00:48",
+    "segment_text": " وما يغني عنه مانه إذا تردى",
+    "matched_ayah_text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "matched_ayah_id": null,
+    "score": 89.28571428571429
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 48.26,
+    "end_seconds": 56.76,
+    "start_time": "00:48",
+    "end_time": "00:56",
+    "segment_text": " إن علينا لهدا وإن لنانا الآخرة والأولى",
+    "matched_ayah_text": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 64.51612903225806
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 57.76,
+    "end_seconds": 69.26,
+    "start_time": "00:57",
+    "end_time": "01:09",
+    "segment_text": " فأنذرتكم نارا تنظى لا يصلى إلا الأشق الذي كذب وتولى",
+    "matched_ayah_text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "matched_ayah_id": null,
+    "score": 48.57142857142858
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 70.02000000000001,
+    "end_seconds": 79.02000000000001,
+    "start_time": "01:10",
+    "end_time": "01:19",
+    "segment_text": " وسيجنبها الأتقى الذي يقتي ماله يتزكى",
+    "matched_ayah_text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+    "matched_ayah_id": null,
+    "score": 62.06896551724138
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 80.02000000000001,
+    "end_seconds": 96.52000000000001,
+    "start_time": "01:20",
+    "end_time": "01:36",
+    "segment_text": " وما لأحد عنده من نعمة تجزى إلا ابتغاء وجه ربه الأعلى ولسوف يرضى",
+    "matched_ayah_text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 56.52173913043479
+  }
+]

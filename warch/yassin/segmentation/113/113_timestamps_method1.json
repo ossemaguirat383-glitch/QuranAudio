@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 7.68,
+        "end_seconds": 14.72,
+        "start_time": "00:07",
+        "end_time": "00:14",
+        "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "score": 0.53
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 14.72,
+        "end_seconds": 20.16,
+        "start_time": "00:14",
+        "end_time": "00:20",
+        "text": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+        "score": 0.55
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 20.16,
+        "end_seconds": 24.8,
+        "start_time": "00:20",
+        "end_time": "00:24",
+        "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "score": 0.71
+    }
+]

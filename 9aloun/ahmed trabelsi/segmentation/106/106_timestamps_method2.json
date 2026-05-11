@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.96,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.96,
+    "end_seconds": 8.120000000000001,
+    "start_time": "00:04",
+    "end_time": "00:08",
+    "segment_text": " لإيلاف قريش",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 43.47826086956522
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.120000000000001,
+    "end_seconds": 15.280000000000001,
+    "start_time": "00:08",
+    "end_time": "00:15",
+    "segment_text": " إيلافهم رحلة الشتاء والصيف",
+    "matched_ayah_text": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+    "matched_ayah_id": null,
+    "score": 83.01886792452831
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 15.280000000000001,
+    "end_seconds": 20.080000000000002,
+    "start_time": "00:15",
+    "end_time": "00:20",
+    "segment_text": " فليعبدوا رب هذا البيت",
+    "matched_ayah_text": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 20.08,
+    "end_seconds": 27.0,
+    "start_time": "00:20",
+    "end_time": "00:27",
+    "segment_text": " الذي أطعمهم من جوع",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 64.15094339622642
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 27.0,
+    "end_seconds": 31.08,
+    "start_time": "00:27",
+    "end_time": "00:31",
+    "segment_text": " وأمنهم من خوف",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 54.16666666666667
+  }
+]

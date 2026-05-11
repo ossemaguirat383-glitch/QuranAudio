@@ -1,0 +1,234 @@
+{
+  "surah": 96,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "start": 1.97,
+      "end": 12.59,
+      "matched_text": "بسم الله الرحمن الرحيم 2. إقرأ بسم ربك الذي خلقه",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        9
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "start": 12.59,
+      "end": 17.95,
+      "matched_text": "خلق لنسان من علقه",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        13
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "start": 17.95,
+      "end": 21.85,
+      "matched_text": "إقرأ وربك لكرم",
+      "confidence": 1,
+      "matched_word_indices": [
+        14,
+        16
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "start": 21.85,
+      "end": 26.05,
+      "matched_text": "الذي علم بالقلم",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        19
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "start": 26.05,
+      "end": 32.33,
+      "matched_text": "علم لنسان ما لم يعلم",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        24
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "start": 32.33,
+      "end": 41.15,
+      "matched_text": "كلا إن لنسان ليطغى",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        28
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "start": 44.93,
+      "end": 46.11,
+      "matched_text": "استغنا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        31,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "start": 46.11,
+      "end": 51.85,
+      "matched_text": "إن إلى ربك الرجعى",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        35
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "start": 51.85,
+      "end": 58.82,
+      "matched_text": "أرايت الذي ينهى",
+      "confidence": 1,
+      "matched_word_indices": [
+        36,
+        38
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "start": 58.82,
+      "end": 61.6,
+      "matched_text": "عبد نذا صلى",
+      "confidence": 1,
+      "matched_word_indices": [
+        39,
+        41
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "start": 61.6,
+      "end": 70.25,
+      "matched_text": "أرايت إن كان على الهدى",
+      "confidence": 1,
+      "matched_word_indices": [
+        42,
+        46
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "start": 70.25,
+      "end": 72.81,
+      "matched_text": "أو مربى التقوى",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "start": 73.87,
+      "end": 80.95,
+      "matched_text": "رايت إن كذب وتولب",
+      "confidence": 1,
+      "matched_word_indices": [
+        51,
+        54
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "start": 84.92,
+      "end": 86.88,
+      "matched_text": "أن الله",
+      "confidence": 0.4,
+      "matched_word_indices": [
+        55,
+        56
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "start": 88.41,
+      "end": 95.19,
+      "matched_text": "كلا لإن لم ينته لنصفع",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        57,
+        61
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "start": 97.5,
+      "end": 105.54,
+      "matched_text": "ناصية كافبة خاطئة",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        64
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "start": 105.54,
+      "end": 108.92,
+      "matched_text": "فليدعونا ديه",
+      "confidence": 1,
+      "matched_word_indices": [
+        65,
+        66
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "start": 108.92,
+      "end": 113.04,
+      "matched_text": "سندعو الزبانيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        67,
+        68
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "start": 113.04,
+      "end": 118.64,
+      "matched_text": "كالنا لا تطعه وسجد وقتربه",
+      "confidence": 1,
+      "matched_word_indices": [
+        69,
+        73
+      ]
+    }
+  ],
+  "alignment_score": 53.798
+}

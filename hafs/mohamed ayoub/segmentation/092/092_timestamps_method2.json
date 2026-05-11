@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.7,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 30.0,
+    "end_seconds": 33.0,
+    "start_time": "00:30",
+    "end_time": "00:33",
+    "segment_text": " سنسره للعسرى",
+    "matched_ayah_text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 60.0,
+    "end_seconds": 66.0,
+    "start_time": "01:00",
+    "end_time": "01:06",
+    "segment_text": " ويجنبها الأتقى الذي يؤتي ما له يتزكى",
+    "matched_ayah_text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+    "matched_ayah_id": null,
+    "score": 65.51724137931035
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 67.0,
+    "end_seconds": 74.0,
+    "start_time": "01:07",
+    "end_time": "01:14",
+    "segment_text": " وما لأحد عنده من نعمة تجزى",
+    "matched_ayah_text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 94.54545454545455
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 75.0,
+    "end_seconds": 79.0,
+    "start_time": "01:15",
+    "end_time": "01:19",
+    "segment_text": " إلا ابتغاء وجه ربه الأعلى",
+    "matched_ayah_text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+    "matched_ayah_id": null,
+    "score": 88.46153846153845
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 80.0,
+    "end_seconds": 82.0,
+    "start_time": "01:20",
+    "end_time": "01:22",
+    "segment_text": " ولسوف يرضى",
+    "matched_ayah_text": "وَلَسَوْفَ يَرْضَىٰ",
+    "matched_ayah_id": null,
+    "score": 95.23809523809523
+  }
+]

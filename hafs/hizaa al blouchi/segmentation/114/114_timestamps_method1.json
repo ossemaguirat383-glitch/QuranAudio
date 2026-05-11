@@ -1,0 +1,47 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 9.0,
+        "end_seconds": 12.0,
+        "start_time": "00:09",
+        "end_time": "00:12",
+        "text": "مَلِكِ ٱلنَّاسِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 12.0,
+        "end_seconds": 16.0,
+        "start_time": "00:12",
+        "end_time": "00:16",
+        "text": "إِلَـٰهِ ٱلنَّاسِ",
+        "score": 0.62
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 16.0,
+        "end_seconds": 21.0,
+        "start_time": "00:16",
+        "end_time": "00:21",
+        "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.0,
+        "end_seconds": 27.0,
+        "start_time": "00:21",
+        "end_time": "00:27",
+        "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+        "score": 0.58
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 27.0,
+        "end_seconds": 32.0,
+        "start_time": "00:27",
+        "end_time": "00:32",
+        "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+        "score": 0.63
+    }
+]

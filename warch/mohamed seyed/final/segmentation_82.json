@@ -1,0 +1,234 @@
+{
+  "surah": 82,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "start": 5.29,
+      "end": 13.87,
+      "matched_text": "بسم الله الرحمن الرحيم إذا السماء فطرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        11
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "start": 13.87,
+      "end": 16.91,
+      "matched_text": "وإذا الكواكب تفرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        14
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "start": 16.91,
+      "end": 19.31,
+      "matched_text": "وإذا البحار فجرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        17
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "start": 19.31,
+      "end": 21.83,
+      "matched_text": "وإذا القبور بعخرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        20
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "start": 21.83,
+      "end": 26.63,
+      "matched_text": "علمت نفس ما قدمت وأخرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        21,
+        25
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "start": 27.55,
+      "end": 34.41,
+      "matched_text": "أيها الانسان ما غرَّك بربك الكريم",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        33
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "start": 34.41,
+      "end": 38.39,
+      "matched_text": "الذي خلقك فسوَّاك فعدَّلك",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        37
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "start": 38.39,
+      "end": 45.71,
+      "matched_text": "في أي صورة ما شاء ركَّبك",
+      "confidence": 1,
+      "matched_word_indices": [
+        38,
+        43
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "start": 45.71,
+      "end": 49.73,
+      "matched_text": "كلا بل تكذبون بالدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        47
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "start": 49.73,
+      "end": 53.47,
+      "matched_text": "وإن عليكم لحافظين",
+      "confidence": 1,
+      "matched_word_indices": [
+        48,
+        50
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "كِرَامًا كَـٰتِبِينَ",
+      "start": 53.47,
+      "end": 56.55,
+      "matched_text": "كراما كاتبين",
+      "confidence": 1,
+      "matched_word_indices": [
+        51,
+        52
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "start": 56.55,
+      "end": 59.97,
+      "matched_text": "يعلمون ما تفعلون",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        55
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "start": 59.97,
+      "end": 64.55,
+      "matched_text": "إن لبرار لفي نعيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        56,
+        59
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "start": 64.55,
+      "end": 68.87,
+      "matched_text": "وإن الفجار لفي جحيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        60,
+        63
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "start": 68.87,
+      "end": 72.17,
+      "matched_text": "يصلونها يوم الدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        64,
+        66
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "start": 72.17,
+      "end": 77.49,
+      "matched_text": "وما هم عنها بغائبين",
+      "confidence": 1,
+      "matched_word_indices": [
+        67,
+        70
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "start": 77.49,
+      "end": 83.13,
+      "matched_text": "وما أدراك ما يوم الدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        71,
+        75
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "start": 83.13,
+      "end": 90.13,
+      "matched_text": "ثم ما أدراك ما يوم الدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        76,
+        81
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "start": 90.13,
+      "end": 100.77,
+      "matched_text": "يوم لا تملك نفس لنفس شيئة ولمر يوم إذ لله",
+      "confidence": 1,
+      "matched_word_indices": [
+        82,
+        91
+      ]
+    }
+  ],
+  "alignment_score": 73.993
+}

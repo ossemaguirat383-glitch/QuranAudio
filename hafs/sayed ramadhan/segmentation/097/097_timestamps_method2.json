@@ -1,0 +1,57 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.0,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 45.54455445544554
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.0,
+    "end_seconds": 16.4,
+    "start_time": "00:07",
+    "end_time": "00:16",
+    "segment_text": " إنا أنزلناه في ليلة القدر وما أدراك ما ليلة القدر",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 56.75675675675676
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 16.4,
+    "end_seconds": 21.240000000000002,
+    "start_time": "00:16",
+    "end_time": "00:21",
+    "segment_text": " ليلة القدر خير من ألف شهر",
+    "matched_ayah_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 21.24,
+    "end_seconds": 30.64,
+    "start_time": "00:21",
+    "end_time": "00:30",
+    "segment_text": " تنزل الملائكة والروح فيها بإذن ربهم من كل أمر",
+    "matched_ayah_text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 30.64,
+    "end_seconds": 36.64,
+    "start_time": "00:30",
+    "end_time": "00:36",
+    "segment_text": " سلام هي حتى مطلع الفجر",
+    "matched_ayah_text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  }
+]

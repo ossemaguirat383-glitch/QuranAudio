@@ -1,0 +1,102 @@
+{
+  "surah": 99,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "start": 0,
+      "end": 8.06,
+      "matched_text": "بسم الله رحمن الرحيم 2. إذا زلزلت الأرض زلزالها",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "start": 8.06,
+      "end": 15.68,
+      "matched_text": "وأخرجت الأرض أفقالها",
+      "confidence": 1,
+      "matched_word_indices": [
+        9,
+        11
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "start": 15.68,
+      "end": 19.62,
+      "matched_text": "وقال الإنسان ما لها",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "start": 19.62,
+      "end": 23.36,
+      "matched_text": "يومئذ تحدث أخبارها",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "start": 23.36,
+      "end": 25.46,
+      "matched_text": "بأن ربك",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        19,
+        20
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "start": 28.4,
+      "end": 34.84,
+      "matched_text": "يومئذ يصدر الناس أشتاة لي أو أعمالهم",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        24,
+        30
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "start": 34.84,
+      "end": 39.64,
+      "matched_text": "فمن يعمل مدقال ذرأة خيرا",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        31,
+        35
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "start": 39.64,
+      "end": 41.34,
+      "matched_text": "يره",
+      "confidence": 0.167,
+      "matched_word_indices": [
+        36,
+        36
+      ]
+    }
+  ],
+  "alignment_score": 23.925
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 10.0,
+        "end_seconds": 15.0,
+        "start_time": "00:10",
+        "end_time": "00:15",
+        "text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 15.0,
+        "end_seconds": 20.0,
+        "start_time": "00:15",
+        "end_time": "00:20",
+        "text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+        "score": 0.69
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 29.0,
+        "end_seconds": 33.0,
+        "start_time": "00:29",
+        "end_time": "00:33",
+        "text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+        "score": 0.61
+    }
+]

@@ -1,0 +1,180 @@
+{
+  "surah": 91,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "start": 0,
+      "end": 6.06,
+      "matched_text": "بسم الله الرحمن الرحيم والشمس وضحا",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "start": 6.06,
+      "end": 8.6,
+      "matched_text": "والقمر إذا تلا",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        8
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "start": 8.6,
+      "end": 12.34,
+      "matched_text": "وإذا جلّا",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        9,
+        10
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "start": 13.68,
+      "end": 15.68,
+      "matched_text": "إذا يوشاها",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        11,
+        12
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "start": 15.68,
+      "end": 17.98,
+      "matched_text": "والسمابنا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        13,
+        13
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "start": 21.3,
+      "end": 25.58,
+      "matched_text": "والأرض وما طحى",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        17
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "start": 25.58,
+      "end": 28.18,
+      "matched_text": "ونفسي وما سوا",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        20
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "start": 28.18,
+      "end": 32.34,
+      "matched_text": "فألها ماف جورا وتقوا",
+      "confidence": 1,
+      "matched_word_indices": [
+        21,
+        24
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "start": 35.86,
+      "end": 46.58,
+      "matched_text": "وقد خبم دستها",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        25,
+        27
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "start": 46.58,
+      "end": 49.76,
+      "matched_text": "كذبت ثمود",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        28,
+        29
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "start": 52.35,
+      "end": 54.05,
+      "matched_text": "فأشقى",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        31,
+        31
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "start": 55.55,
+      "end": 60.18,
+      "matched_text": "رسولي وسقيا",
+      "confidence": 0.286,
+      "matched_word_indices": [
+        32,
+        33
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "start": 60.18,
+      "end": 73.45,
+      "matched_text": "فكذبوا فأم فسوى",
+      "confidence": 0.286,
+      "matched_word_indices": [
+        34,
+        36
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": 13.061
+}

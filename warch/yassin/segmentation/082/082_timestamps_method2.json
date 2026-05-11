@@ -1,0 +1,233 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.36,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+    "matched_ayah_id": null,
+    "score": 59.375
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.36,
+    "end_seconds": 10.64,
+    "start_time": "00:04",
+    "end_time": "00:10",
+    "segment_text": " إذا السماء فطرت",
+    "matched_ayah_text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+    "matched_ayah_id": null,
+    "score": 64.51612903225806
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.64,
+    "end_seconds": 13.92,
+    "start_time": "00:10",
+    "end_time": "00:13",
+    "segment_text": " وإذا الكواكب انتثرت",
+    "matched_ayah_text": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+    "matched_ayah_id": null,
+    "score": 89.47368421052632
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 13.92,
+    "end_seconds": 16.92,
+    "start_time": "00:13",
+    "end_time": "00:16",
+    "segment_text": " وإذا البحار فجرت",
+    "matched_ayah_text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+    "matched_ayah_id": null,
+    "score": 93.75
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 16.92,
+    "end_seconds": 19.6,
+    "start_time": "00:16",
+    "end_time": "00:19",
+    "segment_text": " وإذا القبور بعثرت",
+    "matched_ayah_text": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+    "matched_ayah_id": null,
+    "score": 94.11764705882352
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 19.6,
+    "end_seconds": 24.44,
+    "start_time": "00:19",
+    "end_time": "00:24",
+    "segment_text": " علمت نفس ما قدمت وأخرت",
+    "matched_ayah_text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 24.6,
+    "end_seconds": 30.44,
+    "start_time": "00:24",
+    "end_time": "00:30",
+    "segment_text": " يا أيها الإنسان",
+    "matched_ayah_text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+    "matched_ayah_id": null,
+    "score": 44.89795918367348
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 30.44,
+    "end_seconds": 34.44,
+    "start_time": "00:30",
+    "end_time": "00:34",
+    "segment_text": " ما غرك بربك الكريم",
+    "matched_ayah_text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+    "matched_ayah_id": null,
+    "score": 65.38461538461539
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 34.44,
+    "end_seconds": 39.44,
+    "start_time": "00:34",
+    "end_time": "00:39",
+    "segment_text": " الذي خلقك فسواك فعدلك",
+    "matched_ayah_text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+    "matched_ayah_id": null,
+    "score": 88.37209302325581
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 39.44,
+    "end_seconds": 50.2,
+    "start_time": "00:39",
+    "end_time": "00:50",
+    "segment_text": " في أي صورة ما شاء ركبك",
+    "matched_ayah_text": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+    "matched_ayah_id": null,
+    "score": 95.65217391304348
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 50.2,
+    "end_seconds": 54.6,
+    "start_time": "00:50",
+    "end_time": "00:54",
+    "segment_text": " كلا بل تكذبون بالدين",
+    "matched_ayah_text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 95.0
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 54.6,
+    "end_seconds": 62.0,
+    "start_time": "00:54",
+    "end_time": "01:02",
+    "segment_text": " وإن عليكم لحافظين كراما كاتبين",
+    "matched_ayah_text": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+    "matched_ayah_id": null,
+    "score": 68.08510638297872
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 62.0,
+    "end_seconds": 65.60000000000001,
+    "start_time": "01:02",
+    "end_time": "01:05",
+    "segment_text": " يعلمون ما تفعلون",
+    "matched_ayah_text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 65.60000000000001,
+    "end_seconds": 69.72,
+    "start_time": "01:05",
+    "end_time": "01:09",
+    "segment_text": " إن البرار لفي نعيم",
+    "matched_ayah_text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+    "matched_ayah_id": null,
+    "score": 91.89189189189189
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 69.72,
+    "end_seconds": 73.76,
+    "start_time": "01:09",
+    "end_time": "01:13",
+    "segment_text": " وإن الفجار لفي جحيم",
+    "matched_ayah_text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+    "matched_ayah_id": null,
+    "score": 94.73684210526316
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 73.76,
+    "end_seconds": 76.4,
+    "start_time": "01:13",
+    "end_time": "01:16",
+    "segment_text": " يصلونها يوم الدين",
+    "matched_ayah_text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 94.11764705882352
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 76.4,
+    "end_seconds": 82.60000000000001,
+    "start_time": "01:16",
+    "end_time": "01:22",
+    "segment_text": " وما هم عنها بغائبين",
+    "matched_ayah_text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+    "matched_ayah_id": null,
+    "score": 97.43589743589743
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 82.60000000000001,
+    "end_seconds": 89.48,
+    "start_time": "01:22",
+    "end_time": "01:29",
+    "segment_text": " وما أدرك ما يوم الدين",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 89.48,
+    "end_seconds": 97.64000000000001,
+    "start_time": "01:29",
+    "end_time": "01:37",
+    "segment_text": " ثم ما أدرك ما يوم الدين",
+    "matched_ayah_text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 89.79591836734694
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 97.64000000000001,
+    "end_seconds": 104.28,
+    "start_time": "01:37",
+    "end_time": "01:44",
+    "segment_text": " يوم لا تملك نفس لنفس شيئا",
+    "matched_ayah_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+    "matched_ayah_id": null,
+    "score": 69.56521739130434
+  },
+  {
+    "segment_id": 20,
+    "start_seconds": 104.28,
+    "end_seconds": 107.64,
+    "start_time": "01:44",
+    "end_time": "01:47",
+    "segment_text": " ولمر يومئذ لله",
+    "matched_ayah_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+    "matched_ayah_id": null,
+    "score": 48.275862068965516
+  }
+]

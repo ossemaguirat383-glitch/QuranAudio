@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "matched_ayah_id": null,
+    "score": 41.509433962264154
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.8,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.8,
+    "end_seconds": 16.240000000000002,
+    "start_time": "00:09",
+    "end_time": "00:16",
+    "segment_text": " أرى إيت الذي يكذب بالدين",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 60.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 16.240000000000002,
+    "end_seconds": 20.04,
+    "start_time": "00:16",
+    "end_time": "00:20",
+    "segment_text": " فذلك الذي يدعو اليتيم",
+    "matched_ayah_text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 20.04,
+    "end_seconds": 25.44,
+    "start_time": "00:20",
+    "end_time": "00:25",
+    "segment_text": " ولا يحض على طعام المسكين",
+    "matched_ayah_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "matched_ayah_id": null,
+    "score": 93.87755102040816
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 25.44,
+    "end_seconds": 42.84,
+    "start_time": "00:25",
+    "end_time": "00:42",
+    "segment_text": " فويل للمصلين الذين هم عن صلاتهم ساهون الذين هم يراءون ويمنعون الماعون",
+    "matched_ayah_text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "matched_ayah_id": null,
+    "score": 49.46236559139785
+  }
+]

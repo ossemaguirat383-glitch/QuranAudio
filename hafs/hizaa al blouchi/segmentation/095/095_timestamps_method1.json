@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 7.0,
+        "end_seconds": 10.0,
+        "start_time": "00:07",
+        "end_time": "00:10",
+        "text": "وَطُورِ سِينِينَ",
+        "score": 0.77
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 10.0,
+        "end_seconds": 14.0,
+        "start_time": "00:10",
+        "end_time": "00:14",
+        "text": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+        "score": 0.64
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 14.0,
+        "end_seconds": 21.0,
+        "start_time": "00:14",
+        "end_time": "00:21",
+        "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 21.0,
+        "end_seconds": 26.0,
+        "start_time": "00:21",
+        "end_time": "00:26",
+        "text": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+        "score": 0.63
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 26.0,
+        "end_seconds": 34.0,
+        "start_time": "00:26",
+        "end_time": "00:34",
+        "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+        "score": 0.65
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 34.0,
+        "end_seconds": 39.0,
+        "start_time": "00:34",
+        "end_time": "00:39",
+        "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+        "score": 0.69
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 39.0,
+        "end_seconds": 44.0,
+        "start_time": "00:39",
+        "end_time": "00:44",
+        "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+        "score": 0.64
+    }
+]

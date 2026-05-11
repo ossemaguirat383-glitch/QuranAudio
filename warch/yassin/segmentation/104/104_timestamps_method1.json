@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 13.12,
+        "end_seconds": 20.44,
+        "start_time": "00:13",
+        "end_time": "00:20",
+        "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+        "score": 0.67
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 20.44,
+        "end_seconds": 31.68,
+        "start_time": "00:20",
+        "end_time": "00:31",
+        "text": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+        "score": 0.48
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 31.68,
+        "end_seconds": 35.24,
+        "start_time": "00:31",
+        "end_time": "00:35",
+        "text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+        "score": 0.67
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 35.24,
+        "end_seconds": 39.56,
+        "start_time": "00:35",
+        "end_time": "00:39",
+        "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+        "score": 0.56
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 39.56,
+        "end_seconds": 44.56,
+        "start_time": "00:39",
+        "end_time": "00:44",
+        "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+        "score": 0.65
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 44.56,
+        "end_seconds": 48.68,
+        "start_time": "00:44",
+        "end_time": "00:48",
+        "text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+        "score": 0.61
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "ayah": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 11.0,
+        "start_time": "00:00",
+        "end_time": "00:11",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+        "score": 0.54
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 11.0,
+        "end_seconds": 16.36,
+        "start_time": "00:11",
+        "end_time": "00:16",
+        "text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+        "score": 0.48
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 16.36,
+        "end_seconds": 22.6,
+        "start_time": "00:16",
+        "end_time": "00:22",
+        "text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+        "score": 0.69
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 22.6,
+        "end_seconds": 31.32,
+        "start_time": "00:22",
+        "end_time": "00:31",
+        "text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+        "score": 0.56
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 31.32,
+        "end_seconds": 36.08,
+        "start_time": "00:31",
+        "end_time": "00:36",
+        "text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+        "score": 0.61
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 36.08,
+        "end_seconds": 41.6,
+        "start_time": "00:36",
+        "end_time": "00:41",
+        "text": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+        "score": 0.65
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 41.6,
+        "end_seconds": 45.84,
+        "start_time": "00:41",
+        "end_time": "00:45",
+        "text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+        "score": 0.69
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 45.84,
+        "end_seconds": 50.84,
+        "start_time": "00:45",
+        "end_time": "00:50",
+        "text": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+        "score": 0.65
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 50.88,
+        "end_seconds": 54.96,
+        "start_time": "00:50",
+        "end_time": "00:54",
+        "text": "كِرَامًا كَـٰتِبِينَ",
+        "score": 0.69
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 54.96,
+        "end_seconds": 58.16,
+        "start_time": "00:54",
+        "end_time": "00:58",
+        "text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+        "score": 0.74
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 58.16,
+        "end_seconds": 62.64,
+        "start_time": "00:58",
+        "end_time": "01:02",
+        "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 62.64,
+        "end_seconds": 67.2,
+        "start_time": "01:02",
+        "end_time": "01:07",
+        "text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+        "score": 0.62
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 67.2,
+        "end_seconds": 70.96,
+        "start_time": "01:07",
+        "end_time": "01:10",
+        "text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+        "score": 0.7
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 70.96,
+        "end_seconds": 77.28,
+        "start_time": "01:10",
+        "end_time": "01:17",
+        "text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+        "score": 0.72
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 77.32,
+        "end_seconds": 80.8,
+        "start_time": "01:17",
+        "end_time": "01:20",
+        "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 80.8,
+        "end_seconds": 86.76,
+        "start_time": "01:20",
+        "end_time": "01:26",
+        "text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 86.76,
+        "end_seconds": 92.36,
+        "start_time": "01:26",
+        "end_time": "01:32",
+        "text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+        "score": 0.46
+    }
+]

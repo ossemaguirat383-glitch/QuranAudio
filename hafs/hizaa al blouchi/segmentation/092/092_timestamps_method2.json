@@ -1,0 +1,222 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.0,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.0,
+    "end_seconds": 10.0,
+    "start_time": "00:04",
+    "end_time": "00:10",
+    "segment_text": " والليل إذا يغشى والنهار إذا تجلى",
+    "matched_ayah_text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+    "matched_ayah_id": null,
+    "score": 61.224489795918366
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.0,
+    "end_seconds": 14.0,
+    "start_time": "00:10",
+    "end_time": "00:14",
+    "segment_text": " وما خلق الذكر والأنثى",
+    "matched_ayah_text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 86.36363636363636
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 14.0,
+    "end_seconds": 18.0,
+    "start_time": "00:14",
+    "end_time": "00:18",
+    "segment_text": " إن سعيكم لشدا",
+    "matched_ayah_text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+    "matched_ayah_id": null,
+    "score": 81.4814814814815
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 18.0,
+    "end_seconds": 24.0,
+    "start_time": "00:18",
+    "end_time": "00:24",
+    "segment_text": " فأما من أعطى واتقى وصدق بالحسنى",
+    "matched_ayah_text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 24.0,
+    "end_seconds": 27.0,
+    "start_time": "00:24",
+    "end_time": "00:27",
+    "segment_text": " فسنيسهره لليسرى",
+    "matched_ayah_text": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 90.32258064516128
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 27.0,
+    "end_seconds": 32.0,
+    "start_time": "00:27",
+    "end_time": "00:32",
+    "segment_text": " وما يغني عنه ماله إذا تردا",
+    "matched_ayah_text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "matched_ayah_id": null,
+    "score": 89.28571428571429
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 32.0,
+    "end_seconds": 36.0,
+    "start_time": "00:32",
+    "end_time": "00:36",
+    "segment_text": " إن علينا للهدا",
+    "matched_ayah_text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "matched_ayah_id": null,
+    "score": 89.65517241379311
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 36.0,
+    "end_seconds": 40.0,
+    "start_time": "00:36",
+    "end_time": "00:40",
+    "segment_text": " وإن لنا للاخرة والأولى",
+    "matched_ayah_text": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 91.30434782608697
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 40.0,
+    "end_seconds": 45.0,
+    "start_time": "00:40",
+    "end_time": "00:45",
+    "segment_text": " فأنذرتكم نارا تلضى",
+    "matched_ayah_text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "matched_ayah_id": null,
+    "score": 91.89189189189189
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 45.0,
+    "end_seconds": 49.0,
+    "start_time": "00:45",
+    "end_time": "00:49",
+    "segment_text": " لا يصدق لنا أمامنا",
+    "matched_ayah_text": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+    "matched_ayah_id": null,
+    "score": 55.00000000000001
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 49.0,
+    "end_seconds": 53.0,
+    "start_time": "00:49",
+    "end_time": "00:53",
+    "segment_text": " وإنه يحفظ على محافظة",
+    "matched_ayah_text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "matched_ayah_id": null,
+    "score": 45.714285714285715
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 53.0,
+    "end_seconds": 57.0,
+    "start_time": "00:53",
+    "end_time": "00:57",
+    "segment_text": " فأنا أحبكم نارا تلضى",
+    "matched_ayah_text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "matched_ayah_id": null,
+    "score": 71.7948717948718
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 57.0,
+    "end_seconds": 61.0,
+    "start_time": "00:57",
+    "end_time": "01:01",
+    "segment_text": " لا يصلاها إلا الأشقى",
+    "matched_ayah_text": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 61.0,
+    "end_seconds": 64.0,
+    "start_time": "01:01",
+    "end_time": "01:04",
+    "segment_text": " الذي كذب وتولى",
+    "matched_ayah_text": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+    "matched_ayah_id": null,
+    "score": 89.65517241379311
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 64.0,
+    "end_seconds": 68.0,
+    "start_time": "01:04",
+    "end_time": "01:08",
+    "segment_text": " وسيجنبها الأتقى",
+    "matched_ayah_text": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+    "matched_ayah_id": null,
+    "score": 93.33333333333333
+  },
+  {
+    "segment_id": 16,
+    "start_seconds": 68.0,
+    "end_seconds": 72.0,
+    "start_time": "01:08",
+    "end_time": "01:12",
+    "segment_text": " الذي يؤتي ماله يتزكى",
+    "matched_ayah_text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+    "matched_ayah_id": null,
+    "score": 90.47619047619048
+  },
+  {
+    "segment_id": 17,
+    "start_seconds": 72.0,
+    "end_seconds": 78.0,
+    "start_time": "01:12",
+    "end_time": "01:18",
+    "segment_text": " وما لأحد عنده من نعمة تجزى",
+    "matched_ayah_text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 94.54545454545455
+  },
+  {
+    "segment_id": 18,
+    "start_seconds": 78.0,
+    "end_seconds": 83.0,
+    "start_time": "01:18",
+    "end_time": "01:23",
+    "segment_text": " إلا باتغاء وجه ربه الأعلى",
+    "matched_ayah_text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+    "matched_ayah_id": null,
+    "score": 88.46153846153845
+  },
+  {
+    "segment_id": 19,
+    "start_seconds": 83.0,
+    "end_seconds": 86.0,
+    "start_time": "01:23",
+    "end_time": "01:26",
+    "segment_text": " ولسوف يرضى",
+    "matched_ayah_text": "وَلَسَوْفَ يَرْضَىٰ",
+    "matched_ayah_id": null,
+    "score": 95.23809523809523
+  }
+]

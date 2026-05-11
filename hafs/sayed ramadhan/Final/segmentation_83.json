@@ -1,0 +1,426 @@
+{
+  "surah": 83,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "start": 3.3,
+      "end": 9.96,
+      "matched_text": "بسم الله الرحمن الرحيم 3. ويل للمطففين",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        12
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+      "start": 9.96,
+      "end": 16.42,
+      "matched_text": "الذين إذا كتالوا على الناس يستوثون",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        18
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "start": 16.42,
+      "end": 22.9,
+      "matched_text": "وإذا كالوا هم أوزلوا هم يخسرون",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        19,
+        24
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "أَلَا يَظُنُّ أُو۟لَـٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "start": 22.9,
+      "end": 30.6,
+      "matched_text": "ألا يظن أولئك أنهم مبعوثون",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        31
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "لِيَوْمٍ عَظِيمٍ",
+      "start": 30.6,
+      "end": 33.64,
+      "matched_text": "ليوم عظيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        33
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+      "start": 33.64,
+      "end": 39.64,
+      "matched_text": "يوم يقوم الناس لرب العالمين",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        38
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+      "start": 40,
+      "end": 46.34,
+      "matched_text": "كلا إن كتاب الخجار لفي سجين",
+      "confidence": 1,
+      "matched_word_indices": [
+        41,
+        46
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+      "start": 46.34,
+      "end": 50.88,
+      "matched_text": "وما أدراك ما سجين",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        50
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "كِتَـٰبٌ مَّرْقُومٌ",
+      "start": 51.18,
+      "end": 54.24,
+      "matched_text": "كتاب مرقوم",
+      "confidence": 1,
+      "matched_word_indices": [
+        52,
+        53
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "start": 54.76,
+      "end": 56.34,
+      "matched_text": "ويل يوم",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        55,
+        56
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 12,
+      "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "start": 64.9,
+      "end": 65.54,
+      "matched_text": "وما",
+      "confidence": 0.143,
+      "matched_word_indices": [
+        60,
+        60
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+      "start": 71.68,
+      "end": 77.54,
+      "matched_text": "إذا تتلى قال أساطيرهم",
+      "confidence": 0.571,
+      "matched_word_indices": [
+        63,
+        66
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+      "start": 89.06,
+      "end": 94.03,
+      "matched_text": "عرن لمحجوبون",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        67,
+        68
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+      "start": 94.41,
+      "end": 98.85,
+      "matched_text": "ثم إنهم لصال الجحيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        70,
+        73
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "ثُمَّ يُقَالُ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "start": 99.41,
+      "end": 105.99,
+      "matched_text": "ثم يقال تكذب",
+      "confidence": 0.429,
+      "matched_word_indices": [
+        75,
+        77
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+      "start": 107.58,
+      "end": 111.88,
+      "matched_text": "كلا إن كتاب الأبرار لفي",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        79,
+        83
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+      "start": 114.38,
+      "end": 115.02,
+      "matched_text": "وما",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        85,
+        85
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "كِتَـٰبٌ مَّرْقُومٌ",
+      "start": 118.83,
+      "end": 119.73,
+      "matched_text": "كتاب",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        86,
+        86
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "start": 122.06,
+      "end": 125.18,
+      "matched_text": "يشهده المقربون",
+      "confidence": 1,
+      "matched_word_indices": [
+        87,
+        88
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "start": 126.53,
+      "end": 127.71,
+      "matched_text": "الأبرار",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        89,
+        89
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "start": 130.68,
+      "end": 131.94,
+      "matched_text": "الأرار",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        90,
+        90
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+      "start": 137.35,
+      "end": 138.41,
+      "matched_text": "نضرة",
+      "confidence": 0.2,
+      "matched_word_indices": [
+        91,
+        91
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+      "start": 139.79,
+      "end": 145.37,
+      "matched_text": "يسقون من رحيق مخطوم",
+      "confidence": 1,
+      "matched_word_indices": [
+        92,
+        95
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "خِتَـٰمُهُۥ مِسْكٌ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+      "start": 145.77,
+      "end": 153.87,
+      "matched_text": "ختامه مسك وفي ذلك فليتنافس المتنافسون",
+      "confidence": 1,
+      "matched_word_indices": [
+        97,
+        102
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+      "start": 154.37,
+      "end": 155.41,
+      "matched_text": "ومزاج",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        104,
+        104
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "start": 159.47,
+      "end": 163.25,
+      "matched_text": "يشرب بها المقربون",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        105,
+        107
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+      "start": 163.77,
+      "end": 171.75,
+      "matched_text": "إن الذين أجربوا كانوا من الذين آمنوا يضحكون",
+      "confidence": 1,
+      "matched_word_indices": [
+        109,
+        116
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+      "start": 172.23,
+      "end": 176.77,
+      "matched_text": "وإذا مروا بهم يتغامزون",
+      "confidence": 1,
+      "matched_word_indices": [
+        118,
+        121
+      ]
+    },
+    {
+      "ayah": 31,
+      "text": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+      "start": 177.37,
+      "end": 184.05,
+      "matched_text": "وإذا قلبوا إلى أهلهم قلبوا فكهين",
+      "confidence": 1,
+      "matched_word_indices": [
+        123,
+        128
+      ]
+    },
+    {
+      "ayah": 32,
+      "text": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَـٰٓؤُلَآءِ لَضَآلُّونَ",
+      "start": 184.69,
+      "end": 187.07,
+      "matched_text": "وإذا رأوهم قالوا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        130,
+        132
+      ]
+    },
+    {
+      "ayah": 33,
+      "text": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 34,
+      "text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+      "start": 202.39,
+      "end": 205.35,
+      "matched_text": "الكفار يضحكوا",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        134,
+        135
+      ]
+    },
+    {
+      "ayah": 35,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 36,
+      "text": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "start": 210.98,
+      "end": 215.88,
+      "matched_text": "هل ثبب الكفار ما كانوا يفعلوا",
+      "confidence": 1,
+      "matched_word_indices": [
+        137,
+        142
+      ]
+    }
+  ],
+  "alignment_score": 60.686
+}

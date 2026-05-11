@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 10.0,
+        "end_seconds": 14.5,
+        "start_time": "00:10",
+        "end_time": "00:14",
+        "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 14.5,
+        "end_seconds": 22.1,
+        "start_time": "00:14",
+        "end_time": "00:22",
+        "text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+        "score": 0.58
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 22.1,
+        "end_seconds": 29.8,
+        "start_time": "00:22",
+        "end_time": "00:29",
+        "text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+        "score": 0.46
+    }
+]

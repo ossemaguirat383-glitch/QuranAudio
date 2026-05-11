@@ -1,0 +1,246 @@
+{
+  "surah": 90,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "start": 0.69,
+      "end": 8.71,
+      "matched_text": "بسم الله الرحمن الرحيم 129. لا أقسم بهذا البلد",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "start": 8.71,
+      "end": 13.03,
+      "matched_text": "وأن تحلوا بهذا البلد",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        9,
+        12
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَوَالِدٍ وَمَا وَلَدَ",
+      "start": 13.03,
+      "end": 15.89,
+      "matched_text": "ووالد وما ولد",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "start": 15.89,
+      "end": 20.23,
+      "matched_text": "لقد خلقنا الإنسان فيك بد",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        20
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "start": 20.99,
+      "end": 25.33,
+      "matched_text": "أحسب أن ليقدر عليه أحد",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        22,
+        26
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "start": 25.33,
+      "end": 29.97,
+      "matched_text": "يقول أهلك تمالا لبدأ",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        30
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "start": 30.71,
+      "end": 33.93,
+      "matched_text": "أحسب أن لم يره أحد",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        36
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "start": 33.93,
+      "end": 37.27,
+      "matched_text": "ألم نجع له عينين",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        40
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَلِسَانًا وَشَفَتَيْنِ",
+      "start": 37.27,
+      "end": 40.21,
+      "matched_text": "ولسانا وشفتين",
+      "confidence": 1,
+      "matched_word_indices": [
+        41,
+        42
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "start": 40.21,
+      "end": 43.83,
+      "matched_text": "وهديناه النجدين",
+      "confidence": 1,
+      "matched_word_indices": [
+        43,
+        44
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "start": 44.57,
+      "end": 46.85,
+      "matched_text": "فلقت حما العقبة",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        46,
+        48
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "start": 46.85,
+      "end": 50.65,
+      "matched_text": "وما أدرى كما العقبة",
+      "confidence": 1,
+      "matched_word_indices": [
+        49,
+        52
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "start": 50.65,
+      "end": 52.47,
+      "matched_text": "فكر قبت",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        54
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "start": 53.67,
+      "end": 57.77,
+      "matched_text": "في يوم ذي مسغبتي",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        57,
+        60
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "start": 57.77,
+      "end": 60.93,
+      "matched_text": "يتيما ذام قربت",
+      "confidence": 1,
+      "matched_word_indices": [
+        61,
+        63
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "start": 61.55,
+      "end": 64.75,
+      "matched_text": "سكينا ذامت ربه",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        65,
+        67
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "start": 65.55,
+      "end": 74.01,
+      "matched_text": "ثم كان من الذين آمنوا وتواصوا بالصبر وتواصوا بالمرحمة",
+      "confidence": 1,
+      "matched_word_indices": [
+        69,
+        77
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "start": 74.01,
+      "end": 78.85,
+      "matched_text": "أولئك أصحاب الميمنة",
+      "confidence": 1,
+      "matched_word_indices": [
+        78,
+        80
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "start": 78.85,
+      "end": 85.91,
+      "matched_text": "والذين كفروا بآياتنا هم أصحاب المشأمة",
+      "confidence": 1,
+      "matched_word_indices": [
+        81,
+        86
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "start": 85.91,
+      "end": 89.93,
+      "matched_text": "عليهم نار موصده",
+      "confidence": 1,
+      "matched_word_indices": [
+        87,
+        89
+      ]
+    }
+  ],
+  "alignment_score": 65.818
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 15.96,
+        "end_seconds": 24.36,
+        "start_time": "00:15",
+        "end_time": "00:24",
+        "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+        "score": 0.73
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 24.36,
+        "end_seconds": 29.96,
+        "start_time": "00:24",
+        "end_time": "00:29",
+        "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+        "score": 0.71
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 29.96,
+        "end_seconds": 35.96,
+        "start_time": "00:29",
+        "end_time": "00:35",
+        "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+        "score": 0.63
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 35.96,
+        "end_seconds": 43.16,
+        "start_time": "00:35",
+        "end_time": "00:43",
+        "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+        "score": 0.69
+    }
+]

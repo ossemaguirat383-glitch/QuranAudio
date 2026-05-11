@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.0,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 44.18604651162791
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.0,
+    "end_seconds": 15.0,
+    "start_time": "00:07",
+    "end_time": "00:15",
+    "segment_text": " لإيلاف قريش إيلافهم رحلة الشتاء والصيف",
+    "matched_ayah_text": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+    "matched_ayah_id": null,
+    "score": 67.6923076923077
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.0,
+    "end_seconds": 28.0,
+    "start_time": "00:15",
+    "end_time": "00:28",
+    "segment_text": " فليعبدوا رب هذا البيت الذي أطعمهم من جوع وآملهم من خوف",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 67.41573033707866
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.7,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+    "matched_ayah_id": null,
+    "score": 59.375
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.7,
+    "end_seconds": 19.6,
+    "start_time": "00:03",
+    "end_time": "00:19",
+    "segment_text": " سبع اسم ربك الأعلى الذي خلق فسوا والذي قد رفاد والذي أخرج المرع فجعله هفاء أحوى",
+    "matched_ayah_text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+    "matched_ayah_id": null,
+    "score": 37.398373983739845
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 19.6,
+    "end_seconds": 29.2,
+    "start_time": "00:19",
+    "end_time": "00:29",
+    "segment_text": " سنقرأك فلا تنسى إلا ما شاء الله",
+    "matched_ayah_text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 58.33333333333333
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 29.2,
+    "end_seconds": 42.4,
+    "start_time": "00:29",
+    "end_time": "00:42",
+    "segment_text": " إنه يعلم الجهر وما يخفى ونيسرك لليسرى فذكر إن نفعت الذكرى",
+    "matched_ayah_text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+    "matched_ayah_id": null,
+    "score": 46.753246753246756
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 42.4,
+    "end_seconds": 56.86,
+    "start_time": "00:42",
+    "end_time": "00:56",
+    "segment_text": " فيذكر من يخشى ويتجنب والأشق الذي يصلى النار الكبرى ثم لا يموت فيها و لا يحيا",
+    "matched_ayah_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+    "matched_ayah_id": null,
+    "score": 45.54455445544554
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 57.76,
+    "end_seconds": 74.06,
+    "start_time": "00:57",
+    "end_time": "01:14",
+    "segment_text": " قد أفلح من تزكى وذكر اسم ربه فصلى بل تؤثرون الحياة الدنيا والآخرة خير وابقى",
+    "matched_ayah_text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+    "matched_ayah_id": null,
+    "score": 40.40404040404041
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 74.06,
+    "end_seconds": 82.46000000000001,
+    "start_time": "01:14",
+    "end_time": "01:22",
+    "segment_text": " إن هذا لفي الصحف الأولى صحف إبراهيم وموسى",
+    "matched_ayah_text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 63.63636363636363
+  }
+]

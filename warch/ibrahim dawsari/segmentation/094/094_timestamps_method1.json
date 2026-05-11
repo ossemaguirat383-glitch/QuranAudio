@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 11.68,
+        "end_seconds": 17.44,
+        "start_time": "00:11",
+        "end_time": "00:17",
+        "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+        "score": 0.73
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 17.44,
+        "end_seconds": 24.88,
+        "start_time": "00:17",
+        "end_time": "00:24",
+        "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+        "score": 0.62
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 24.88,
+        "end_seconds": 29.04,
+        "start_time": "00:24",
+        "end_time": "00:29",
+        "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+        "score": 0.72
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 29.28,
+        "end_seconds": 39.68,
+        "start_time": "00:29",
+        "end_time": "00:39",
+        "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+        "score": 0.68
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 39.68,
+        "end_seconds": 44.4,
+        "start_time": "00:39",
+        "end_time": "00:44",
+        "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+        "score": 0.7
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 44.4,
+        "end_seconds": 48.48,
+        "start_time": "00:44",
+        "end_time": "00:48",
+        "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+        "score": 0.68
+    }
+]

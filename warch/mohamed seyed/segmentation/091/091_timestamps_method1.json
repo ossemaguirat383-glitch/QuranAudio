@@ -1,0 +1,101 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 14.6,
+        "end_seconds": 17.96,
+        "start_time": "00:14",
+        "end_time": "00:17",
+        "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 17.96,
+        "end_seconds": 20.84,
+        "start_time": "00:17",
+        "end_time": "00:20",
+        "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+        "score": 0.53
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 20.84,
+        "end_seconds": 25.16,
+        "start_time": "00:20",
+        "end_time": "00:25",
+        "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+        "score": 0.61
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 25.16,
+        "end_seconds": 28.24,
+        "start_time": "00:25",
+        "end_time": "00:28",
+        "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+        "score": 0.59
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 31.12,
+        "end_seconds": 34.44,
+        "start_time": "00:31",
+        "end_time": "00:34",
+        "text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+        "score": 0.62
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 34.44,
+        "end_seconds": 38.76,
+        "start_time": "00:34",
+        "end_time": "00:38",
+        "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "score": 0.63
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 38.76,
+        "end_seconds": 42.0,
+        "start_time": "00:38",
+        "end_time": "00:42",
+        "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "score": 0.64
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 42.0,
+        "end_seconds": 45.76,
+        "start_time": "00:42",
+        "end_time": "00:45",
+        "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+        "score": 0.65
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 46.6,
+        "end_seconds": 51.4,
+        "start_time": "00:46",
+        "end_time": "00:51",
+        "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+        "score": 0.61
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 51.4,
+        "end_seconds": 54.72,
+        "start_time": "00:51",
+        "end_time": "00:54",
+        "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+        "score": 0.55
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 76.56,
+        "end_seconds": 80.0,
+        "start_time": "01:16",
+        "end_time": "01:20",
+        "text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+        "score": 0.6
+    }
+]

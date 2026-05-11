@@ -1,0 +1,178 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 6.8,
+    "start_time": "00:00",
+    "end_time": "00:06",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+    "matched_ayah_id": null,
+    "score": 43.01075268817204
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 6.8,
+    "end_seconds": 16.12,
+    "start_time": "00:06",
+    "end_time": "00:16",
+    "segment_text": " إذا الشمس كورت وإذا النجوم انكدرت وإذا الجبال سيرت",
+    "matched_ayah_text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+    "matched_ayah_id": null,
+    "score": 47.05882352941176
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 16.12,
+    "end_seconds": 24.96,
+    "start_time": "00:16",
+    "end_time": "00:24",
+    "segment_text": " وإذا العشار عطلت وإذا الوحوش حشرت وإذا البحار سجرت",
+    "matched_ayah_text": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+    "matched_ayah_id": null,
+    "score": 45.45454545454546
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.96,
+    "end_seconds": 35.160000000000004,
+    "start_time": "00:24",
+    "end_time": "00:35",
+    "segment_text": " وإذا النفوس زوجت وإذا الموءودة سئلت بأي ذنب قتلت",
+    "matched_ayah_text": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+    "matched_ayah_id": null,
+    "score": 48.484848484848484
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 35.160000000000004,
+    "end_seconds": 41.88,
+    "start_time": "00:35",
+    "end_time": "00:41",
+    "segment_text": " وإذا الصحف نشرت وإذا السماء كشطت",
+    "matched_ayah_text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+    "matched_ayah_id": null,
+    "score": 61.224489795918366
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 41.88,
+    "end_seconds": 48.68,
+    "start_time": "00:41",
+    "end_time": "00:48",
+    "segment_text": " وإذا الجحيم سعرت وإذا الجنة أزلفت",
+    "matched_ayah_text": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+    "matched_ayah_id": null,
+    "score": 61.224489795918366
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 48.68,
+    "end_seconds": 59.28,
+    "start_time": "00:48",
+    "end_time": "00:59",
+    "segment_text": " علمت نفس ما أحضرت فلا أقسم بالخنس الجوار الكنس",
+    "matched_ayah_text": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+    "matched_ayah_id": null,
+    "score": 53.125
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 59.28,
+    "end_seconds": 71.03999999999999,
+    "start_time": "00:59",
+    "end_time": "01:11",
+    "segment_text": " والليل إذا عسعس والصبح إذا تنفس إنه لقول رسول كريم",
+    "matched_ayah_text": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+    "matched_ayah_id": null,
+    "score": 52.17391304347826
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 71.03999999999999,
+    "end_seconds": 76.72,
+    "start_time": "01:11",
+    "end_time": "01:16",
+    "segment_text": " ذي قوة عند ذي العرش مكين",
+    "matched_ayah_text": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+    "matched_ayah_id": null,
+    "score": 95.83333333333334
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 76.76,
+    "end_seconds": 81.67999999999999,
+    "start_time": "01:16",
+    "end_time": "01:21",
+    "segment_text": " مطاع ثم أمين",
+    "matched_ayah_text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 81.67999999999999,
+    "end_seconds": 87.16,
+    "start_time": "01:21",
+    "end_time": "01:27",
+    "segment_text": " وما صاحبكم بمجنون",
+    "matched_ayah_text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 87.16,
+    "end_seconds": 92.64,
+    "start_time": "01:27",
+    "end_time": "01:32",
+    "segment_text": " ولقد رآه بالأفق المبين",
+    "matched_ayah_text": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 92.64,
+    "end_seconds": 102.16,
+    "start_time": "01:32",
+    "end_time": "01:42",
+    "segment_text": " وما هو على الغيب بضنين وما هو بقول شيطان الرجيم",
+    "matched_ayah_text": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+    "matched_ayah_id": null,
+    "score": 60.86956521739131
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 102.28,
+    "end_seconds": 110.0,
+    "start_time": "01:42",
+    "end_time": "01:50",
+    "segment_text": " فأين تذهبون إنه إلا ذكر للعالمين",
+    "matched_ayah_text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+    "matched_ayah_id": null,
+    "score": 77.77777777777779
+  },
+  {
+    "segment_id": 14,
+    "start_seconds": 110.0,
+    "end_seconds": 117.24,
+    "start_time": "01:50",
+    "end_time": "01:57",
+    "segment_text": " لمن شاء منكم أن يستقيم",
+    "matched_ayah_text": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+    "matched_ayah_id": null,
+    "score": 97.77777777777777
+  },
+  {
+    "segment_id": 15,
+    "start_seconds": 117.24,
+    "end_seconds": 127.12,
+    "start_time": "01:57",
+    "end_time": "02:07",
+    "segment_text": " وما تشاءون إلا أن يشاء الله رب العالمين",
+    "matched_ayah_text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.2,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 55.072463768115945
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.2,
+    "end_seconds": 8.6,
+    "start_time": "00:04",
+    "end_time": "00:08",
+    "segment_text": " إذا زلزلت لرض زلزالها",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 61.76470588235294
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.6,
+    "end_seconds": 15.8,
+    "start_time": "00:08",
+    "end_time": "00:15",
+    "segment_text": " وأخرجت لرض أثقالها وقال الإنسان مالها",
+    "matched_ayah_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "matched_ayah_id": null,
+    "score": 63.1578947368421
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 15.8,
+    "end_seconds": 24.8,
+    "start_time": "00:15",
+    "end_time": "00:24",
+    "segment_text": " يومئذ تحدث أخبارها بأن ربك أوحالها",
+    "matched_ayah_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "matched_ayah_id": null,
+    "score": 69.23076923076923
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 24.8,
+    "end_seconds": 32.6,
+    "start_time": "00:24",
+    "end_time": "00:32",
+    "segment_text": " يومئذ يصدر الناس أشتاة ليرى وعماله",
+    "matched_ayah_text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "matched_ayah_id": null,
+    "score": 80.55555555555556
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 32.6,
+    "end_seconds": 39.0,
+    "start_time": "00:32",
+    "end_time": "00:39",
+    "segment_text": " فمن يعمل مثقال ذرة خيرا يره",
+    "matched_ayah_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 98.18181818181819
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 39.0,
+    "end_seconds": 46.2,
+    "start_time": "00:39",
+    "end_time": "00:46",
+    "segment_text": " ومن يعمل مثقال ذرة شرا يره",
+    "matched_ayah_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 98.11320754716981
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.4,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.4,
+    "end_seconds": 8.4,
+    "start_time": "00:05",
+    "end_time": "00:08",
+    "segment_text": " قل أعوذ برب الفلق",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "matched_ayah_id": null,
+    "score": 55.172413793103445
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.4,
+    "end_seconds": 12.4,
+    "start_time": "00:08",
+    "end_time": "00:12",
+    "segment_text": " من شر ما خلق",
+    "matched_ayah_text": "مِن شَرِّ مَا خَلَقَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 12.4,
+    "end_seconds": 16.88,
+    "start_time": "00:12",
+    "end_time": "00:16",
+    "segment_text": " ومن شر غاسق إذا وقب",
+    "matched_ayah_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 16.88,
+    "end_seconds": 22.0,
+    "start_time": "00:16",
+    "end_time": "00:22",
+    "segment_text": " ومن شر النفاثات في العقد",
+    "matched_ayah_text": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+    "matched_ayah_id": null,
+    "score": 83.33333333333334
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 22.0,
+    "end_seconds": 28.6,
+    "start_time": "00:22",
+    "end_time": "00:28",
+    "segment_text": " ومن شر حاسد إذا حسد",
+    "matched_ayah_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  }
+]

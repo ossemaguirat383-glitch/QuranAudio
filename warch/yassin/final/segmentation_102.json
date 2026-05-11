@@ -1,0 +1,102 @@
+{
+  "surah": 102,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "start": 0.46,
+      "end": 6.92,
+      "matched_text": "بسم الله الرحمن الرحيم 113. ألهاكم التكاثر",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "start": 6.92,
+      "end": 9.66,
+      "matched_text": "حتى ذرتم المقابر",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": 10.74,
+      "end": 13.04,
+      "matched_text": "كلا سوف تعلمون",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        14
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "start": 13.04,
+      "end": 16.82,
+      "matched_text": "ثم كلا سوف تعلمون",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "start": 17.8,
+      "end": 21.84,
+      "matched_text": "كلا لو تعلمون علم اليقين",
+      "confidence": 1,
+      "matched_word_indices": [
+        20,
+        24
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "start": 22.84,
+      "end": 25.46,
+      "matched_text": "لترون الجحيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        26,
+        27
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "start": 25.46,
+      "end": 30.56,
+      "matched_text": "ثم لترون نهاعين اليقين",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "start": 31.5,
+      "end": 37.74,
+      "matched_text": "ثم لتسأل يومئذ عن النعيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        33,
+        37
+      ]
+    }
+  ],
+  "alignment_score": 26.596
+}

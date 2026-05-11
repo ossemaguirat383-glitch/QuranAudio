@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 11.28,
+        "end_seconds": 14.48,
+        "start_time": "00:11",
+        "end_time": "00:14",
+        "text": "ٱللَّهُ ٱلصَّمَدُ",
+        "score": 0.59
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 14.48,
+        "end_seconds": 18.16,
+        "start_time": "00:14",
+        "end_time": "00:18",
+        "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "score": 0.73
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 18.16,
+        "end_seconds": 22.96,
+        "start_time": "00:18",
+        "end_time": "00:22",
+        "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+        "score": 0.67
+    }
+]

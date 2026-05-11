@@ -1,0 +1,57 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.2,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+    "matched_ayah_id": null,
+    "score": 62.295081967213115
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.2,
+    "end_seconds": 10.200000000000001,
+    "start_time": "00:04",
+    "end_time": "00:10",
+    "segment_text": " ألهكم التكاثر حتى زرتم المقابر",
+    "matched_ayah_text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+    "matched_ayah_id": null,
+    "score": 63.829787234042556
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 10.200000000000001,
+    "end_seconds": 18.2,
+    "start_time": "00:10",
+    "end_time": "00:18",
+    "segment_text": " كنا سوف تعلمون ثم كنا سوف تعلمون",
+    "matched_ayah_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+    "matched_ayah_id": null,
+    "score": 65.3061224489796
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 18.2,
+    "end_seconds": 23.2,
+    "start_time": "00:18",
+    "end_time": "00:23",
+    "segment_text": " كنا لو تعلمون علما يقين",
+    "matched_ayah_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+    "matched_ayah_id": null,
+    "score": 89.36170212765957
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 23.2,
+    "end_seconds": 39.0,
+    "start_time": "00:23",
+    "end_time": "00:39",
+    "segment_text": " نترون الجحيم ثم نترونها عين اليقين ثم نتسألن يومئذ عن النعيم",
+    "matched_ayah_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+    "matched_ayah_id": null,
+    "score": 54.117647058823536
+  }
+]

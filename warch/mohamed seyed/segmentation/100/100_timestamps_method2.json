@@ -1,0 +1,123 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+    "matched_ayah_id": null,
+    "score": 42.307692307692314
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.8,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+    "matched_ayah_id": null,
+    "score": 63.33333333333333
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.8,
+    "end_seconds": 15.36,
+    "start_time": "00:09",
+    "end_time": "00:15",
+    "segment_text": " والعاديات ضبحاً فالموريات قدحاً",
+    "matched_ayah_text": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+    "matched_ayah_id": null,
+    "score": 55.81395348837209
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 15.36,
+    "end_seconds": 20.96,
+    "start_time": "00:15",
+    "end_time": "00:20",
+    "segment_text": " فالمغيرات صبحاً فأثرن به نقعاً",
+    "matched_ayah_text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+    "matched_ayah_id": null,
+    "score": 61.904761904761905
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 20.96,
+    "end_seconds": 28.68,
+    "start_time": "00:20",
+    "end_time": "00:28",
+    "segment_text": " فوسقن به جمعاً إن الإنسان لربه لك نود",
+    "matched_ayah_text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+    "matched_ayah_id": null,
+    "score": 65.51724137931035
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 28.919999999999998,
+    "end_seconds": 34.36,
+    "start_time": "00:28",
+    "end_time": "00:34",
+    "segment_text": " إن الإنسان لربه لك نود",
+    "matched_ayah_text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+    "matched_ayah_id": null,
+    "score": 86.36363636363636
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 34.36,
+    "end_seconds": 38.96,
+    "start_time": "00:34",
+    "end_time": "00:38",
+    "segment_text": " وإنه على ذلك لشهيد",
+    "matched_ayah_text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 38.96,
+    "end_seconds": 44.44,
+    "start_time": "00:38",
+    "end_time": "00:44",
+    "segment_text": " وإنه لحب الخير لشديد",
+    "matched_ayah_text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+    "matched_ayah_id": null,
+    "score": 92.6829268292683
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 44.44,
+    "end_seconds": 49.120000000000005,
+    "start_time": "00:44",
+    "end_time": "00:49",
+    "segment_text": " أفلا يعلم إذا بُعثِر ما في القبور",
+    "matched_ayah_text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+    "matched_ayah_id": null,
+    "score": 96.7741935483871
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 49.120000000000005,
+    "end_seconds": 51.92,
+    "start_time": "00:49",
+    "end_time": "00:51",
+    "segment_text": " وحُصِّل ما في الصدور",
+    "matched_ayah_text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+    "matched_ayah_id": null,
+    "score": 94.11764705882352
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 51.92,
+    "end_seconds": 58.480000000000004,
+    "start_time": "00:51",
+    "end_time": "00:58",
+    "segment_text": " إن ربهم بهم يومئذ لخبير",
+    "matched_ayah_text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+    "matched_ayah_id": null,
+    "score": 97.87234042553192
+  }
+]

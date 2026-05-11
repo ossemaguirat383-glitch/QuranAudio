@@ -1,0 +1,63 @@
+{
+  "surah": 109,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "start": 0,
+      "end": 6.3,
+      "matched_text": "بسم الله الرحمن الرحيق",
+      "confidence": 0.571,
+      "matched_word_indices": [
+        0,
+        3
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 3,
+      "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 4,
+      "text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 5,
+      "text": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 6,
+      "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -9.25
+}

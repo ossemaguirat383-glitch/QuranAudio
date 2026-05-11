@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 41.509433962264154
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.76,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 52.77777777777778
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.76,
+    "end_seconds": 18.0,
+    "start_time": "00:09",
+    "end_time": "00:18",
+    "segment_text": " إنا أنزلناه في ليلة القدر",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 61.33333333333333
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 18.0,
+    "end_seconds": 24.64,
+    "start_time": "00:18",
+    "end_time": "00:24",
+    "segment_text": " وما أدراك ما ليلة القدر",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 24.96,
+    "end_seconds": 30.080000000000002,
+    "start_time": "00:24",
+    "end_time": "00:30",
+    "segment_text": " ليلة القدر خير من الف شهر",
+    "matched_ayah_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 30.080000000000002,
+    "end_seconds": 36.16,
+    "start_time": "00:30",
+    "end_time": "00:36",
+    "segment_text": " تنزل الملائكة والروح فيها",
+    "matched_ayah_text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "matched_ayah_id": null,
+    "score": 61.9718309859155
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 36.16,
+    "end_seconds": 41.28,
+    "start_time": "00:36",
+    "end_time": "00:41",
+    "segment_text": " بإذن ربهم من كل أمر",
+    "matched_ayah_text": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 41.28,
+    "end_seconds": 46.16,
+    "start_time": "00:41",
+    "end_time": "00:46",
+    "segment_text": " سلام هي حتى مطلع الفجر",
+    "matched_ayah_text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  }
+]

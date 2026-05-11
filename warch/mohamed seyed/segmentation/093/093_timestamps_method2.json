@@ -1,0 +1,123 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 44.44444444444444
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.8,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+    "matched_ayah_id": null,
+    "score": 71.69811320754718
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.8,
+    "end_seconds": 17.080000000000002,
+    "start_time": "00:09",
+    "end_time": "00:17",
+    "segment_text": " واضبحا والليل إذا سجا ما ودعك ربك وما قلا",
+    "matched_ayah_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+    "matched_ayah_id": null,
+    "score": 59.01639344262295
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 17.080000000000002,
+    "end_seconds": 23.080000000000002,
+    "start_time": "00:17",
+    "end_time": "00:23",
+    "segment_text": " وللاخرة خير لك منلولا",
+    "matched_ayah_text": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+    "matched_ayah_id": null,
+    "score": 85.1063829787234
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 23.080000000000002,
+    "end_seconds": 28.080000000000002,
+    "start_time": "00:23",
+    "end_time": "00:28",
+    "segment_text": " ولسوف يعطيك ربك فترضى",
+    "matched_ayah_text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 95.45454545454545
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 28.159999999999997,
+    "end_seconds": 33.32,
+    "start_time": "00:28",
+    "end_time": "00:33",
+    "segment_text": " ألم يجدك يتيما فآوا",
+    "matched_ayah_text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 33.32,
+    "end_seconds": 38.28,
+    "start_time": "00:33",
+    "end_time": "00:38",
+    "segment_text": " ووجدك ضلا فهدا",
+    "matched_ayah_text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+    "matched_ayah_id": null,
+    "score": 83.87096774193549
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 38.28,
+    "end_seconds": 43.48,
+    "start_time": "00:38",
+    "end_time": "00:43",
+    "segment_text": " ووجدك عائلا فأغنى",
+    "matched_ayah_text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+    "matched_ayah_id": null,
+    "score": 94.44444444444444
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 43.48,
+    "end_seconds": 47.92,
+    "start_time": "00:43",
+    "end_time": "00:47",
+    "segment_text": " فأما اليتيم فلا تقهر",
+    "matched_ayah_text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+    "matched_ayah_id": null,
+    "score": 95.0
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 47.92,
+    "end_seconds": 55.0,
+    "start_time": "00:47",
+    "end_time": "00:55",
+    "segment_text": " وأما السائل فلا تنهر",
+    "matched_ayah_text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+    "matched_ayah_id": null,
+    "score": 92.6829268292683
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 55.0,
+    "end_seconds": 60.4,
+    "start_time": "00:55",
+    "end_time": "01:00",
+    "segment_text": " وأما بنعمة ربك فحدث",
+    "matched_ayah_text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  }
+]

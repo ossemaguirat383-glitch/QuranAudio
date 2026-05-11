@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 37.68115942028986
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.8,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.8,
+    "end_seconds": 25.400000000000002,
+    "start_time": "00:09",
+    "end_time": "00:25",
+    "segment_text": " ويل لكل همزة لمزة الذي جمع مالا وعدده يحسب أن ماله أخلده كلا",
+    "matched_ayah_text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+    "matched_ayah_id": null,
+    "score": 44.99999999999999
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 25.599999999999998,
+    "end_seconds": 35.8,
+    "start_time": "00:25",
+    "end_time": "00:35",
+    "segment_text": " لينبذن في الحطمة وما أدراك ما الحطمة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+    "matched_ayah_id": null,
+    "score": 59.64912280701755
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 35.8,
+    "end_seconds": 42.8,
+    "start_time": "00:35",
+    "end_time": "00:42",
+    "segment_text": " نار الله الموقدة التي تطلع على لفئدة",
+    "matched_ayah_text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+    "matched_ayah_id": null,
+    "score": 59.64912280701755
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 42.8,
+    "end_seconds": 51.8,
+    "start_time": "00:42",
+    "end_time": "00:51",
+    "segment_text": " إنها عليهم موصدة في عمد ممددة",
+    "matched_ayah_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "surah": 104,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "start": 0,
+      "end": 13.61,
+      "matched_text": "بسم الله الرحمن الرحيم ويل لكله مزهت اللمزه",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "start": 15.34,
+      "end": 17.62,
+      "matched_text": "الذي جمه",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        8,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "start": 24.21,
+      "end": 29.57,
+      "matched_text": "أن لده",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        10,
+        11
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "start": 37.38,
+      "end": 39.1,
+      "matched_text": "الحطمه",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        12,
+        12
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "start": 39.1,
+      "end": 40.58,
+      "matched_text": "وما",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        13,
+        13
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 7,
+      "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 9,
+      "text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -0.225
+}

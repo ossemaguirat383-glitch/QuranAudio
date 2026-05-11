@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.24,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "matched_ayah_id": null,
+    "score": 49.350649350649356
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.24,
+    "end_seconds": 9.200000000000001,
+    "start_time": "00:03",
+    "end_time": "00:09",
+    "segment_text": " ألم تر كيف فعل ربك بأصحاب الفيل",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "matched_ayah_id": null,
+    "score": 67.44186046511628
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.200000000000001,
+    "end_seconds": 15.48,
+    "start_time": "00:09",
+    "end_time": "00:15",
+    "segment_text": " ألم يجعل كيدهم في تضليل",
+    "matched_ayah_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 15.48,
+    "end_seconds": 20.52,
+    "start_time": "00:15",
+    "end_time": "00:20",
+    "segment_text": " وأرسل عليهم طيراً أبابيل",
+    "matched_ayah_text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 20.52,
+    "end_seconds": 27.560000000000002,
+    "start_time": "00:20",
+    "end_time": "00:27",
+    "segment_text": " ترميهم بحجارة من سجيل",
+    "matched_ayah_text": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 27.56,
+    "end_seconds": 34.36,
+    "start_time": "00:27",
+    "end_time": "00:34",
+    "segment_text": " فجعلهم كعصف مأكول",
+    "matched_ayah_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+    "matched_ayah_id": null,
+    "score": 97.14285714285714
+  }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 11,
+        "start_seconds": 35.16,
+        "end_seconds": 41.88,
+        "start_time": "00:35",
+        "end_time": "00:41",
+        "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+        "score": 0.5
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 41.88,
+        "end_seconds": 48.68,
+        "start_time": "00:41",
+        "end_time": "00:48",
+        "text": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+        "score": 0.49
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 71.04,
+        "end_seconds": 76.72,
+        "start_time": "01:11",
+        "end_time": "01:16",
+        "text": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 76.76,
+        "end_seconds": 81.68,
+        "start_time": "01:16",
+        "end_time": "01:21",
+        "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+        "score": 0.71
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 81.68,
+        "end_seconds": 87.16,
+        "start_time": "01:21",
+        "end_time": "01:27",
+        "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+        "score": 0.76
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 87.16,
+        "end_seconds": 92.64,
+        "start_time": "01:27",
+        "end_time": "01:32",
+        "text": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+        "score": 0.62
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 92.64,
+        "end_seconds": 102.16,
+        "start_time": "01:32",
+        "end_time": "01:42",
+        "text": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+        "score": 0.51
+    },
+    {
+        "ayah": 27,
+        "start_seconds": 102.28,
+        "end_seconds": 110.0,
+        "start_time": "01:42",
+        "end_time": "01:50",
+        "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+        "score": 0.56
+    },
+    {
+        "ayah": 28,
+        "start_seconds": 110.0,
+        "end_seconds": 117.24,
+        "start_time": "01:50",
+        "end_time": "01:57",
+        "text": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+        "score": 0.76
+    },
+    {
+        "ayah": 29,
+        "start_seconds": 117.24,
+        "end_seconds": 127.12,
+        "start_time": "01:57",
+        "end_time": "02:07",
+        "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+        "score": 0.68
+    }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.6,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "matched_ayah_id": null,
+    "score": 52.77777777777778
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 30.0,
+    "end_seconds": 33.0,
+    "start_time": "00:30",
+    "end_time": "00:33",
+    "segment_text": " حتى مطلع الفلو",
+    "matched_ayah_text": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+    "matched_ayah_id": null,
+    "score": 59.45945945945945
+  }
+]

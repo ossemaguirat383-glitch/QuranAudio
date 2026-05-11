@@ -1,0 +1,57 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.0,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 44.89795918367348
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 8.0,
+    "end_seconds": 19.0,
+    "start_time": "00:08",
+    "end_time": "00:19",
+    "segment_text": " إذا زلزلت الأرض زلزالها وأخرجت الأرض أثقالها وقال الإنسان مالها",
+    "matched_ayah_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "matched_ayah_id": null,
+    "score": 45.78313253012048
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 19.0,
+    "end_seconds": 26.0,
+    "start_time": "00:19",
+    "end_time": "00:26",
+    "segment_text": " يومئذ تحدث أخبارها بأن ربك أو حالها",
+    "matched_ayah_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "matched_ayah_id": null,
+    "score": 67.9245283018868
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 26.0,
+    "end_seconds": 32.0,
+    "start_time": "00:26",
+    "end_time": "00:32",
+    "segment_text": " يومئذ يصدر الناس أشتاة ليروا أعمالهم",
+    "matched_ayah_text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "matched_ayah_id": null,
+    "score": 89.1891891891892
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 32.0,
+    "end_seconds": 44.0,
+    "start_time": "00:32",
+    "end_time": "00:44",
+    "segment_text": " فمن يعمل مثقال ذرة خيرا يره ومن يعمل مثقال ذرة شرا يره",
+    "matched_ayah_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+    "matched_ayah_id": null,
+    "score": 65.85365853658536
+  }
+]

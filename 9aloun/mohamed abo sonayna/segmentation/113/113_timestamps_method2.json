@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.5,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.5,
+    "end_seconds": 15.06,
+    "start_time": "00:04",
+    "end_time": "00:15",
+    "segment_text": " قل أعوذ برب الفنق من شر ما خلق ومن شر غاسق إذا وطم",
+    "matched_ayah_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "matched_ayah_id": null,
+    "score": 49.27536231884058
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.06,
+    "end_seconds": 21.32,
+    "start_time": "00:15",
+    "end_time": "00:21",
+    "segment_text": " ومن شر النفافات في العقد",
+    "matched_ayah_text": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+    "matched_ayah_id": null,
+    "score": 79.16666666666666
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 21.32,
+    "end_seconds": 33.66,
+    "start_time": "00:21",
+    "end_time": "00:33",
+    "segment_text": " ومن شر النفافات في العقد ومن شر حاسب إذا حسد",
+    "matched_ayah_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "matched_ayah_id": null,
+    "score": 57.14285714285714
+  }
+]

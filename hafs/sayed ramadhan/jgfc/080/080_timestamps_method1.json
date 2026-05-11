@@ -1,0 +1,335 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 7.0,
+        "end_seconds": 13.68,
+        "start_time": "00:07",
+        "end_time": "00:13",
+        "text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+        "score": 0.54
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 13.68,
+        "end_seconds": 23.48,
+        "start_time": "00:13",
+        "end_time": "00:23",
+        "text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+        "score": 0.48
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 23.48,
+        "end_seconds": 30.08,
+        "start_time": "00:23",
+        "end_time": "00:30",
+        "text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+        "score": 0.49
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 30.08,
+        "end_seconds": 34.32,
+        "start_time": "00:30",
+        "end_time": "00:34",
+        "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+        "score": 0.67
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 34.32,
+        "end_seconds": 42.12,
+        "start_time": "00:34",
+        "end_time": "00:42",
+        "text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+        "score": 0.61
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 42.12,
+        "end_seconds": 45.72,
+        "start_time": "00:42",
+        "end_time": "00:45",
+        "text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+        "score": 0.7
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 45.72,
+        "end_seconds": 49.68,
+        "start_time": "00:45",
+        "end_time": "00:49",
+        "text": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+        "score": 0.63
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 49.72,
+        "end_seconds": 53.84,
+        "start_time": "00:49",
+        "end_time": "00:53",
+        "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+        "score": 0.71
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 53.84,
+        "end_seconds": 57.44,
+        "start_time": "00:53",
+        "end_time": "00:57",
+        "text": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+        "score": 0.63
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 57.44,
+        "end_seconds": 61.08,
+        "start_time": "00:57",
+        "end_time": "01:01",
+        "text": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+        "score": 0.63
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 61.08,
+        "end_seconds": 63.36,
+        "start_time": "01:01",
+        "end_time": "01:03",
+        "text": "بِأَيْدِى سَفَرَةٍ",
+        "score": 0.64
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 63.36,
+        "end_seconds": 66.24,
+        "start_time": "01:03",
+        "end_time": "01:06",
+        "text": "كِرَامٍۭ بَرَرَةٍ",
+        "score": 0.62
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 66.24,
+        "end_seconds": 70.6,
+        "start_time": "01:06",
+        "end_time": "01:10",
+        "text": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+        "score": 0.61
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 70.6,
+        "end_seconds": 73.8,
+        "start_time": "01:10",
+        "end_time": "01:13",
+        "text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+        "score": 0.59
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 73.8,
+        "end_seconds": 78.52,
+        "start_time": "01:13",
+        "end_time": "01:18",
+        "text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+        "score": 0.67
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 78.56,
+        "end_seconds": 81.96,
+        "start_time": "01:18",
+        "end_time": "01:21",
+        "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+        "score": 0.63
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 81.96,
+        "end_seconds": 86.04,
+        "start_time": "01:21",
+        "end_time": "01:26",
+        "text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+        "score": 0.62
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 86.04,
+        "end_seconds": 91.56,
+        "start_time": "01:26",
+        "end_time": "01:31",
+        "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+        "score": 0.71
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 91.56,
+        "end_seconds": 96.08,
+        "start_time": "01:31",
+        "end_time": "01:36",
+        "text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+        "score": 0.7
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 96.08,
+        "end_seconds": 101.48,
+        "start_time": "01:36",
+        "end_time": "01:41",
+        "text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+        "score": 0.66
+    },
+    {
+        "ayah": 25,
+        "start_seconds": 101.48,
+        "end_seconds": 106.44,
+        "start_time": "01:41",
+        "end_time": "01:46",
+        "text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+        "score": 0.59
+    },
+    {
+        "ayah": 26,
+        "start_seconds": 106.44,
+        "end_seconds": 110.6,
+        "start_time": "01:46",
+        "end_time": "01:50",
+        "text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+        "score": 0.68
+    },
+    {
+        "ayah": 27,
+        "start_seconds": 110.6,
+        "end_seconds": 114.88,
+        "start_time": "01:50",
+        "end_time": "01:54",
+        "text": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+        "score": 0.74
+    },
+    {
+        "ayah": 28,
+        "start_seconds": 114.88,
+        "end_seconds": 117.88,
+        "start_time": "01:54",
+        "end_time": "01:57",
+        "text": "وَعِنَبًا وَقَضْبًا",
+        "score": 0.69
+    },
+    {
+        "ayah": 29,
+        "start_seconds": 117.88,
+        "end_seconds": 121.28,
+        "start_time": "01:57",
+        "end_time": "02:01",
+        "text": "وَزَيْتُونًا وَنَخْلًا",
+        "score": 0.71
+    },
+    {
+        "ayah": 30,
+        "start_seconds": 121.28,
+        "end_seconds": 124.84,
+        "start_time": "02:01",
+        "end_time": "02:04",
+        "text": "وَحَدَآئِقَ غُلْبًا",
+        "score": 0.65
+    },
+    {
+        "ayah": 31,
+        "start_seconds": 124.84,
+        "end_seconds": 128.44,
+        "start_time": "02:04",
+        "end_time": "02:08",
+        "text": "وَفَـٰكِهَةً وَأَبًّا",
+        "score": 0.62
+    },
+    {
+        "ayah": 32,
+        "start_seconds": 128.44,
+        "end_seconds": 132.6,
+        "start_time": "02:08",
+        "end_time": "02:12",
+        "text": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+        "score": 0.61
+    },
+    {
+        "ayah": 33,
+        "start_seconds": 132.64,
+        "end_seconds": 139.72,
+        "start_time": "02:12",
+        "end_time": "02:19",
+        "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+        "score": 0.67
+    },
+    {
+        "ayah": 34,
+        "start_seconds": 139.72,
+        "end_seconds": 144.32,
+        "start_time": "02:19",
+        "end_time": "02:24",
+        "text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+        "score": 0.66
+    },
+    {
+        "ayah": 35,
+        "start_seconds": 144.32,
+        "end_seconds": 148.24,
+        "start_time": "02:24",
+        "end_time": "02:28",
+        "text": "وَأُمِّهِۦ وَأَبِيهِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 36,
+        "start_seconds": 148.24,
+        "end_seconds": 152.24,
+        "start_time": "02:28",
+        "end_time": "02:32",
+        "text": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+        "score": 0.63
+    },
+    {
+        "ayah": 38,
+        "start_seconds": 160.6,
+        "end_seconds": 165.4,
+        "start_time": "02:40",
+        "end_time": "02:45",
+        "text": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 39,
+        "start_seconds": 165.4,
+        "end_seconds": 169.32,
+        "start_time": "02:45",
+        "end_time": "02:49",
+        "text": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 40,
+        "start_seconds": 169.32,
+        "end_seconds": 174.64,
+        "start_time": "02:49",
+        "end_time": "02:54",
+        "text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 41,
+        "start_seconds": 174.64,
+        "end_seconds": 177.24,
+        "start_time": "02:54",
+        "end_time": "02:57",
+        "text": "تَرْهَقُهَا قَتَرَةٌ",
+        "score": 0.71
+    },
+    {
+        "ayah": 42,
+        "start_seconds": 177.24,
+        "end_seconds": 182.64,
+        "start_time": "02:57",
+        "end_time": "03:02",
+        "text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+        "score": 0.62
+    }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 2.6,
+    "start_time": "00:00",
+    "end_time": "00:02",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "matched_ayah_id": null,
+    "score": 49.350649350649356
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 2.6,
+    "end_seconds": 7.7,
+    "start_time": "00:02",
+    "end_time": "00:07",
+    "segment_text": " ألم تر كيف فعل ربك بأصحابه فيل",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "matched_ayah_id": null,
+    "score": 65.88235294117646
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 7.7,
+    "end_seconds": 12.0,
+    "start_time": "00:07",
+    "end_time": "00:12",
+    "segment_text": " ألم يجعل كيدهم في تطليل",
+    "matched_ayah_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+    "matched_ayah_id": null,
+    "score": 95.65217391304348
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 12.0,
+    "end_seconds": 16.5,
+    "start_time": "00:12",
+    "end_time": "00:16",
+    "segment_text": " وأرسل عليهم طهرا أبابيل",
+    "matched_ayah_text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "matched_ayah_id": null,
+    "score": 95.65217391304348
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 16.5,
+    "end_seconds": 23.1,
+    "start_time": "00:16",
+    "end_time": "00:23",
+    "segment_text": " ترميهم بحجارة من سجيل",
+    "matched_ayah_text": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 23.1,
+    "end_seconds": 28.0,
+    "start_time": "00:23",
+    "end_time": "00:28",
+    "segment_text": " فجعلهم كعصف مأكون",
+    "matched_ayah_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+    "matched_ayah_id": null,
+    "score": 91.42857142857143
+  }
+]

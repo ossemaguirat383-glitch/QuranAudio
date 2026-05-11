@@ -1,0 +1,29 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 14.6,
+        "end_seconds": 18.4,
+        "start_time": "00:14",
+        "end_time": "00:18",
+        "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+        "score": 0.65
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 25.6,
+        "end_seconds": 32.0,
+        "start_time": "00:25",
+        "end_time": "00:32",
+        "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+        "score": 0.45
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 32.0,
+        "end_seconds": 39.4,
+        "start_time": "00:32",
+        "end_time": "00:39",
+        "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+        "score": 0.55
+    }
+]

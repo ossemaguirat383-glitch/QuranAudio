@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 8,
+        "start_seconds": 30.5,
+        "end_seconds": 34.8,
+        "start_time": "00:30",
+        "end_time": "00:34",
+        "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+        "score": 0.7
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 34.8,
+        "end_seconds": 38.8,
+        "start_time": "00:34",
+        "end_time": "00:38",
+        "text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+        "score": 0.61
+    }
+]

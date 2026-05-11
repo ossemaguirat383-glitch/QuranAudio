@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.76,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " 1- بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.76,
+    "end_seconds": 15.52,
+    "start_time": "00:07",
+    "end_time": "00:15",
+    "segment_text": " 2- إنا أعطيناك الكوثر",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "matched_ayah_id": null,
+    "score": 53.125
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.52,
+    "end_seconds": 19.68,
+    "start_time": "00:15",
+    "end_time": "00:19",
+    "segment_text": " 3- فصل لربك وانحر",
+    "matched_ayah_text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "matched_ayah_id": null,
+    "score": 83.87096774193549
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 19.68,
+    "end_seconds": 24.96,
+    "start_time": "00:19",
+    "end_time": "00:24",
+    "segment_text": " 4- إن شانئك هو لبتر",
+    "matched_ayah_text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "matched_ayah_id": null,
+    "score": 86.48648648648648
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.84,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+    "matched_ayah_id": null,
+    "score": 57.57575757575757
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.84,
+    "end_seconds": 15.96,
+    "start_time": "00:07",
+    "end_time": "00:15",
+    "segment_text": " تبت يذا أبي لهب وتب",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+    "matched_ayah_id": null,
+    "score": 57.14285714285714
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 15.96,
+    "end_seconds": 24.36,
+    "start_time": "00:15",
+    "end_time": "00:24",
+    "segment_text": " ما أغنى عنه ماله وما كسب",
+    "matched_ayah_text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "matched_ayah_id": null,
+    "score": 94.11764705882352
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.36,
+    "end_seconds": 29.96,
+    "start_time": "00:24",
+    "end_time": "00:29",
+    "segment_text": " سيصرى نارا ذات لهب",
+    "matched_ayah_text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+    "matched_ayah_id": null,
+    "score": 91.89189189189189
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 29.96,
+    "end_seconds": 35.96,
+    "start_time": "00:29",
+    "end_time": "00:35",
+    "segment_text": " وامرأته حمالة الحطب",
+    "matched_ayah_text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "matched_ayah_id": null,
+    "score": 87.17948717948718
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 35.96,
+    "end_seconds": 43.160000000000004,
+    "start_time": "00:35",
+    "end_time": "00:43",
+    "segment_text": " في جيدها حبل من مسد",
+    "matched_ayah_text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+    "matched_ayah_id": null,
+    "score": 97.43589743589743
+  }
+]

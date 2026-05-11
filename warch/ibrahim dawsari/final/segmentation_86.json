@@ -1,0 +1,210 @@
+{
+  "surah": 86,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "start": 1.65,
+      "end": 12.37,
+      "matched_text": "بسم الله الرحمن الرحيم والسماء والطارقة",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "start": 12.93,
+      "end": 19.11,
+      "matched_text": "وما أدرى كم الطارقة",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        6,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "start": 20.33,
+      "end": 23.05,
+      "matched_text": "نجم الثاقب",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        12
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "start": 23.05,
+      "end": 29.81,
+      "matched_text": "إن كل نفس لما عليها حافظ",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        18
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+      "start": 31.53,
+      "end": 36.53,
+      "matched_text": "فلينظر الإنسان مما",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        20,
+        22
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+      "start": 36.53,
+      "end": 45.46,
+      "matched_text": "خلقا مما دافقا",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        23,
+        25
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "start": 46.04,
+      "end": 53.66,
+      "matched_text": "يخرج من بين الصلب والترائب",
+      "confidence": 1,
+      "matched_word_indices": [
+        27,
+        31
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "start": 53.66,
+      "end": 59.8,
+      "matched_text": "إنه على رجعه لقادر",
+      "confidence": 1,
+      "matched_word_indices": [
+        32,
+        35
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "start": 59.8,
+      "end": 65.78,
+      "matched_text": "يوم تبل السرائر",
+      "confidence": 1,
+      "matched_word_indices": [
+        36,
+        38
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "start": 65.78,
+      "end": 73,
+      "matched_text": "فما لن من قوة ولا ناصر",
+      "confidence": 1,
+      "matched_word_indices": [
+        39,
+        44
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "start": 76.7,
+      "end": 79.2,
+      "matched_text": "والسمائذات الرجعة",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        45,
+        46
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "start": 79.2,
+      "end": 82.84,
+      "matched_text": "والرض ذات الصدع",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+      "start": 82.84,
+      "end": 88.68,
+      "matched_text": "إنه لقول فصل",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        52
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "start": 88.68,
+      "end": 92.42,
+      "matched_text": "وما هو بالهزل",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        55
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "start": 92.42,
+      "end": 98.74,
+      "matched_text": "إنهم يكيدون كيدا",
+      "confidence": 1,
+      "matched_word_indices": [
+        56,
+        58
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "وَأَكِيدُ كَيْدًا",
+      "start": 98.74,
+      "end": 102.12,
+      "matched_text": "وأكيد كيدا",
+      "confidence": 1,
+      "matched_word_indices": [
+        59,
+        60
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "start": 102.12,
+      "end": 108.42,
+      "matched_text": "فمهل الكافرين أمهلهم رويدا",
+      "confidence": 1,
+      "matched_word_indices": [
+        61,
+        64
+      ]
+    }
+  ],
+  "alignment_score": 51.396
+}

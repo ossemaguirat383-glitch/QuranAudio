@@ -1,0 +1,112 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.96,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 60.31746031746032
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.96,
+    "end_seconds": 9.44,
+    "start_time": "00:04",
+    "end_time": "00:09",
+    "segment_text": " ويل لكل همزة لمزة",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+    "matched_ayah_id": null,
+    "score": 58.62068965517242
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.44,
+    "end_seconds": 14.92,
+    "start_time": "00:09",
+    "end_time": "00:14",
+    "segment_text": " الذي جمع مالا وعدده",
+    "matched_ayah_text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 14.92,
+    "end_seconds": 20.92,
+    "start_time": "00:14",
+    "end_time": "00:20",
+    "segment_text": " يحسب أن ماله أخلده",
+    "matched_ayah_text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+    "matched_ayah_id": null,
+    "score": 92.3076923076923
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 20.92,
+    "end_seconds": 26.92,
+    "start_time": "00:20",
+    "end_time": "00:26",
+    "segment_text": " كلا لينبذن في الحطمة",
+    "matched_ayah_text": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+    "matched_ayah_id": null,
+    "score": 88.37209302325581
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 26.92,
+    "end_seconds": 31.96,
+    "start_time": "00:26",
+    "end_time": "00:31",
+    "segment_text": " وما أدراك مالحطمة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+    "matched_ayah_id": null,
+    "score": 84.21052631578947
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 31.96,
+    "end_seconds": 35.64,
+    "start_time": "00:31",
+    "end_time": "00:35",
+    "segment_text": " نار الله الموقدة",
+    "matched_ayah_text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+    "matched_ayah_id": null,
+    "score": 87.5
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 35.64,
+    "end_seconds": 40.52,
+    "start_time": "00:35",
+    "end_time": "00:40",
+    "segment_text": " التي تطلع على الأفئدة",
+    "matched_ayah_text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+    "matched_ayah_id": null,
+    "score": 85.71428571428572
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 40.52,
+    "end_seconds": 45.72,
+    "start_time": "00:40",
+    "end_time": "00:45",
+    "segment_text": " إنها عليهم مؤصدة",
+    "matched_ayah_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+    "matched_ayah_id": null,
+    "score": 100.0
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 45.72,
+    "end_seconds": 50.120000000000005,
+    "start_time": "00:45",
+    "end_time": "00:50",
+    "segment_text": " في عمد ممددة",
+    "matched_ayah_text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+    "matched_ayah_id": null,
+    "score": 96.0
+  }
+]

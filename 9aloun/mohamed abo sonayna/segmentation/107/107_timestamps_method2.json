@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.4,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.08,
+    "end_seconds": 18.8,
+    "start_time": "00:05",
+    "end_time": "00:18",
+    "segment_text": " أرعيت الذي يكذب بالدين فذلك الذي يدعو اليتيم ولا يحض على طعام المسكين",
+    "matched_ayah_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "matched_ayah_id": null,
+    "score": 48.93617021276596
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 18.8,
+    "end_seconds": 37.92,
+    "start_time": "00:18",
+    "end_time": "00:37",
+    "segment_text": " فويل للمصليين الذين هم عن صلاتهم ساهون الذين هم يراون ويمنعون الماعون",
+    "matched_ayah_text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "matched_ayah_id": null,
+    "score": 49.46236559139785
+  }
+]

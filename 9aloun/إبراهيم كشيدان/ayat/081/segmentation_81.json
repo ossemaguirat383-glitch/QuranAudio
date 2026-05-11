@@ -1,0 +1,354 @@
+{
+  "surah": 81,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "start": 0.02,
+      "end": 6.72,
+      "matched_text": "بسم الله الرحمن الرحيب إذا الشمس كورت",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        6
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "start": 6.72,
+      "end": 10.88,
+      "matched_text": "وإذا النجوم كدرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "start": 10.88,
+      "end": 14.12,
+      "matched_text": "وإذا الجبال سنرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        12
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "start": 14.12,
+      "end": 17.6,
+      "matched_text": "وإذا العشار عطلت",
+      "confidence": 1,
+      "matched_word_indices": [
+        13,
+        15
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "start": 17.6,
+      "end": 20.76,
+      "matched_text": "وإذا الوحوش حشرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        18
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "start": 20.76,
+      "end": 23.78,
+      "matched_text": "وإذا البحار سجرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        19,
+        21
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "start": 23.78,
+      "end": 28,
+      "matched_text": "وإذا النفوس زوجت",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "start": 28,
+      "end": 31.68,
+      "matched_text": "وإذا المؤودة سؤلت",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        25,
+        27
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "start": 31.68,
+      "end": 36.38,
+      "matched_text": "بأي ذنب قتلت",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        30
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "start": 36.38,
+      "end": 39.36,
+      "matched_text": "وإذا الصحف نشرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        31,
+        33
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "start": 39.36,
+      "end": 43.34,
+      "matched_text": "وإذا السماء كشطت",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        36
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "start": 43.34,
+      "end": 46.62,
+      "matched_text": "وإذا الجحيم سعرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        37,
+        39
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "start": 46.62,
+      "end": 50.66,
+      "matched_text": "وإذا الجنة أزلفت",
+      "confidence": 1,
+      "matched_word_indices": [
+        40,
+        42
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+      "start": 50.66,
+      "end": 55.3,
+      "matched_text": "علمت لفس ما أحضرت",
+      "confidence": 1,
+      "matched_word_indices": [
+        43,
+        46
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "start": 55.3,
+      "end": 59.6,
+      "matched_text": "فلا أقسم بالخنص",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "start": 59.6,
+      "end": 63.22,
+      "matched_text": "الجوار الكنص",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        51
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "start": 63.22,
+      "end": 66.4,
+      "matched_text": "والليل إذا عسعس",
+      "confidence": 1,
+      "matched_word_indices": [
+        52,
+        54
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "start": 66.4,
+      "end": 69.44,
+      "matched_text": "والصبح إذا تنفس",
+      "confidence": 1,
+      "matched_word_indices": [
+        55,
+        57
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "start": 69.44,
+      "end": 75.54,
+      "matched_text": "إنه لقول رسول كريم",
+      "confidence": 1,
+      "matched_word_indices": [
+        58,
+        61
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+      "start": 75.54,
+      "end": 80.54,
+      "matched_text": "في قموة عند ذي العرش مكين",
+      "confidence": 1,
+      "matched_word_indices": [
+        62,
+        67
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "start": 80.54,
+      "end": 85.04,
+      "matched_text": "مطاع فم أمين",
+      "confidence": 1,
+      "matched_word_indices": [
+        68,
+        70
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "start": 85.04,
+      "end": 89.86,
+      "matched_text": "وما صاحبكم بمجنون",
+      "confidence": 1,
+      "matched_word_indices": [
+        71,
+        73
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "start": 89.86,
+      "end": 94.36,
+      "matched_text": "ولقد رأىه بالأفق المبين",
+      "confidence": 1,
+      "matched_word_indices": [
+        74,
+        77
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+      "start": 94.36,
+      "end": 98.64,
+      "matched_text": "وما هو على الغيب بضنين",
+      "confidence": 1,
+      "matched_word_indices": [
+        78,
+        82
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+      "start": 98.64,
+      "end": 103.64,
+      "matched_text": "وما هو بقول شيطان الرجيم",
+      "confidence": 1,
+      "matched_word_indices": [
+        83,
+        87
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "فَأَيْنَ تَذْهَبُونَ",
+      "start": 103.64,
+      "end": 106.68,
+      "matched_text": "فأين تلهبون",
+      "confidence": 1,
+      "matched_word_indices": [
+        88,
+        89
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "start": 106.68,
+      "end": 111.74,
+      "matched_text": "إن هو إلا ذكر للعالمين",
+      "confidence": 1,
+      "matched_word_indices": [
+        90,
+        94
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "start": 111.74,
+      "end": 119.31,
+      "matched_text": "لمن شاءكم أن يستقيم",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        95,
+        98
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "start": 119.31,
+      "end": 129.47,
+      "matched_text": "وما تشاءون إلا أن يشاء ألمين",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        99,
+        104
+      ]
+    }
+  ],
+  "alignment_score": 94.666
+}

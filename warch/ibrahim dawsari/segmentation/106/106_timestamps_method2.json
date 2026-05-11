@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.5200000000000005,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.5200000000000005,
+    "end_seconds": 13.76,
+    "start_time": "00:07",
+    "end_time": "00:13",
+    "segment_text": " لإيلاف قريش",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+    "matched_ayah_id": null,
+    "score": 43.47826086956522
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 13.76,
+    "end_seconds": 24.48,
+    "start_time": "00:13",
+    "end_time": "00:24",
+    "segment_text": " إيلافهم رحلة الشتاء والصيف",
+    "matched_ayah_text": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+    "matched_ayah_id": null,
+    "score": 83.01886792452831
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.8,
+    "end_seconds": 31.6,
+    "start_time": "00:24",
+    "end_time": "00:31",
+    "segment_text": " فليعبدوا رب هذا البيت",
+    "matched_ayah_text": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 31.6,
+    "end_seconds": 41.28,
+    "start_time": "00:31",
+    "end_time": "00:41",
+    "segment_text": " الذي أطعمهم من جوع",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 64.15094339622642
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 41.28,
+    "end_seconds": 49.120000000000005,
+    "start_time": "00:41",
+    "end_time": "00:49",
+    "segment_text": " وآمنهم من خوف",
+    "matched_ayah_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "matched_ayah_id": null,
+    "score": 54.16666666666667
+  }
+]

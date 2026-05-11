@@ -1,0 +1,273 @@
+{
+  "surah": 84,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "start": 0,
+      "end": 15.38,
+      "matched_text": "بسم الله الرحمن الرحيم إذا السمان شقت",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        6
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "start": 17.58,
+      "end": 22.7,
+      "matched_text": "وأذينت لربها وحقت",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        9
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "start": 22.7,
+      "end": 27.5,
+      "matched_text": "وإذا الأرض مدت",
+      "confidence": 1,
+      "matched_word_indices": [
+        10,
+        12
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "start": 29.22,
+      "end": 31.26,
+      "matched_text": "وألقت ما",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        13,
+        14
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "start": 36.19,
+      "end": 41.55,
+      "matched_text": "وأذينت لربها وحق",
+      "confidence": 1,
+      "matched_word_indices": [
+        16,
+        18
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+      "start": 52.88,
+      "end": 54.64,
+      "matched_text": "إلهك",
+      "confidence": 0.125,
+      "matched_word_indices": [
+        20,
+        20
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 8,
+      "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "start": 72.79,
+      "end": 79.87,
+      "matched_text": "فسوف يحاسب حساب يسير",
+      "confidence": 1,
+      "matched_word_indices": [
+        21,
+        24
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "start": 103.47,
+      "end": 105.03,
+      "matched_text": "فسوف",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        26,
+        26
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "وَيَصْلَىٰ سَعِيرًا",
+      "start": 109.67,
+      "end": 111.69,
+      "matched_text": "يصلس",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        27,
+        27
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "start": 121.99,
+      "end": 123.63,
+      "matched_text": "عسروب",
+      "confidence": 0.2,
+      "matched_word_indices": [
+        28,
+        28
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 16,
+      "text": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "start": 149.65,
+      "end": 150.93,
+      "matched_text": "الشفق",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        29,
+        29
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 18,
+      "text": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "start": 158.5,
+      "end": 161.92,
+      "matched_text": "والقمال إذا تسق",
+      "confidence": 1,
+      "matched_word_indices": [
+        31,
+        33
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "start": 162.9,
+      "end": 166.59,
+      "matched_text": "لتركى طبق",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        34,
+        35
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 21,
+      "text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 22,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 23,
+      "text": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 24,
+      "text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "start": 206.33,
+      "end": 207.21,
+      "matched_text": "فبش",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        36,
+        36
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -10.286
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 17.4,
+        "end_seconds": 21.2,
+        "start_time": "00:17",
+        "end_time": "00:21",
+        "text": "وَوَالِدٍ وَمَا وَلَدَ",
+        "score": 0.74
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 21.2,
+        "end_seconds": 26.2,
+        "start_time": "00:21",
+        "end_time": "00:26",
+        "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+        "score": 0.66
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 26.2,
+        "end_seconds": 31.4,
+        "start_time": "00:26",
+        "end_time": "00:31",
+        "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+        "score": 0.72
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 31.4,
+        "end_seconds": 35.4,
+        "start_time": "00:31",
+        "end_time": "00:35",
+        "text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+        "score": 0.74
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 35.4,
+        "end_seconds": 42.4,
+        "start_time": "00:35",
+        "end_time": "00:42",
+        "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+        "score": 0.69
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 42.4,
+        "end_seconds": 50.2,
+        "start_time": "00:42",
+        "end_time": "00:50",
+        "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+        "score": 0.54
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 63.4,
+        "end_seconds": 70.4,
+        "start_time": "01:03",
+        "end_time": "01:10",
+        "text": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+        "score": 0.48
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 70.4,
+        "end_seconds": 74.4,
+        "start_time": "01:10",
+        "end_time": "01:14",
+        "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+        "score": 0.76
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 74.4,
+        "end_seconds": 79.0,
+        "start_time": "01:14",
+        "end_time": "01:19",
+        "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+        "score": 0.75
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 79.2,
+        "end_seconds": 85.4,
+        "start_time": "01:19",
+        "end_time": "01:25",
+        "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+        "score": 0.51
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 88.4,
+        "end_seconds": 95.4,
+        "start_time": "01:28",
+        "end_time": "01:35",
+        "text": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+        "score": 0.6
+    },
+    {
+        "ayah": 20,
+        "start_seconds": 104.4,
+        "end_seconds": 108.4,
+        "start_time": "01:44",
+        "end_time": "01:48",
+        "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+        "score": 0.64
+    }
+]

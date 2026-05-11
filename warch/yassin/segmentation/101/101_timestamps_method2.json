@@ -1,0 +1,90 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.36,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 71.69811320754718
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.36,
+    "end_seconds": 8.2,
+    "start_time": "00:04",
+    "end_time": "00:08",
+    "segment_text": " القارعة ما القارعة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 65.0
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.2,
+    "end_seconds": 15.24,
+    "start_time": "00:08",
+    "end_time": "00:15",
+    "segment_text": " وما أدرك ما القارعة",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "matched_ayah_id": null,
+    "score": 87.8048780487805
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 15.24,
+    "end_seconds": 21.36,
+    "start_time": "00:15",
+    "end_time": "00:21",
+    "segment_text": " يوم يكون الناس كالفراش المبثوث",
+    "matched_ayah_text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "matched_ayah_id": null,
+    "score": 90.0
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 21.36,
+    "end_seconds": 27.16,
+    "start_time": "00:21",
+    "end_time": "00:27",
+    "segment_text": " وتكون الجبال كالعهن المنفوش",
+    "matched_ayah_text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 27.16,
+    "end_seconds": 36.76,
+    "start_time": "00:27",
+    "end_time": "00:36",
+    "segment_text": " فأما من فقلت موازينه فهو في عيشة راضية",
+    "matched_ayah_text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+    "matched_ayah_id": null,
+    "score": 61.81818181818181
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 36.76,
+    "end_seconds": 44.32,
+    "start_time": "00:36",
+    "end_time": "00:44",
+    "segment_text": " وأما من خفت موازينه فأمه هاوية",
+    "matched_ayah_text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "matched_ayah_id": null,
+    "score": 72.0
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 44.32,
+    "end_seconds": 52.84,
+    "start_time": "00:44",
+    "end_time": "00:52",
+    "segment_text": " وما أدرك ما هي نار حامية",
+    "matched_ayah_text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+    "matched_ayah_id": null,
+    "score": 71.42857142857143
+  }
+]

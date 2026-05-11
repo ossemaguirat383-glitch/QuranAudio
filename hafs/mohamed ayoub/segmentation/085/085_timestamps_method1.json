@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 21,
+        "start_seconds": 121.0,
+        "end_seconds": 125.8,
+        "start_time": "02:01",
+        "end_time": "02:05",
+        "text": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+        "score": 0.65
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 125.8,
+        "end_seconds": 130.8,
+        "start_time": "02:05",
+        "end_time": "02:10",
+        "text": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+        "score": 0.65
+    }
+]

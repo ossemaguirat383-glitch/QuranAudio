@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.84,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "matched_ayah_id": null,
+    "score": 55.072463768115945
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.84,
+    "end_seconds": 16.96,
+    "start_time": "00:03",
+    "end_time": "00:16",
+    "segment_text": " إذا زلزلت الأرض زلزانها وأخرجت الأرض أثقانها وقال الإنسان مالا يومئذ",
+    "matched_ayah_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "matched_ayah_id": null,
+    "score": 40.90909090909091
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 16.96,
+    "end_seconds": 27.52,
+    "start_time": "00:16",
+    "end_time": "00:27",
+    "segment_text": " يومئذ تحدث أخبارها بأن ربك أوحانها",
+    "matched_ayah_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "matched_ayah_id": null,
+    "score": 69.23076923076923
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 27.52,
+    "end_seconds": 52.480000000000004,
+    "start_time": "00:27",
+    "end_time": "00:52",
+    "segment_text": " يومئذ يصدر الناس أشتاكا ليروا أعمالهم فمن يعمل مثقى لذرة خيرا يره ومن يعمل مثقى لذرة شر يره",
+    "matched_ayah_text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "matched_ayah_id": null,
+    "score": 52.71317829457365
+  }
+]

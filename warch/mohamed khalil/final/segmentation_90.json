@@ -1,0 +1,225 @@
+{
+  "surah": 90,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "start": 0.2,
+      "end": 14.29,
+      "matched_text": "بسم الله الرحمن الرحي لا قسم بهذا البلد",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        8
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "start": 14.29,
+      "end": 19.03,
+      "matched_text": "وأن تحلد",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        9,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَوَالِدٍ وَمَا وَلَدَ",
+      "start": 22.29,
+      "end": 25.73,
+      "matched_text": "ووالقد",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        11,
+        11
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "start": 30.85,
+      "end": 37,
+      "matched_text": "خلق نسان فيك بد",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        12,
+        15
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "start": 39.56,
+      "end": 44,
+      "matched_text": "يحسب أن لا يقدر",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        18,
+        21
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "start": 48.16,
+      "end": 49.42,
+      "matched_text": "يقول",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        22,
+        22
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "start": 56.07,
+      "end": 58.71,
+      "matched_text": "حسب أن لم",
+      "confidence": 0.6,
+      "matched_word_indices": [
+        25,
+        27
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "start": 65.36,
+      "end": 66.14,
+      "matched_text": "ألم",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        28,
+        28
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَلِسَانًا وَشَفَتَيْنِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 10,
+      "text": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 11,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 12,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "start": 115.25,
+      "end": 117.37,
+      "matched_text": "فقربه",
+      "confidence": 0.5,
+      "matched_word_indices": [
+        30,
+        30
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 15,
+      "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "start": 118.78,
+      "end": 119.66,
+      "matched_text": "يتي",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        31,
+        31
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "start": 125.77,
+      "end": 126.93,
+      "matched_text": "مسك",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        32,
+        32
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "start": 141.92,
+      "end": 142.94,
+      "matched_text": "الصب",
+      "confidence": 0.111,
+      "matched_word_indices": [
+        34,
+        34
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    },
+    {
+      "ayah": 19,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "start": 159.29,
+      "end": 162.39,
+      "matched_text": "والذين كفر",
+      "confidence": 0.333,
+      "matched_word_indices": [
+        35,
+        36
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "start": null,
+      "end": null,
+      "matched_text": "",
+      "confidence": 0,
+      "matched_word_indices": []
+    }
+  ],
+  "alignment_score": -7.4
+}

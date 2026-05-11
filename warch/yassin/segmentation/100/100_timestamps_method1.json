@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 6,
+        "start_seconds": 20.4,
+        "end_seconds": 26.4,
+        "start_time": "00:20",
+        "end_time": "00:26",
+        "text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+        "score": 0.62
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 26.48,
+        "end_seconds": 31.68,
+        "start_time": "00:26",
+        "end_time": "00:31",
+        "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 31.68,
+        "end_seconds": 37.12,
+        "start_time": "00:31",
+        "end_time": "00:37",
+        "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+        "score": 0.66
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 37.12,
+        "end_seconds": 42.32,
+        "start_time": "00:37",
+        "end_time": "00:42",
+        "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+        "score": 0.72
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 42.32,
+        "end_seconds": 45.68,
+        "start_time": "00:42",
+        "end_time": "00:45",
+        "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+        "score": 0.67
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 45.68,
+        "end_seconds": 52.48,
+        "start_time": "00:45",
+        "end_time": "00:52",
+        "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+        "score": 0.69
+    }
+]

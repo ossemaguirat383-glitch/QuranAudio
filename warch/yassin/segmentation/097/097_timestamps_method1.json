@@ -1,0 +1,20 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 13.0,
+        "end_seconds": 21.0,
+        "start_time": "00:13",
+        "end_time": "00:21",
+        "text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+        "score": 0.68
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 21.0,
+        "end_seconds": 26.0,
+        "start_time": "00:21",
+        "end_time": "00:26",
+        "text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+        "score": 0.66
+    }
+]

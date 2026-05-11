@@ -1,0 +1,258 @@
+{
+  "surah": 92,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "start": 5.29,
+      "end": 12.63,
+      "matched_text": "بسم الله الرحمن الرحيم والليل إذا يغشى",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        11
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "start": 12.63,
+      "end": 15.47,
+      "matched_text": "والنهار إذا تجل",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        14
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "start": 15.47,
+      "end": 20.91,
+      "matched_text": "وما خلق ذكر ولنثى",
+      "confidence": 1,
+      "matched_word_indices": [
+        15,
+        18
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "start": 20.91,
+      "end": 24.33,
+      "matched_text": "إن سعيكم لشتئ",
+      "confidence": 1,
+      "matched_word_indices": [
+        19,
+        21
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "start": 24.73,
+      "end": 28.87,
+      "matched_text": "فأما منعطى واتقى",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        23,
+        25
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "start": 28.87,
+      "end": 31.27,
+      "matched_text": "وصدق بالحسنى",
+      "confidence": 1,
+      "matched_word_indices": [
+        26,
+        27
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "start": 31.79,
+      "end": 35.19,
+      "matched_text": "يسره للسرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        29,
+        30
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "start": 35.19,
+      "end": 39.35,
+      "matched_text": "وأما من بخل واستغنى",
+      "confidence": 1,
+      "matched_word_indices": [
+        31,
+        34
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "start": 39.35,
+      "end": 41.65,
+      "matched_text": "وكذب بالحسنى",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        36
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "start": 42.19,
+      "end": 44.95,
+      "matched_text": "يسره للحسنى",
+      "confidence": 1,
+      "matched_word_indices": [
+        38,
+        39
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "start": 44.95,
+      "end": 51.37,
+      "matched_text": "وما يغني عنه ماله إذا ترد",
+      "confidence": 1,
+      "matched_word_indices": [
+        41,
+        46
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "start": 51.37,
+      "end": 55.65,
+      "matched_text": "إن علينا للهد",
+      "confidence": 1,
+      "matched_word_indices": [
+        47,
+        49
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+      "start": 55.65,
+      "end": 61.27,
+      "matched_text": "وإن لنا للاخرة ولول",
+      "confidence": 1,
+      "matched_word_indices": [
+        50,
+        53
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "start": 61.27,
+      "end": 67.07,
+      "matched_text": "فأنذرتكم ناراً تل الظى",
+      "confidence": 1,
+      "matched_word_indices": [
+        55,
+        58
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "start": 67.07,
+      "end": 71.87,
+      "matched_text": "لا يصلها إلا لشق",
+      "confidence": 1,
+      "matched_word_indices": [
+        59,
+        62
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "start": 71.87,
+      "end": 75.11,
+      "matched_text": "الذي كذب وتولى",
+      "confidence": 1,
+      "matched_word_indices": [
+        63,
+        65
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "start": 75.11,
+      "end": 78.11,
+      "matched_text": "وسيجنبها لتق",
+      "confidence": 1,
+      "matched_word_indices": [
+        66,
+        67
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "start": 78.11,
+      "end": 82.49,
+      "matched_text": "الذي يوتي ما له يتزكى",
+      "confidence": 1,
+      "matched_word_indices": [
+        68,
+        72
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "start": 82.49,
+      "end": 91.63,
+      "matched_text": "وما لأحد عنده من نعمة تجزائل",
+      "confidence": 1,
+      "matched_word_indices": [
+        73,
+        78
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "start": 91.63,
+      "end": 96.95,
+      "matched_text": "بتغاء وجه ربه لعل",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        79,
+        82
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "وَلَسَوْفَ يَرْضَىٰ",
+      "start": 96.95,
+      "end": 99.39,
+      "matched_text": "ولسوا فيرض",
+      "confidence": 1,
+      "matched_word_indices": [
+        83,
+        84
+      ]
+    }
+  ],
+  "alignment_score": 54.968
+}

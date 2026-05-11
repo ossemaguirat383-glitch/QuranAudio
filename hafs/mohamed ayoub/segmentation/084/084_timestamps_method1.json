@@ -1,0 +1,101 @@
+[
+    {
+        "ayah": 9,
+        "start_seconds": 30.0,
+        "end_seconds": 45.0,
+        "start_time": "00:30",
+        "end_time": "00:45",
+        "text": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+        "score": 0.71
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 45.0,
+        "end_seconds": 54.0,
+        "start_time": "00:45",
+        "end_time": "00:54",
+        "text": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+        "score": 0.52
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 54.0,
+        "end_seconds": 57.0,
+        "start_time": "00:54",
+        "end_time": "00:57",
+        "text": "وَيَصْلَىٰ سَعِيرًا",
+        "score": 0.73
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 57.0,
+        "end_seconds": 63.0,
+        "start_time": "00:57",
+        "end_time": "01:03",
+        "text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+        "score": 0.68
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 63.0,
+        "end_seconds": 69.0,
+        "start_time": "01:03",
+        "end_time": "01:09",
+        "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+        "score": 0.69
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 69.0,
+        "end_seconds": 75.0,
+        "start_time": "01:09",
+        "end_time": "01:15",
+        "text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+        "score": 0.7
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 75.0,
+        "end_seconds": 81.0,
+        "start_time": "01:15",
+        "end_time": "01:21",
+        "text": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+        "score": 0.49
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 92.0,
+        "end_seconds": 99.0,
+        "start_time": "01:32",
+        "end_time": "01:39",
+        "text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+        "score": 0.6
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 99.0,
+        "end_seconds": 107.0,
+        "start_time": "01:39",
+        "end_time": "01:47",
+        "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+        "score": 0.51
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 107.0,
+        "end_seconds": 111.0,
+        "start_time": "01:47",
+        "end_time": "01:51",
+        "text": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+        "score": 0.72
+    },
+    {
+        "ayah": 25,
+        "start_seconds": 111.0,
+        "end_seconds": 119.0,
+        "start_time": "01:51",
+        "end_time": "01:59",
+        "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+        "score": 0.65
+    }
+]

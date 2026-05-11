@@ -1,0 +1,35 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 6.8,
+    "start_time": "00:00",
+    "end_time": "00:06",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+    "matched_ayah_id": null,
+    "score": 42.42424242424242
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 6.8,
+    "end_seconds": 18.28,
+    "start_time": "00:06",
+    "end_time": "00:18",
+    "segment_text": " إذا جاء نصر الله والفتح ورأيت الناس يدخلون في دين الله أخواجا",
+    "matched_ayah_text": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+    "matched_ayah_id": null,
+    "score": 69.38775510204081
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 18.28,
+    "end_seconds": 27.400000000000002,
+    "start_time": "00:18",
+    "end_time": "00:27",
+    "segment_text": " فسبح بحمد ربك واستغفره إنه كان توابا",
+    "matched_ayah_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+    "matched_ayah_id": null,
+    "score": 92.10526315789474
+  }
+]

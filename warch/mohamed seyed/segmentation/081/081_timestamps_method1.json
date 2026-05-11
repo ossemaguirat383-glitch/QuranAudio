@@ -1,0 +1,236 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 9.8,
+        "end_seconds": 11.92,
+        "start_time": "00:09",
+        "end_time": "00:11",
+        "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+        "score": 0.47
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 15.32,
+        "end_seconds": 17.88,
+        "start_time": "00:15",
+        "end_time": "00:17",
+        "text": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+        "score": 0.5
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 17.88,
+        "end_seconds": 20.52,
+        "start_time": "00:17",
+        "end_time": "00:20",
+        "text": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 20.52,
+        "end_seconds": 23.04,
+        "start_time": "00:20",
+        "end_time": "00:23",
+        "text": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+        "score": 0.7
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 23.04,
+        "end_seconds": 25.76,
+        "start_time": "00:23",
+        "end_time": "00:25",
+        "text": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 25.76,
+        "end_seconds": 29.44,
+        "start_time": "00:25",
+        "end_time": "00:29",
+        "text": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 30.0,
+        "end_seconds": 33.28,
+        "start_time": "00:30",
+        "end_time": "00:33",
+        "text": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+        "score": 0.65
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 33.28,
+        "end_seconds": 36.84,
+        "start_time": "00:33",
+        "end_time": "00:36",
+        "text": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+        "score": 0.63
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 36.84,
+        "end_seconds": 39.12,
+        "start_time": "00:36",
+        "end_time": "00:39",
+        "text": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 39.12,
+        "end_seconds": 43.24,
+        "start_time": "00:39",
+        "end_time": "00:43",
+        "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+        "score": 0.68
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 11.92,
+        "end_seconds": 15.32,
+        "start_time": "00:11",
+        "end_time": "00:15",
+        "text": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+        "score": 0.48
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 49.48,
+        "end_seconds": 52.6,
+        "start_time": "00:49",
+        "end_time": "00:52",
+        "text": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+        "score": 0.67
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 52.6,
+        "end_seconds": 57.08,
+        "start_time": "00:52",
+        "end_time": "00:57",
+        "text": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+        "score": 0.5
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 62.32,
+        "end_seconds": 66.8,
+        "start_time": "01:02",
+        "end_time": "01:06",
+        "text": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+        "score": 0.65
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 66.8,
+        "end_seconds": 69.32,
+        "start_time": "01:06",
+        "end_time": "01:09",
+        "text": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+        "score": 0.61
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 69.32,
+        "end_seconds": 71.68,
+        "start_time": "01:09",
+        "end_time": "01:11",
+        "text": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+        "score": 0.6
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 71.68,
+        "end_seconds": 74.56,
+        "start_time": "01:11",
+        "end_time": "01:14",
+        "text": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+        "score": 0.67
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 74.56,
+        "end_seconds": 80.08,
+        "start_time": "01:14",
+        "end_time": "01:20",
+        "text": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "score": 0.51
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 92.04,
+        "end_seconds": 95.2,
+        "start_time": "01:32",
+        "end_time": "01:35",
+        "text": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+        "score": 0.48
+    },
+    {
+        "ayah": 22,
+        "start_seconds": 95.2,
+        "end_seconds": 99.68,
+        "start_time": "01:35",
+        "end_time": "01:39",
+        "text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+        "score": 0.76
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 99.68,
+        "end_seconds": 104.92,
+        "start_time": "01:39",
+        "end_time": "01:44",
+        "text": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+        "score": 0.58
+    },
+    {
+        "ayah": 24,
+        "start_seconds": 104.92,
+        "end_seconds": 109.0,
+        "start_time": "01:44",
+        "end_time": "01:49",
+        "text": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+        "score": 0.69
+    },
+    {
+        "ayah": 25,
+        "start_seconds": 109.0,
+        "end_seconds": 113.28,
+        "start_time": "01:49",
+        "end_time": "01:53",
+        "text": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 27,
+        "start_seconds": 113.28,
+        "end_seconds": 117.2,
+        "start_time": "01:53",
+        "end_time": "01:57",
+        "text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+        "score": 0.63
+    },
+    {
+        "ayah": 28,
+        "start_seconds": 117.2,
+        "end_seconds": 127.04,
+        "start_time": "01:57",
+        "end_time": "02:07",
+        "text": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+        "score": 0.76
+    },
+    {
+        "ayah": 29,
+        "start_seconds": 127.04,
+        "end_seconds": 140.28,
+        "start_time": "02:07",
+        "end_time": "02:20",
+        "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+        "score": 0.68
+    }
+]

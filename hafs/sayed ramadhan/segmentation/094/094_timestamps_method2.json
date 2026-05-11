@@ -1,0 +1,68 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 7.2,
+    "start_time": "00:00",
+    "end_time": "00:07",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "matched_ayah_id": null,
+    "score": 46.15384615384615
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 7.2,
+    "end_seconds": 13.52,
+    "start_time": "00:07",
+    "end_time": "00:13",
+    "segment_text": " ألم نشرح لك صدرك ووضعنا عنك وزرك",
+    "matched_ayah_text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "matched_ayah_id": null,
+    "score": 63.829787234042556
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 13.52,
+    "end_seconds": 19.6,
+    "start_time": "00:13",
+    "end_time": "00:19",
+    "segment_text": " الذي أنقض ظهرك ورفعنا لك ذكرك",
+    "matched_ayah_text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "matched_ayah_id": null,
+    "score": 65.11627906976744
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 19.6,
+    "end_seconds": 26.2,
+    "start_time": "00:19",
+    "end_time": "00:26",
+    "segment_text": " فإن مع العسل يسرى",
+    "matched_ayah_text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "matched_ayah_id": null,
+    "score": 82.35294117647058
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 26.2,
+    "end_seconds": 29.36,
+    "start_time": "00:26",
+    "end_time": "00:29",
+    "segment_text": " فإذا فأغتف انصب",
+    "matched_ayah_text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+    "matched_ayah_id": null,
+    "score": 80.0
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 29.36,
+    "end_seconds": 32.879999999999995,
+    "start_time": "00:29",
+    "end_time": "00:32",
+    "segment_text": " وإلى ربك فارغب",
+    "matched_ayah_text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+    "matched_ayah_id": null,
+    "score": 89.65517241379311
+  }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 7.0,
+        "end_seconds": 10.0,
+        "start_time": "00:07",
+        "end_time": "00:10",
+        "text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+        "score": 0.59
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 10.0,
+        "end_seconds": 13.0,
+        "start_time": "00:10",
+        "end_time": "00:13",
+        "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+        "score": 0.55
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 13.0,
+        "end_seconds": 17.0,
+        "start_time": "00:13",
+        "end_time": "00:17",
+        "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+        "score": 0.58
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 17.0,
+        "end_seconds": 21.0,
+        "start_time": "00:17",
+        "end_time": "00:21",
+        "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+        "score": 0.68
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 21.0,
+        "end_seconds": 25.0,
+        "start_time": "00:21",
+        "end_time": "00:25",
+        "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+        "score": 0.67
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 29.0,
+        "end_seconds": 34.0,
+        "start_time": "00:29",
+        "end_time": "00:34",
+        "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 34.0,
+        "end_seconds": 37.0,
+        "start_time": "00:34",
+        "end_time": "00:37",
+        "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+        "score": 0.62
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 37.0,
+        "end_seconds": 41.0,
+        "start_time": "00:37",
+        "end_time": "00:41",
+        "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 41.0,
+        "end_seconds": 44.0,
+        "start_time": "00:41",
+        "end_time": "00:44",
+        "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 44.0,
+        "end_seconds": 47.0,
+        "start_time": "00:44",
+        "end_time": "00:47",
+        "text": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+        "score": 0.67
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 47.0,
+        "end_seconds": 51.0,
+        "start_time": "00:47",
+        "end_time": "00:51",
+        "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+        "score": 0.62
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 51.0,
+        "end_seconds": 56.0,
+        "start_time": "00:51",
+        "end_time": "00:56",
+        "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "score": 0.73
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 56.0,
+        "end_seconds": 59.0,
+        "start_time": "00:56",
+        "end_time": "00:59",
+        "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+        "score": 0.71
+    },
+    {
+        "ayah": 15,
+        "start_seconds": 59.0,
+        "end_seconds": 63.0,
+        "start_time": "00:59",
+        "end_time": "01:03",
+        "text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+        "score": 0.64
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 63.0,
+        "end_seconds": 67.0,
+        "start_time": "01:03",
+        "end_time": "01:07",
+        "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+        "score": 0.65
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 67.0,
+        "end_seconds": 71.0,
+        "start_time": "01:07",
+        "end_time": "01:11",
+        "text": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+        "score": 0.59
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 71.0,
+        "end_seconds": 76.0,
+        "start_time": "01:11",
+        "end_time": "01:16",
+        "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 76.0,
+        "end_seconds": 80.0,
+        "start_time": "01:16",
+        "end_time": "01:20",
+        "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+        "score": 0.7
+    }
+]

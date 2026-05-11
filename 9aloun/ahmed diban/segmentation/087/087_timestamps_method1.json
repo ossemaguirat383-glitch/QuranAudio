@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 6,
+        "start_seconds": 17.24,
+        "end_seconds": 24.68,
+        "start_time": "00:17",
+        "end_time": "00:24",
+        "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+        "score": 0.52
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 24.68,
+        "end_seconds": 30.4,
+        "start_time": "00:24",
+        "end_time": "00:30",
+        "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+        "score": 0.47
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 37.36,
+        "end_seconds": 43.68,
+        "start_time": "00:37",
+        "end_time": "00:43",
+        "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+        "score": 0.48
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 43.68,
+        "end_seconds": 47.6,
+        "start_time": "00:43",
+        "end_time": "00:47",
+        "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+        "score": 0.6
+    },
+    {
+        "ayah": 13,
+        "start_seconds": 47.6,
+        "end_seconds": 52.48,
+        "start_time": "00:47",
+        "end_time": "00:52",
+        "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+        "score": 0.73
+    },
+    {
+        "ayah": 14,
+        "start_seconds": 52.6,
+        "end_seconds": 60.2,
+        "start_time": "00:52",
+        "end_time": "01:00",
+        "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+        "score": 0.48
+    },
+    {
+        "ayah": 16,
+        "start_seconds": 60.2,
+        "end_seconds": 64.28,
+        "start_time": "01:00",
+        "end_time": "01:04",
+        "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+        "score": 0.65
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 64.28,
+        "end_seconds": 68.88,
+        "start_time": "01:04",
+        "end_time": "01:08",
+        "text": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+        "score": 0.59
+    },
+    {
+        "ayah": 18,
+        "start_seconds": 68.88,
+        "end_seconds": 73.88,
+        "start_time": "01:08",
+        "end_time": "01:13",
+        "text": "إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+        "score": 0.63
+    },
+    {
+        "ayah": 19,
+        "start_seconds": 73.88,
+        "end_seconds": 79.16,
+        "start_time": "01:13",
+        "end_time": "01:19",
+        "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+        "score": 0.67
+    }
+]

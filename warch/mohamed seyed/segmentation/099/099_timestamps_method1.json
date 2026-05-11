@@ -1,0 +1,65 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 13.52,
+        "end_seconds": 16.72,
+        "start_time": "00:13",
+        "end_time": "00:16",
+        "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+        "score": 0.68
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 16.72,
+        "end_seconds": 20.08,
+        "start_time": "00:16",
+        "end_time": "00:20",
+        "text": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+        "score": 0.69
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 20.08,
+        "end_seconds": 24.24,
+        "start_time": "00:20",
+        "end_time": "00:24",
+        "text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "score": 0.71
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 24.24,
+        "end_seconds": 28.24,
+        "start_time": "00:24",
+        "end_time": "00:28",
+        "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "score": 0.53
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 28.48,
+        "end_seconds": 35.6,
+        "start_time": "00:28",
+        "end_time": "00:35",
+        "text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+        "score": 0.6
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 35.6,
+        "end_seconds": 42.8,
+        "start_time": "00:35",
+        "end_time": "00:42",
+        "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+        "score": 0.69
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 42.8,
+        "end_seconds": 50.48,
+        "start_time": "00:42",
+        "end_time": "00:50",
+        "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+        "score": 0.71
+    }
+]

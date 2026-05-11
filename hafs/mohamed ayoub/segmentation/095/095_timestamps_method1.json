@@ -1,0 +1,47 @@
+[
+    {
+        "ayah": 3,
+        "start_seconds": 6.3,
+        "end_seconds": 9.2,
+        "start_time": "00:06",
+        "end_time": "00:09",
+        "text": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+        "score": 0.64
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 9.2,
+        "end_seconds": 15.9,
+        "start_time": "00:09",
+        "end_time": "00:15",
+        "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+        "score": 0.64
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 15.9,
+        "end_seconds": 20.4,
+        "start_time": "00:15",
+        "end_time": "00:20",
+        "text": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+        "score": 0.63
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 28.2,
+        "end_seconds": 32.4,
+        "start_time": "00:28",
+        "end_time": "00:32",
+        "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+        "score": 0.69
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 32.4,
+        "end_seconds": 36.7,
+        "start_time": "00:32",
+        "end_time": "00:36",
+        "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+        "score": 0.64
+    }
+]

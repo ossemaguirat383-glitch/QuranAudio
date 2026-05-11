@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.24,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+    "matched_ayah_id": null,
+    "score": 73.07692307692308
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 3.24,
+    "end_seconds": 9.040000000000001,
+    "start_time": "00:03",
+    "end_time": "00:09",
+    "segment_text": " والعصر إن الإنسان لفي خسر",
+    "matched_ayah_text": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+    "matched_ayah_id": null,
+    "score": 74.4186046511628
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.040000000000001,
+    "end_seconds": 13.6,
+    "start_time": "00:09",
+    "end_time": "00:13",
+    "segment_text": " إلا الذين آمنوا وعملوا الصالحات",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "matched_ayah_id": null,
+    "score": 58.33333333333333
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 13.6,
+    "end_seconds": 19.12,
+    "start_time": "00:13",
+    "end_time": "00:19",
+    "segment_text": " وتواصوا بالحق وتواصوا بالصبر",
+    "matched_ayah_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "matched_ayah_id": null,
+    "score": 55.91397849462365
+  }
+]

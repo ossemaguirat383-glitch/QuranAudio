@@ -1,0 +1,92 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 11.2,
+        "end_seconds": 15.12,
+        "start_time": "00:11",
+        "end_time": "00:15",
+        "text": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+        "score": 0.63
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 15.12,
+        "end_seconds": 19.12,
+        "start_time": "00:15",
+        "end_time": "00:19",
+        "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+        "score": 0.65
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 19.12,
+        "end_seconds": 23.12,
+        "start_time": "00:19",
+        "end_time": "00:23",
+        "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+        "score": 0.7
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 23.12,
+        "end_seconds": 26.96,
+        "start_time": "00:23",
+        "end_time": "00:26",
+        "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+        "score": 0.7
+    },
+    {
+        "ayah": 6,
+        "start_seconds": 27.12,
+        "end_seconds": 34.8,
+        "start_time": "00:27",
+        "end_time": "00:34",
+        "text": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+        "score": 0.63
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 34.8,
+        "end_seconds": 41.68,
+        "start_time": "00:34",
+        "end_time": "00:41",
+        "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 41.68,
+        "end_seconds": 48.88,
+        "start_time": "00:41",
+        "end_time": "00:48",
+        "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+        "score": 0.66
+    },
+    {
+        "ayah": 9,
+        "start_seconds": 49.04,
+        "end_seconds": 57.12,
+        "start_time": "00:49",
+        "end_time": "00:57",
+        "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+        "score": 0.72
+    },
+    {
+        "ayah": 10,
+        "start_seconds": 57.12,
+        "end_seconds": 62.56,
+        "start_time": "00:57",
+        "end_time": "01:02",
+        "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+        "score": 0.62
+    },
+    {
+        "ayah": 11,
+        "start_seconds": 62.56,
+        "end_seconds": 72.32,
+        "start_time": "01:02",
+        "end_time": "01:12",
+        "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+        "score": 0.69
+    }
+]

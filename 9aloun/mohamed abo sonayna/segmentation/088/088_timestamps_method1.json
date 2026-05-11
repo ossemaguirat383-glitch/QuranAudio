@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 7,
+        "start_seconds": 24.32,
+        "end_seconds": 35.08,
+        "start_time": "00:24",
+        "end_time": "00:35",
+        "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+        "score": 0.52
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 51.46,
+        "end_seconds": 56.12,
+        "start_time": "00:51",
+        "end_time": "00:56",
+        "text": "فِيهَا عَيْنٌ جَارِيَةٌ",
+        "score": 0.76
+    },
+    {
+        "ayah": 21,
+        "start_seconds": 89.48,
+        "end_seconds": 96.26,
+        "start_time": "01:29",
+        "end_time": "01:36",
+        "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+        "score": 0.68
+    },
+    {
+        "ayah": 26,
+        "start_seconds": 109.22,
+        "end_seconds": 118.34,
+        "start_time": "01:49",
+        "end_time": "01:58",
+        "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+        "score": 0.48
+    }
+]

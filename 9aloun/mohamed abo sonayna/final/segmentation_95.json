@@ -1,0 +1,102 @@
+{
+  "surah": 95,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "start": 0,
+      "end": 7.64,
+      "matched_text": "بسم الله الرحمن الرحيم والتين والزيتون",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَطُورِ سِينِينَ",
+      "start": 7.64,
+      "end": 9.54,
+      "matched_text": "وطور سيمين",
+      "confidence": 1,
+      "matched_word_indices": [
+        6,
+        7
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "start": 9.54,
+      "end": 12.22,
+      "matched_text": "وهذا البلد الأميم",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "start": 12.22,
+      "end": 19.34,
+      "matched_text": "نقد خلقنا الإنسان في أحسن تقويم",
+      "confidence": 1,
+      "matched_word_indices": [
+        11,
+        16
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "start": 31.14,
+      "end": 32.5,
+      "matched_text": "لسافلين",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        24,
+        24
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "start": 32.5,
+      "end": 44.6,
+      "matched_text": "إلا الذين آمنوا من الصالحات فلهم أجر غير منوا",
+      "confidence": 0.889,
+      "matched_word_indices": [
+        25,
+        33
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "start": 46.9,
+      "end": 49.6,
+      "matched_text": "ذبك بعد بالدين",
+      "confidence": 0.75,
+      "matched_word_indices": [
+        34,
+        36
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "start": 53.79,
+      "end": 54.85,
+      "matched_text": "آكمين",
+      "confidence": 0.25,
+      "matched_word_indices": [
+        37,
+        37
+      ]
+    }
+  ],
+  "alignment_score": 21.032
+}

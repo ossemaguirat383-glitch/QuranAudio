@@ -1,0 +1,57 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.0,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+    "matched_ayah_id": null,
+    "score": 54.28571428571429
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.96,
+    "end_seconds": 18.84,
+    "start_time": "00:04",
+    "end_time": "00:18",
+    "segment_text": " إذا جاء مصر الله والفتح ورأيت الناس يدخلون في دين الله أفواجاً فسبح",
+    "matched_ayah_text": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+    "matched_ayah_id": null,
+    "score": 67.96116504854368
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 19.88,
+    "end_seconds": 24.04,
+    "start_time": "00:19",
+    "end_time": "00:24",
+    "segment_text": " فسبح بحمد ربك واستغفره",
+    "matched_ayah_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+    "matched_ayah_id": null,
+    "score": 67.74193548387098
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 24.64,
+    "end_seconds": 29.2,
+    "start_time": "00:24",
+    "end_time": "00:29",
+    "segment_text": " إنه كان توابى",
+    "matched_ayah_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+    "matched_ayah_id": null,
+    "score": 45.28301886792453
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 30.0,
+    "end_seconds": 32.0,
+    "start_time": "00:30",
+    "end_time": "00:32",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+    "matched_ayah_id": null,
+    "score": 54.28571428571429
+  }
+]

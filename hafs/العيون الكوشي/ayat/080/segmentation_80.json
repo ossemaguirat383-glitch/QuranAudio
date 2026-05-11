@@ -1,0 +1,510 @@
+{
+  "surah": 80,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+      "start": 0.04,
+      "end": 5.44,
+      "matched_text": "بسم الله الرحمن الرحيم 6. عبس وتولى",
+      "confidence": 1,
+      "matched_word_indices": [
+        1,
+        7
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "start": 5.44,
+      "end": 10.2,
+      "matched_text": "أن جاءه لعمى",
+      "confidence": 1,
+      "matched_word_indices": [
+        8,
+        10
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "start": 10.62,
+      "end": 14.2,
+      "matched_text": "وما يدريك لعله يزكى",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        15
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "start": 14.58,
+      "end": 18.32,
+      "matched_text": "أو يذكر فتنفعه الذكرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        17,
+        20
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "start": 18.78,
+      "end": 21.42,
+      "matched_text": "أما من استغنى",
+      "confidence": 1,
+      "matched_word_indices": [
+        22,
+        24
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "start": 21.42,
+      "end": 24.56,
+      "matched_text": "فأنت له تصدى",
+      "confidence": 1,
+      "matched_word_indices": [
+        25,
+        27
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "start": 24.96,
+      "end": 27.88,
+      "matched_text": "وما عليك أن لا يزكى",
+      "confidence": 1,
+      "matched_word_indices": [
+        29,
+        33
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "start": 27.88,
+      "end": 34.38,
+      "matched_text": "وأنما من جاءك يسعى",
+      "confidence": 1,
+      "matched_word_indices": [
+        34,
+        37
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَهُوَ يَخْشَىٰ",
+      "start": 34.38,
+      "end": 35.78,
+      "matched_text": "وهو يخشى",
+      "confidence": 1,
+      "matched_word_indices": [
+        38,
+        39
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "start": 35.78,
+      "end": 39.38,
+      "matched_text": "فأنت عنه تلحى",
+      "confidence": 1,
+      "matched_word_indices": [
+        40,
+        42
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+      "start": 39.38,
+      "end": 44.12,
+      "matched_text": "كلا إنها تذكرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        43,
+        45
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "start": 44.12,
+      "end": 48.58,
+      "matched_text": "فمن شاء ذكرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        46,
+        48
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+      "start": 48.58,
+      "end": 50.72,
+      "matched_text": "في صفف مكر",
+      "confidence": 1,
+      "matched_word_indices": [
+        49,
+        51
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "start": 51.62,
+      "end": 54.3,
+      "matched_text": "مرفوعة مطهرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        54
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "بِأَيْدِى سَفَرَةٍ",
+      "start": 54.3,
+      "end": 56.34,
+      "matched_text": "بأيدي سفره",
+      "confidence": 1,
+      "matched_word_indices": [
+        55,
+        56
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "كِرَامٍۭ بَرَرَةٍ",
+      "start": 56.54,
+      "end": 58.92,
+      "matched_text": "كلا من برره",
+      "confidence": 1,
+      "matched_word_indices": [
+        58,
+        60
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+      "start": 58.92,
+      "end": 63.86,
+      "matched_text": "قتل لنسان ما أكفره",
+      "confidence": 1,
+      "matched_word_indices": [
+        61,
+        64
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "start": 63.86,
+      "end": 67.18,
+      "matched_text": "من أي شيء خلقه",
+      "confidence": 1,
+      "matched_word_indices": [
+        65,
+        68
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "start": 67.18,
+      "end": 71.06,
+      "matched_text": "من نطفة خلقه فقدره",
+      "confidence": 1,
+      "matched_word_indices": [
+        69,
+        72
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "start": 71.06,
+      "end": 74.24,
+      "matched_text": "ثم السبيل يسره",
+      "confidence": 1,
+      "matched_word_indices": [
+        73,
+        75
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "start": 74.24,
+      "end": 77.58,
+      "matched_text": "ثم أماته فأقبره",
+      "confidence": 1,
+      "matched_word_indices": [
+        76,
+        78
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "start": 77.58,
+      "end": 84.24,
+      "matched_text": "ثم إذا شاء أنشره",
+      "confidence": 1,
+      "matched_word_indices": [
+        79,
+        82
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "start": 85.85,
+      "end": 87.57,
+      "matched_text": "كلا لما",
+      "confidence": 0.4,
+      "matched_word_indices": [
+        84,
+        85
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "start": 91.75,
+      "end": 95.99,
+      "matched_text": "فاليانفرر إنسان إلى طعامه",
+      "confidence": 1,
+      "matched_word_indices": [
+        88,
+        91
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+      "start": 96.45,
+      "end": 101.33,
+      "matched_text": "إن صببنا الماء صبا",
+      "confidence": 1,
+      "matched_word_indices": [
+        93,
+        96
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+      "start": 101.77,
+      "end": 104.85,
+      "matched_text": "ثم شققنا لرض شقق",
+      "confidence": 1,
+      "matched_word_indices": [
+        98,
+        101
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "start": 105.55,
+      "end": 108.47,
+      "matched_text": "فأنبتنا فيها حبا",
+      "confidence": 1,
+      "matched_word_indices": [
+        103,
+        105
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "وَعِنَبًا وَقَضْبًا",
+      "start": 108.87,
+      "end": 111.03,
+      "matched_text": "وعنب وقضب",
+      "confidence": 1,
+      "matched_word_indices": [
+        107,
+        108
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "وَزَيْتُونًا وَنَخْلًا",
+      "start": 111.55,
+      "end": 114.25,
+      "matched_text": "وزيتون ولخلا",
+      "confidence": 1,
+      "matched_word_indices": [
+        110,
+        111
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "وَحَدَآئِقَ غُلْبًا",
+      "start": 116.01,
+      "end": 117.91,
+      "matched_text": "وحدائق غلب",
+      "confidence": 1,
+      "matched_word_indices": [
+        112,
+        113
+      ]
+    },
+    {
+      "ayah": 31,
+      "text": "وَفَـٰكِهَةً وَأَبًّا",
+      "start": 117.91,
+      "end": 121.09,
+      "matched_text": "وفاكهة واب",
+      "confidence": 1,
+      "matched_word_indices": [
+        114,
+        115
+      ]
+    },
+    {
+      "ayah": 32,
+      "text": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+      "start": 121.67,
+      "end": 124.83,
+      "matched_text": "متاع لكم ولأن عامكم",
+      "confidence": 1,
+      "matched_word_indices": [
+        116,
+        119
+      ]
+    },
+    {
+      "ayah": 33,
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "start": 124.83,
+      "end": 131.47,
+      "matched_text": "فإذا جاءت الصاق",
+      "confidence": 1,
+      "matched_word_indices": [
+        120,
+        122
+      ]
+    },
+    {
+      "ayah": 34,
+      "text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "start": 131.47,
+      "end": 135.41,
+      "matched_text": "يوم يفر المرء من خيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        123,
+        127
+      ]
+    },
+    {
+      "ayah": 35,
+      "text": "وَأُمِّهِۦ وَأَبِيهِ",
+      "start": 135.41,
+      "end": 138.45,
+      "matched_text": "وأمه وابيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        128,
+        129
+      ]
+    },
+    {
+      "ayah": 36,
+      "text": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+      "start": 138.45,
+      "end": 141.33,
+      "matched_text": "وخاحبته وبنيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        130,
+        131
+      ]
+    },
+    {
+      "ayah": 37,
+      "text": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "start": 141.33,
+      "end": 147.87,
+      "matched_text": "بكل امرء منهم يومئذ شأن يغنيه",
+      "confidence": 1,
+      "matched_word_indices": [
+        132,
+        137
+      ]
+    },
+    {
+      "ayah": 38,
+      "text": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+      "start": 147.87,
+      "end": 151.81,
+      "matched_text": "وجوه يومئذ مسفرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        138,
+        140
+      ]
+    },
+    {
+      "ayah": 39,
+      "text": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+      "start": 151.81,
+      "end": 154.95,
+      "matched_text": "ضاحك مستبشرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        141,
+        142
+      ]
+    },
+    {
+      "ayah": 40,
+      "text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "start": 154.95,
+      "end": 159.49,
+      "matched_text": "ووجوه يومئذ عليها غبرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        143,
+        146
+      ]
+    },
+    {
+      "ayah": 41,
+      "text": "تَرْهَقُهَا قَتَرَةٌ",
+      "start": 159.49,
+      "end": 162.17,
+      "matched_text": "ترهاقها قتره",
+      "confidence": 1,
+      "matched_word_indices": [
+        147,
+        148
+      ]
+    },
+    {
+      "ayah": 42,
+      "text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "start": 163.65,
+      "end": 167.13,
+      "matched_text": "أولئك هم الكفرة الفجرة",
+      "confidence": 1,
+      "matched_word_indices": [
+        149,
+        152
+      ]
+    }
+  ],
+  "alignment_score": 110.226
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 5.2,
+    "start_time": "00:00",
+    "end_time": "00:05",
+    "segment_text": " أعوذ بالله من الشيطان الرجيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "matched_ayah_id": null,
+    "score": 45.070422535211264
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 5.2,
+    "end_seconds": 9.8,
+    "start_time": "00:05",
+    "end_time": "00:09",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "matched_ayah_id": null,
+    "score": 58.46153846153845
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 9.8,
+    "end_seconds": 19.6,
+    "start_time": "00:09",
+    "end_time": "00:19",
+    "segment_text": " إنا أعطيناك الكوثر فصل لربك وانحر",
+    "matched_ayah_text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "matched_ayah_id": null,
+    "score": 55.319148936170215
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 19.6,
+    "end_seconds": 24.2,
+    "start_time": "00:19",
+    "end_time": "00:24",
+    "segment_text": " إن شانك هو لبتر",
+    "matched_ayah_text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  }
+]

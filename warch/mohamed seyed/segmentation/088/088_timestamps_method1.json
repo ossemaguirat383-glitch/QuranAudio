@@ -1,0 +1,47 @@
+[
+    {
+        "ayah": 7,
+        "start_seconds": 30.0,
+        "end_seconds": 40.24,
+        "start_time": "00:30",
+        "end_time": "00:40",
+        "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+        "score": 0.57
+    },
+    {
+        "ayah": 12,
+        "start_seconds": 54.88,
+        "end_seconds": 59.36,
+        "start_time": "00:54",
+        "end_time": "00:59",
+        "text": "فِيهَا عَيْنٌ جَارِيَةٌ",
+        "score": 0.76
+    },
+    {
+        "ayah": 17,
+        "start_seconds": 74.08,
+        "end_seconds": 87.6,
+        "start_time": "01:14",
+        "end_time": "01:27",
+        "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+        "score": 0.47
+    },
+    {
+        "ayah": 23,
+        "start_seconds": 102.8,
+        "end_seconds": 112.08,
+        "start_time": "01:42",
+        "end_time": "01:52",
+        "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+        "score": 0.45
+    },
+    {
+        "ayah": 26,
+        "start_seconds": 112.08,
+        "end_seconds": 123.6,
+        "start_time": "01:52",
+        "end_time": "02:03",
+        "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+        "score": 0.48
+    }
+]

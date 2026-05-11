@@ -1,0 +1,134 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 4.2,
+    "start_time": "00:00",
+    "end_time": "00:04",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 4.2,
+    "end_seconds": 8.86,
+    "start_time": "00:04",
+    "end_time": "00:08",
+    "segment_text": " اقرأ باسم ربك الذي خلق",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+    "matched_ayah_id": null,
+    "score": 55.88235294117647
+  },
+  {
+    "segment_id": 2,
+    "start_seconds": 8.86,
+    "end_seconds": 13.96,
+    "start_time": "00:08",
+    "end_time": "00:13",
+    "segment_text": " خلق الإنسان من علق",
+    "matched_ayah_text": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+    "matched_ayah_id": null,
+    "score": 88.88888888888889
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 13.96,
+    "end_seconds": 19.8,
+    "start_time": "00:13",
+    "end_time": "00:19",
+    "segment_text": " اقرأ وربك الأكرم الذي علم بالقلم",
+    "matched_ayah_text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+    "matched_ayah_id": null,
+    "score": 58.33333333333333
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 19.8,
+    "end_seconds": 25.2,
+    "start_time": "00:19",
+    "end_time": "00:25",
+    "segment_text": " علم الإنسان ما لم يعلم",
+    "matched_ayah_text": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 26.0,
+    "end_seconds": 34.16,
+    "start_time": "00:26",
+    "end_time": "00:34",
+    "segment_text": " كلا إن الإنسان ليطرى أرآه استغنا",
+    "matched_ayah_text": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 61.81818181818181
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 34.16,
+    "end_seconds": 38.96,
+    "start_time": "00:34",
+    "end_time": "00:38",
+    "segment_text": " إن إلى ربك روجعا",
+    "matched_ayah_text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 77.77777777777779
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 38.96,
+    "end_seconds": 45.04,
+    "start_time": "00:38",
+    "end_time": "00:45",
+    "segment_text": " أرأيت الذي ينهى عبدا إذا صلى",
+    "matched_ayah_text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+    "matched_ayah_id": null,
+    "score": 59.09090909090908
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 45.04,
+    "end_seconds": 52.4,
+    "start_time": "00:45",
+    "end_time": "00:52",
+    "segment_text": " أرأيت إن كان على الهدى أو أمر بالتقوى",
+    "matched_ayah_text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+    "matched_ayah_id": null,
+    "score": 65.57377049180329
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 52.8,
+    "end_seconds": 64.0,
+    "start_time": "00:52",
+    "end_time": "01:04",
+    "segment_text": " أرأيت إن كذب وتولى ألم يعلم بأن الله يرى",
+    "matched_ayah_text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+    "matched_ayah_id": null,
+    "score": 64.51612903225806
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 64.0,
+    "end_seconds": 77.44,
+    "start_time": "01:04",
+    "end_time": "01:17",
+    "segment_text": " كلا لإن لم ينتهي لنسف عن بالناصية ناصية كاذبة خاطئة",
+    "matched_ayah_text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+    "matched_ayah_id": null,
+    "score": 67.46987951807229
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 77.44,
+    "end_seconds": 87.75999999999999,
+    "start_time": "01:17",
+    "end_time": "01:27",
+    "segment_text": " فليدع ناديه سندع الزبانية كلا لا تطعه وسجد وقترب",
+    "matched_ayah_text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+    "matched_ayah_id": null,
+    "score": 59.45945945945945
+  }
+]

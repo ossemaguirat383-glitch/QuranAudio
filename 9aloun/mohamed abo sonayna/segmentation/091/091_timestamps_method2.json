@@ -1,0 +1,145 @@
+[
+  {
+    "segment_id": 0,
+    "start_seconds": 0.0,
+    "end_seconds": 3.84,
+    "start_time": "00:00",
+    "end_time": "00:03",
+    "segment_text": " بسم الله الرحمن الرحيم",
+    "matched_ayah_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 63.33333333333333
+  },
+  {
+    "segment_id": 1,
+    "start_seconds": 30.0,
+    "end_seconds": 33.2,
+    "start_time": "00:30",
+    "end_time": "00:33",
+    "segment_text": " فألهمها فجورا وتقواها",
+    "matched_ayah_text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 3,
+    "start_seconds": 38.96,
+    "end_seconds": 42.56,
+    "start_time": "00:38",
+    "end_time": "00:42",
+    "segment_text": " قد أفلح من زكاها",
+    "matched_ayah_text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 4,
+    "start_seconds": 42.56,
+    "end_seconds": 46.96,
+    "start_time": "00:42",
+    "end_time": "00:46",
+    "segment_text": " وقد خاب من دساها",
+    "matched_ayah_text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 90.9090909090909
+  },
+  {
+    "segment_id": 5,
+    "start_seconds": 47.92,
+    "end_seconds": 51.28,
+    "start_time": "00:47",
+    "end_time": "00:51",
+    "segment_text": " كذبت ثمود من طغواء",
+    "matched_ayah_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+    "matched_ayah_id": null,
+    "score": 75.67567567567568
+  },
+  {
+    "segment_id": 6,
+    "start_seconds": 51.28,
+    "end_seconds": 54.32,
+    "start_time": "00:51",
+    "end_time": "00:54",
+    "segment_text": " إذ انبعث أشقا",
+    "matched_ayah_text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+    "matched_ayah_id": null,
+    "score": 80.0
+  },
+  {
+    "segment_id": 7,
+    "start_seconds": 54.32,
+    "end_seconds": 57.28,
+    "start_time": "00:54",
+    "end_time": "00:57",
+    "segment_text": " فقال لهم رسول الله",
+    "matched_ayah_text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+    "matched_ayah_id": null,
+    "score": 66.66666666666667
+  },
+  {
+    "segment_id": 8,
+    "start_seconds": 57.44,
+    "end_seconds": 60.480000000000004,
+    "start_time": "00:57",
+    "end_time": "01:00",
+    "segment_text": " وناقة الله وسقيا",
+    "matched_ayah_text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+    "matched_ayah_id": null,
+    "score": 57.692307692307686
+  },
+  {
+    "segment_id": 9,
+    "start_seconds": 60.480000000000004,
+    "end_seconds": 62.72,
+    "start_time": "01:00",
+    "end_time": "01:02",
+    "segment_text": " فكذبوه",
+    "matched_ayah_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+    "matched_ayah_id": null,
+    "score": 40.0
+  },
+  {
+    "segment_id": 10,
+    "start_seconds": 62.72,
+    "end_seconds": 66.48,
+    "start_time": "01:02",
+    "end_time": "01:06",
+    "segment_text": " فكذبوه فعقروها",
+    "matched_ayah_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+    "matched_ayah_id": null,
+    "score": 48.484848484848484
+  },
+  {
+    "segment_id": 11,
+    "start_seconds": 66.48,
+    "end_seconds": 70.24000000000001,
+    "start_time": "01:06",
+    "end_time": "01:10",
+    "segment_text": " فدمدم عليهم ربهم",
+    "matched_ayah_text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 50.79365079365079
+  },
+  {
+    "segment_id": 12,
+    "start_seconds": 70.24000000000001,
+    "end_seconds": 74.32,
+    "start_time": "01:10",
+    "end_time": "01:14",
+    "segment_text": " بذنبهم فسوها",
+    "matched_ayah_text": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+    "matched_ayah_id": null,
+    "score": 51.85185185185186
+  },
+  {
+    "segment_id": 13,
+    "start_seconds": 74.32,
+    "end_seconds": 78.24000000000001,
+    "start_time": "01:14",
+    "end_time": "01:18",
+    "segment_text": " فلا يخاف القبا",
+    "matched_ayah_text": "وَلَا يَخَافُ عُقْبَـٰهَا",
+    "matched_ayah_id": null,
+    "score": 75.86206896551724
+  }
+]

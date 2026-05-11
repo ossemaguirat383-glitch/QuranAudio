@@ -1,0 +1,366 @@
+{
+  "surah": 89,
+  "ayahs": [
+    {
+      "ayah": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "start": 0.08,
+      "end": 5.54,
+      "matched_text": "بسم الله الرحمن الرحيم والفجر",
+      "confidence": 1,
+      "matched_word_indices": [
+        0,
+        4
+      ]
+    },
+    {
+      "ayah": 2,
+      "text": "وَلَيَالٍ عَشْرٍ",
+      "start": 5.54,
+      "end": 7.12,
+      "matched_text": "واليال عشر",
+      "confidence": 1,
+      "matched_word_indices": [
+        5,
+        6
+      ]
+    },
+    {
+      "ayah": 3,
+      "text": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "start": 7.12,
+      "end": 9.18,
+      "matched_text": "والشفع والوتر",
+      "confidence": 1,
+      "matched_word_indices": [
+        7,
+        8
+      ]
+    },
+    {
+      "ayah": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "start": 9.18,
+      "end": 12,
+      "matched_text": "والليل إذا يسر",
+      "confidence": 1,
+      "matched_word_indices": [
+        9,
+        11
+      ]
+    },
+    {
+      "ayah": 5,
+      "text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "start": 12.62,
+      "end": 16.84,
+      "matched_text": "هل في ذلك قسم لذي حجر",
+      "confidence": 1,
+      "matched_word_indices": [
+        12,
+        17
+      ]
+    },
+    {
+      "ayah": 6,
+      "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "start": 16.84,
+      "end": 21.18,
+      "matched_text": "ألم تر كيف فعل ربك بعاد",
+      "confidence": 1,
+      "matched_word_indices": [
+        18,
+        23
+      ]
+    },
+    {
+      "ayah": 7,
+      "text": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "start": 21.76,
+      "end": 24.52,
+      "matched_text": "إرم ذات العماد",
+      "confidence": 1,
+      "matched_word_indices": [
+        24,
+        26
+      ]
+    },
+    {
+      "ayah": 8,
+      "text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "start": 25.24,
+      "end": 29.72,
+      "matched_text": "التي لم يخلق مثلها في البلاد",
+      "confidence": 1,
+      "matched_word_indices": [
+        28,
+        33
+      ]
+    },
+    {
+      "ayah": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "start": 30.86,
+      "end": 34.8,
+      "matched_text": "وفمود الذين جابوا الصخر بالواد",
+      "confidence": 1,
+      "matched_word_indices": [
+        35,
+        39
+      ]
+    },
+    {
+      "ayah": 10,
+      "text": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "start": 35.46,
+      "end": 38.04,
+      "matched_text": "وفرعون ذلوتاد",
+      "confidence": 0.667,
+      "matched_word_indices": [
+        41,
+        42
+      ]
+    },
+    {
+      "ayah": 11,
+      "text": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "start": 38.84,
+      "end": 41.82,
+      "matched_text": "الذين طغوا في البلاد",
+      "confidence": 1,
+      "matched_word_indices": [
+        44,
+        47
+      ]
+    },
+    {
+      "ayah": 12,
+      "text": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "start": 42.52,
+      "end": 45.66,
+      "matched_text": "فأكفروا فيها الفساد",
+      "confidence": 1,
+      "matched_word_indices": [
+        49,
+        51
+      ]
+    },
+    {
+      "ayah": 13,
+      "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "start": 46.36,
+      "end": 50.46,
+      "matched_text": "فصب عليهم ربك سوط عذاب",
+      "confidence": 1,
+      "matched_word_indices": [
+        53,
+        57
+      ]
+    },
+    {
+      "ayah": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "start": 50.46,
+      "end": 54.88,
+      "matched_text": "إن ربك لبلمرصاد",
+      "confidence": 1,
+      "matched_word_indices": [
+        58,
+        60
+      ]
+    },
+    {
+      "ayah": 15,
+      "text": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "start": 54.88,
+      "end": 67,
+      "matched_text": "فأم لنسان إذا مبتله ربه فأكرمه ونعمه فيقول ربي أكرم",
+      "confidence": 0.909,
+      "matched_word_indices": [
+        61,
+        70
+      ]
+    },
+    {
+      "ayah": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "start": 67,
+      "end": 80.25,
+      "matched_text": "وأما إذا مبتله فقد رع عليه رزقه فيقول ربي أهانا",
+      "confidence": 0.9,
+      "matched_word_indices": [
+        71,
+        80
+      ]
+    },
+    {
+      "ayah": 17,
+      "text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "start": 81.19,
+      "end": 84.93,
+      "matched_text": "كلا بلا تكرمون اليتيم",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        82,
+        85
+      ]
+    },
+    {
+      "ayah": 18,
+      "text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "start": 85.71,
+      "end": 90.21,
+      "matched_text": "ولا تحضون على طعام المسكين",
+      "confidence": 1,
+      "matched_word_indices": [
+        87,
+        91
+      ]
+    },
+    {
+      "ayah": 19,
+      "text": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "start": 90.85,
+      "end": 95.15,
+      "matched_text": "وتاكلون الترى فأكلا لما",
+      "confidence": 1,
+      "matched_word_indices": [
+        93,
+        96
+      ]
+    },
+    {
+      "ayah": 20,
+      "text": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "start": 95.15,
+      "end": 100.65,
+      "matched_text": "وتحبون المال حبا جما",
+      "confidence": 1,
+      "matched_word_indices": [
+        97,
+        100
+      ]
+    },
+    {
+      "ayah": 21,
+      "text": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "start": 101.83,
+      "end": 109.41,
+      "matched_text": "كلا إذا دكت لرب دكا دكا",
+      "confidence": 0.833,
+      "matched_word_indices": [
+        102,
+        107
+      ]
+    },
+    {
+      "ayah": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "start": 110.55,
+      "end": 118.06,
+      "matched_text": "وجاء الملك صفا صفا",
+      "confidence": 0.8,
+      "matched_word_indices": [
+        109,
+        112
+      ]
+    },
+    {
+      "ayah": 23,
+      "text": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "start": 118.78,
+      "end": 132.65,
+      "matched_text": "وجئ يومئذ بجهنم 7. يومئذ يتذكر لنسان وأنا له الذكرى",
+      "confidence": 1,
+      "matched_word_indices": [
+        114,
+        123
+      ]
+    },
+    {
+      "ayah": 24,
+      "text": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "start": 133.37,
+      "end": 137.67,
+      "matched_text": "يقول يا ليتني قدمت لحياتي",
+      "confidence": 1,
+      "matched_word_indices": [
+        125,
+        129
+      ]
+    },
+    {
+      "ayah": 25,
+      "text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "start": 138.71,
+      "end": 145.39,
+      "matched_text": "فيومئذ لا يعذب عذابه أحد",
+      "confidence": 1,
+      "matched_word_indices": [
+        131,
+        135
+      ]
+    },
+    {
+      "ayah": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "start": 146.39,
+      "end": 152.1,
+      "matched_text": "ولا يُفق وفاقه أحد",
+      "confidence": 1,
+      "matched_word_indices": [
+        137,
+        140
+      ]
+    },
+    {
+      "ayah": 27,
+      "text": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "start": 156.36,
+      "end": 160.16,
+      "matched_text": "بيتها النفس المطمئن",
+      "confidence": 1,
+      "matched_word_indices": [
+        143,
+        145
+      ]
+    },
+    {
+      "ayah": 28,
+      "text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "start": 161.08,
+      "end": 168.39,
+      "matched_text": "إرجع إلى ربك راضية مرضية",
+      "confidence": 1,
+      "matched_word_indices": [
+        147,
+        151
+      ]
+    },
+    {
+      "ayah": 29,
+      "text": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "start": 169.31,
+      "end": 171.45,
+      "matched_text": "فدخلي في عباد",
+      "confidence": 1,
+      "matched_word_indices": [
+        153,
+        155
+      ]
+    },
+    {
+      "ayah": 30,
+      "text": "وَٱدْخُلِى جَنَّتِى",
+      "start": 171.45,
+      "end": 173.99,
+      "matched_text": "ودخلي جنتي",
+      "confidence": 1,
+      "matched_word_indices": [
+        156,
+        157
+      ]
+    }
+  ],
+  "alignment_score": 109.278
+}

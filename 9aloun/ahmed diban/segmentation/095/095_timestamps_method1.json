@@ -1,0 +1,56 @@
+[
+    {
+        "ayah": 2,
+        "start_seconds": 6.6,
+        "end_seconds": 9.28,
+        "start_time": "00:06",
+        "end_time": "00:09",
+        "text": "وَطُورِ سِينِينَ",
+        "score": 0.77
+    },
+    {
+        "ayah": 3,
+        "start_seconds": 9.28,
+        "end_seconds": 12.12,
+        "start_time": "00:09",
+        "end_time": "00:12",
+        "text": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+        "score": 0.64
+    },
+    {
+        "ayah": 4,
+        "start_seconds": 12.12,
+        "end_seconds": 17.6,
+        "start_time": "00:12",
+        "end_time": "00:17",
+        "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+        "score": 0.67
+    },
+    {
+        "ayah": 5,
+        "start_seconds": 17.6,
+        "end_seconds": 23.48,
+        "start_time": "00:17",
+        "end_time": "00:23",
+        "text": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+        "score": 0.6
+    },
+    {
+        "ayah": 7,
+        "start_seconds": 33.44,
+        "end_seconds": 37.88,
+        "start_time": "00:33",
+        "end_time": "00:37",
+        "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+        "score": 0.69
+    },
+    {
+        "ayah": 8,
+        "start_seconds": 37.88,
+        "end_seconds": 44.4,
+        "start_time": "00:37",
+        "end_time": "00:44",
+        "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+        "score": 0.64
+    }
+]
